@@ -1,0 +1,6 @@
+task_id,low,n,n_unanswerable,auroc_max_sim_predicts_unanswerable
+task_10,Conditional Interaction,100,50,0.4784
+task_11,Conditional Interaction,84,38,0.5137299771167048
+task_22,Spatial Relationship,96,84,0.47817460317460314
+task_30,Room Visitation,100,100,
+task_4,Interaction,100,9,0.39438339438339437

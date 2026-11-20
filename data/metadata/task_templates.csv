@@ -1,0 +1,61 @@
+task_id,high_level_category,low_level_category,question
+task_1,Single-Goal Spatial Tasks,Object Recall,The robot's goal is: Navigate to a tape.
+task_2,Single-Goal Spatial Tasks,Object Recall,The robot's goal is: Navigate to a stool.
+task_3,Single-Goal Spatial Tasks,Interaction,The robot's goal is: Navigate to any receptacle you interacted with.
+task_4,Single-Goal Spatial Tasks,Interaction,The robot's goal is: Navigate to any receptacle you did not interact with.
+task_5,Single-Goal Spatial Tasks,Interaction,The robot's goal is: Navigate to any object that you interacted with yesterday.
+task_6,Single-Goal Spatial Tasks,Interaction,The robot's goal is: Navigate to any object that you did not interact with yesterday.
+task_7,Single-Goal Spatial Tasks,Interaction,The robot's goal is: Navigate to any receptacle you picked an object from.
+task_8,Single-Goal Spatial Tasks,Interaction,The robot's goal is: Navigate to any receptacle you placed an object on.
+task_9,Single-Goal Spatial Tasks,Conditional Interaction,The robot's goal is: Navigate to the android figure that you interacted with yesterday.
+task_10,Single-Goal Spatial Tasks,Conditional Interaction,The robot's goal is: Navigate to a tape that you did not interact with yesterday.
+task_11,Single-Goal Spatial Tasks,Conditional Interaction,The robot's goal is: Navigate to a chair you did not interact with yesterday.
+task_12,Single-Goal Spatial Tasks,Conditional Interaction,The robot's goal is: Navigate to a chair you picked an object from.
+task_13,Single-Goal Spatial Tasks,Conditional Interaction,The robot's goal is: Navigate to a table you placed an object on.
+task_14,Single-Goal Spatial Tasks,Conditional Interaction,The robot's goal is: Navigate to the receptacle that you picked the tape from.
+task_15,Single-Goal Spatial Tasks,Conditional Interaction,The robot's goal is: Navigate to the object that you picked from the chair.
+task_16,Single-Goal Spatial Tasks,Object Attributes,The robot's goal is: Navigate to a cylindrical shaped object that you interacted with yesterday.
+task_17,Single-Goal Spatial Tasks,Object Attributes,The robot's goal is: Navigate to a purple colored object again that you interacted with yesterday.
+task_18,Single-Goal Spatial Tasks,Object Attributes,The robot's goal is: Navigate to an interacted object with label on it.
+task_19,Single-Goal Spatial Tasks,Object Attributes,The robot's goal is: Navigate to an already interacted object that is made of paper.
+task_20,Single-Goal Spatial Tasks,Object Attributes,The robot's goal is: Navigate to an object that is used for decoration that you interacted with yesterday.
+task_21,Single-Goal Spatial Tasks,Spatial Relationship,The robot's goal is: Navigate to the receptacle that you interacted with which is the farthest from your current location.
+task_22,Single-Goal Spatial Tasks,Spatial Relationship,The robot's goal is: Navigate to the receptacle that you did not interact with which is the farthest from your current location.
+task_23,Single-Goal Spatial Tasks,Spatial Relationship,The robot's goal is: Navigate to the receptacle that you picked an object from which is the farthest from your current location.
+task_24,Single-Goal Spatial Tasks,Spatial Relationship,The robot's goal is: Navigate to the receptacle that you placed an object on which is the farthest from your current location.
+task_25,Single-Goal Spatial Tasks,Spatial Relationship,The robot's goal is: Navigate to the object which you interacted with which is the farthest from your current location.
+task_26,Single-Goal Spatial Tasks,Room Visitation,The robot's goal is: Navigate to the room where you picked the second object from.
+task_27,Single-Goal Spatial Tasks,Room Visitation,The robot's goal is: Navigate to the room where you placed the second object in.
+task_28,Single-Goal Spatial Tasks,Room Visitation,The robot's goal is: Navigate to the room where you picked the tape from.
+task_29,Single-Goal Spatial Tasks,Room Visitation,The robot's goal is: Navigate to the room where you placed the tape in.
+task_30,Single-Goal Spatial Tasks,Room Visitation,The robot's goal is: Navigate to a room that you did not visit yesterday.
+task_31,Single-Goal Temporal Tasks,Interaction Order,The robot's goal is: Navigate to the second object that you interacted with yesterday.
+task_32,Single-Goal Temporal Tasks,Interaction Order,The robot's goal is: Navigate to the first receptacle that you picked an object from.
+task_33,Single-Goal Temporal Tasks,Interaction Order,The robot's goal is: Navigate to the first receptacle that you placed an object on.
+task_34,Single-Goal Temporal Tasks,Interaction Order,The robot's goal is: Navigate to the receptacle that you picked the first object from.
+task_35,Single-Goal Temporal Tasks,Interaction Order,The robot's goal is: Navigate to the object that you picked from the first receptacle.
+task_36,Single-Goal Temporal Tasks,Interaction Order,The robot's goal is: Navigate to the object you interacted with immediately after ending the interaction with android figure.
+task_37,Single-Goal Temporal Tasks,Interaction Order,The robot's goal is: Navigate to the object you interacted with immediately before starting the interaction with tape.
+task_38,Single-Goal Temporal Tasks,Interaction Order,The robot's goal is: Navigate to the object you interacted with 2 interactions after ending the interaction with ladle.
+task_39,Single-Goal Temporal Tasks,Interaction Order,The robot's goal is: Navigate to the object you interacted with 2 interactions before starting the interaction with box.
+task_40,Single-Goal Temporal Tasks,Interaction Order,The robot's goal is: Navigate to the object that you interacted with between the interactions with ladle and box.
+task_41,Single-Goal Temporal Tasks,Interaction Order,The robot's goal is: Navigate to the receptacle that you placed an object on right before you started interacting with tape.
+task_42,Single-Goal Temporal Tasks,Interaction Order,The robot's goal is: Navigate to the receptacle that you picked an object from right after you finished interacting with android figure.
+task_43,Single-Goal Temporal Tasks,Interaction Order,The robot's goal is: Navigate to the receptacle that you placed an object on 2 interactions before you started interacting with box.
+task_44,Single-Goal Temporal Tasks,Interaction Order,The robot's goal is: Navigate to the receptacle that you picked an object from 2 interactions after you finished interacting with ladle.
+task_45,Single-Goal Temporal Tasks,Interaction Order,The robot's goal is: Navigate to the receptacle that you placed an object on between the interactions with ladle and box.
+task_46,Single-Goal Temporal Tasks,Interaction Order,The robot's goal is: Navigate to the receptacle that you picked an object from between the interactions with ladle and box.
+task_47,Single-Goal Temporal Tasks,Time-Based,The robot's goal is: Navigate to the receptacle that you interacted with at 7:12 yesterday.
+task_48,Single-Goal Temporal Tasks,Time-Based,The robot's goal is: Navigate to the object that you interacted with at 7:21 yesterday.
+task_49,Single-Goal Temporal Tasks,Duration Tracking,The robot's goal is: Navigate to to the object which took the longest time to rearrange.
+task_50,Single-Goal Temporal Tasks,Duration Tracking,The robot's goal is: Navigate to to the room that you spent most time in.
+task_51,Single-Goal Temporal Tasks,Duration Tracking,The robot's goal is: Navigate to to the object which took the shortest time to rearrange.
+task_52,Multi-Goal Tasks,Unordered Revisitation,The robot's goal is: Revisit all the receptacles you picked objects from yesterday.
+task_53,Multi-Goal Tasks,Unordered Revisitation,The robot's goal is: Revisit all the receptacles you placed objects on yesterday.
+task_54,Multi-Goal Tasks,Unordered Revisitation,The robot's goal is: Revisit all the table you placed objects on yesterday.
+task_55,Multi-Goal Tasks,Unordered Revisitation,The robot's goal is: Revisit all the table you picked objects from yesterday.
+task_56,Multi-Goal Tasks,Unordered Revisitation,The robot's goal is: Revisit all the objects you interacted with yesterday.
+task_57,Multi-Goal Tasks,Unordered Revisitation,The robot's goal is: Revisit all the receptacles you interacted with yesterday.
+task_58,Multi-Goal Tasks,Ordered Revisitation,"The robot's goal is: Revisit all the receptacles you picked objects from yesterday in specific order. The order to revisit them is: first, second."
+task_59,Multi-Goal Tasks,Ordered Revisitation,"The robot's goal is: Revisit all the receptacles you placed objects on yesterday in specific order. The order to revisit them is: second, first."
+task_60,Multi-Goal Tasks,Ordered Revisitation,"The robot's goal is: Revisit all the objects you interacted with yesterday in specific order. The order to revisit them is: second, first."

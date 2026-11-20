@@ -1,0 +1,9 @@
+.venv/
+data/raw/
+data/cache/
+external/
+__pycache__/
+*.pyc
+.pytest_cache/
+*.part
+logs/

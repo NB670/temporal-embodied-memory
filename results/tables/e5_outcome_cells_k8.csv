@@ -1,0 +1,5 @@
+cell,n,frac
+semantic_fails_tnr_succeeds,92,0.01910299003322259
+tnr_fails_semantic_succeeds,652,0.13538205980066445
+both_fail,1664,0.34551495016611294
+both_succeed,2408,0.5

@@ -1,0 +1,8 @@
+method,n_segments,stat,gain
+random,7.415907059874888,n_segments_k8,
+semantic,6.677747989276139,n_segments_k8,
+semantic_generic,6.675067024128686,n_segments_k8,
+tnr,3.379982126899017,n_segments_k8,
+uniform,8.0,n_segments_k8,
+semantic,,gain_slots_5_8,0.15097054261105672
+tnr,,gain_slots_5_8,0.03422554218051774

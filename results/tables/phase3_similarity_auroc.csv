@@ -1,0 +1,1669 @@
+ep_id,high,low,auroc,auroc_mismatched
+ep_2,Single-Goal Temporal Tasks,Interaction Order,0.7831325301204819,0.5477293790546803
+ep_2,Multi-Goal Tasks,Unordered Revisitation,0.6642857142857144,0.510989010989011
+ep_2,Single-Goal Temporal Tasks,Time-Based,0.3194444444444444,0.3591269841269841
+ep_2,Single-Goal Temporal Tasks,Interaction Order,0.8965116279069767,0.780232558139535
+ep_2,Single-Goal Spatial Tasks,Interaction,0.5761670761670762,0.48832923832923836
+ep_2,Multi-Goal Tasks,Ordered Revisitation,0.6160968660968661,0.3603988603988604
+ep_2,Single-Goal Spatial Tasks,Room Visitation,0.4955570745044429,0.4251537935748462
+ep_2,Single-Goal Spatial Tasks,Conditional Interaction,0.5334757834757835,0.5876068376068376
+ep_2,Single-Goal Spatial Tasks,Object Attributes,0.7946428571428572,0.6666666666666666
+ep_2,Single-Goal Spatial Tasks,Object Attributes,0.8353174603174602,0.33630952380952384
+ep_2,Single-Goal Temporal Tasks,Interaction Order,0.3283730158730158,0.3779761904761906
+ep_2,Single-Goal Temporal Tasks,Duration Tracking,0.8488372093023255,0.4790697674418605
+ep_2,Single-Goal Temporal Tasks,Interaction Order,0.822093023255814,0.8093023255813955
+ep_2,Single-Goal Spatial Tasks,Conditional Interaction,0.5785714285714286,0.793956043956044
+ep_2,Single-Goal Spatial Tasks,Object Attributes,0.9604651162790698,0.5023255813953489
+ep_2,Single-Goal Spatial Tasks,Spatial Relationship,0.5240641711229946,0.548663101604278
+ep_2,Single-Goal Spatial Tasks,Object Attributes,0.777906976744186,0.8802325581395349
+ep_2,Single-Goal Temporal Tasks,Interaction Order,0.625668449197861,0.6032085561497326
+ep_2,Single-Goal Temporal Tasks,Duration Tracking,0.4306640625,0.50048828125
+ep_2,Multi-Goal Tasks,Unordered Revisitation,0.6232193732193732,0.4487179487179488
+ep_2,Single-Goal Temporal Tasks,Interaction Order,0.3515248796147673,0.5152487961476726
+ep_2,Single-Goal Spatial Tasks,Interaction,0.513548951048951,0.4807692307692307
+ep_2,Single-Goal Spatial Tasks,Object Recall,0.8988095238095238,0.7668650793650793
+ep_2,Single-Goal Spatial Tasks,Interaction,0.6467391304347826,0.4592391304347826
+ep_2,Multi-Goal Tasks,Unordered Revisitation,0.48280098280098277,0.6824324324324323
+ep_2,Single-Goal Spatial Tasks,Room Visitation,0.5598684210526316,0.37368421052631573
+ep_2,Single-Goal Spatial Tasks,Spatial Relationship,0.49490268767377193,0.7618164967562558
+ep_2,Single-Goal Temporal Tasks,Interaction Order,0.3591269841269841,0.5793650793650793
+ep_2,Multi-Goal Tasks,Ordered Revisitation,0.7076923076923077,0.5412087912087913
+ep_2,Single-Goal Spatial Tasks,Conditional Interaction,0.48832923832923836,0.8003685503685504
+ep_2,Single-Goal Spatial Tasks,Spatial Relationship,0.2767857142857143,0.3859126984126984
+ep_2,Single-Goal Temporal Tasks,Duration Tracking,0.4444444444444444,0.7509920634920634
+ep_2,Single-Goal Spatial Tasks,Interaction,0.5876068376068376,0.2884615384615385
+ep_2,Single-Goal Temporal Tasks,Time-Based,0.5379679144385027,0.6106951871657754
+ep_2,Single-Goal Temporal Tasks,Interaction Order,0.4975922953451043,0.5601926163723916
+ep_2,Multi-Goal Tasks,Unordered Revisitation,0.5252747252747253,0.820879120879121
+ep_2,Single-Goal Spatial Tasks,Room Visitation,0.65380859375,0.494140625
+ep_2,Single-Goal Spatial Tasks,Interaction,0.793956043956044,0.6906593406593406
+ep_2,Multi-Goal Tasks,Unordered Revisitation,0.6673951048951048,0.5808566433566434
+ep_2,Single-Goal Spatial Tasks,Object Recall,0.5056980056980056,0.6068376068376067
+ep_2,Single-Goal Temporal Tasks,Interaction Order,0.7886932344763672,0.8239110287303059
+ep_2,Single-Goal Spatial Tasks,Interaction,0.17021276595744683,0.44680851063829785
+ep_2,Multi-Goal Tasks,Unordered Revisitation,0.5648148148148149,0.561965811965812
+ep_2,Single-Goal Spatial Tasks,Room Visitation,0.537109375,0.4306640625
+ep_2,Single-Goal Spatial Tasks,Conditional Interaction,0.8639534883720931,0.7523255813953488
+ep_2,Multi-Goal Tasks,Ordered Revisitation,0.4416461916461916,0.6996314496314496
+ep_2,Single-Goal Spatial Tasks,Object Attributes,0.7767441860465115,0.3081395348837209
+ep_2,Single-Goal Spatial Tasks,Conditional Interaction,0.7016042780748664,0.5486631016042781
+ep_2,Single-Goal Spatial Tasks,Spatial Relationship,0.4911955514365153,0.4958294717330862
+ep_4,Single-Goal Spatial Tasks,Room Visitation,0.5138173302107728,0.4749414519906323
+ep_4,Single-Goal Spatial Tasks,Interaction,0.5441269841269841,0.7396825396825396
+ep_4,Multi-Goal Tasks,Unordered Revisitation,0.7575938058368077,0.7546158427635498
+ep_4,Multi-Goal Tasks,Unordered Revisitation,0.5996292863762744,0.7562557924003708
+ep_4,Single-Goal Temporal Tasks,Interaction Order,0.7537037037037038,0.7962962962962963
+ep_4,Single-Goal Spatial Tasks,Interaction,0.6678571428571429,0.6308035714285715
+ep_4,Single-Goal Temporal Tasks,Duration Tracking,0.44402810304449647,0.43793911007025765
+ep_4,Single-Goal Temporal Tasks,Interaction Order,0.737037037037037,0.5722222222222222
+ep_4,Single-Goal Spatial Tasks,Object Attributes,0.5647058823529412,0.4374331550802139
+ep_4,Single-Goal Spatial Tasks,Conditional Interaction,0.8523274478330658,0.4333868378812199
+ep_4,Single-Goal Spatial Tasks,Object Attributes,0.8690476190476191,0.8442460317460317
+ep_4,Single-Goal Spatial Tasks,Spatial Relationship,0.674074074074074,0.7740740740740741
+ep_4,Single-Goal Temporal Tasks,Duration Tracking,0.6964285714285714,0.9156746031746033
+ep_4,Single-Goal Temporal Tasks,Interaction Order,0.8511904761904763,0.47718253968253965
+ep_4,Single-Goal Temporal Tasks,Interaction Order,0.5433155080213904,0.6042780748663101
+ep_4,Single-Goal Spatial Tasks,Conditional Interaction,0.6639828234031132,0.6274825550187869
+ep_4,Single-Goal Spatial Tasks,Object Attributes,0.6780748663101605,0.6459893048128342
+ep_4,Single-Goal Spatial Tasks,Room Visitation,0.5784543325526932,0.49508196721311465
+ep_4,Single-Goal Spatial Tasks,Interaction,0.7552114353782012,0.7558070279928529
+ep_4,Multi-Goal Tasks,Ordered Revisitation,0.6413345690454124,0.4531974050046339
+ep_4,Single-Goal Spatial Tasks,Object Recall,0.5436507936507936,0.5863095238095237
+ep_4,Single-Goal Temporal Tasks,Interaction Order,0.8581349206349207,0.7688492063492063
+ep_4,Single-Goal Temporal Tasks,Interaction Order,0.8231707317073171,0.6724738675958187
+ep_4,Multi-Goal Tasks,Unordered Revisitation,0.738593666129898,0.5582393988191089
+ep_4,Single-Goal Temporal Tasks,Time-Based,0.4812834224598931,0.28342245989304815
+ep_4,Single-Goal Spatial Tasks,Spatial Relationship,0.39202965708989806,0.3271547729379055
+ep_4,Multi-Goal Tasks,Ordered Revisitation,0.7635497319833234,0.741512805241215
+ep_4,Single-Goal Spatial Tasks,Object Attributes,0.9404761904761905,0.8621031746031745
+ep_4,Single-Goal Spatial Tasks,Conditional Interaction,0.8025682182985554,0.5329052969502408
+ep_4,Single-Goal Spatial Tasks,Room Visitation,0.48128342245989303,0.5379679144385028
+ep_4,Single-Goal Spatial Tasks,Conditional Interaction,0.2421052631578947,0.6526315789473685
+ep_4,Single-Goal Spatial Tasks,Interaction,0.6000000000000001,0.5934065934065934
+ep_4,Multi-Goal Tasks,Unordered Revisitation,0.6998394863563403,0.5682182985553772
+ep_4,Single-Goal Temporal Tasks,Interaction Order,0.843205574912892,0.8928571428571429
+ep_4,Single-Goal Spatial Tasks,Interaction,0.7187332259796029,0.5684380032206119
+ep_4,Multi-Goal Tasks,Unordered Revisitation,0.7473214285714285,0.7098214285714285
+ep_4,Single-Goal Spatial Tasks,Room Visitation,0.6196969696969697,0.544949494949495
+ep_4,Single-Goal Spatial Tasks,Conditional Interaction,0.9156746031746033,0.6964285714285714
+ep_4,Multi-Goal Tasks,Unordered Revisitation,0.7117552334943639,0.654320987654321
+ep_4,Single-Goal Spatial Tasks,Object Recall,0.9740740740740741,0.9240740740740742
+ep_4,Single-Goal Temporal Tasks,Interaction Order,0.5345104333868379,0.5152487961476726
+ep_4,Single-Goal Spatial Tasks,Interaction,0.561631139944393,0.49026876737720115
+ep_4,Single-Goal Temporal Tasks,Time-Based,0.8048780487804879,0.6750871080139372
+ep_4,Single-Goal Temporal Tasks,Duration Tracking,0.6631016042780749,0.5048128342245989
+ep_4,Single-Goal Spatial Tasks,Spatial Relationship,0.3625668449197861,0.8898395721925133
+ep_4,Single-Goal Temporal Tasks,Interaction Order,0.611764705882353,0.5689839572192514
+ep_4,Multi-Goal Tasks,Ordered Revisitation,0.7879763821792807,0.6704240472356414
+ep_4,Single-Goal Spatial Tasks,Conditional Interaction,0.6951871657754011,0.5229946524064171
+ep_4,Single-Goal Spatial Tasks,Spatial Relationship,0.3373493975903614,0.6626506024096386
+ep_8,Single-Goal Spatial Tasks,Room Visitation,0.23515624999999996,0.328125
+ep_8,Single-Goal Spatial Tasks,Interaction,0.40253968253968253,0.5199999999999999
+ep_8,Multi-Goal Tasks,Unordered Revisitation,0.45454545454545453,0.202323991797676
+ep_8,Multi-Goal Tasks,Unordered Revisitation,0.8392857142857143,0.8045634920634921
+ep_8,Single-Goal Temporal Tasks,Interaction Order,0.8703703703703705,0.8222222222222222
+ep_8,Single-Goal Spatial Tasks,Interaction,0.3972222222222222,0.4819444444444444
+ep_8,Single-Goal Temporal Tasks,Duration Tracking,0.5732009925558312,0.4332506203473945
+ep_8,Single-Goal Temporal Tasks,Interaction Order,0.7222222222222222,0.6129629629629629
+ep_8,Single-Goal Spatial Tasks,Conditional Interaction,0.5887611749680716,0.842911877394636
+ep_8,Single-Goal Spatial Tasks,Object Attributes,0.6538952745849297,0.3448275862068966
+ep_8,Single-Goal Spatial Tasks,Object Recall,0.5816953316953317,0.4563882063882064
+ep_8,Single-Goal Spatial Tasks,Object Attributes,0.7965116279069767,0.37209302325581395
+ep_8,Single-Goal Spatial Tasks,Spatial Relationship,0.6351851851851852,0.7888888888888889
+ep_8,Single-Goal Temporal Tasks,Duration Tracking,0.334610472541507,0.913154533844189
+ep_8,Single-Goal Temporal Tasks,Interaction Order,0.7720930232558141,0.6790697674418604
+ep_8,Single-Goal Temporal Tasks,Interaction Order,0.41379310344827586,0.1839080459770115
+ep_8,Single-Goal Spatial Tasks,Conditional Interaction,0.5491698595146871,0.334610472541507
+ep_8,Single-Goal Spatial Tasks,Object Attributes,0.8,0.31744186046511624
+ep_8,Single-Goal Spatial Tasks,Spatial Relationship,0.547872340425532,0.7393617021276596
+ep_8,Single-Goal Spatial Tasks,Room Visitation,0.4782608695652174,0.488996242619431
+ep_8,Single-Goal Spatial Tasks,Interaction,0.4490772385509228,0.25085440874914555
+ep_8,Multi-Goal Tasks,Ordered Revisitation,0.6994047619047619,0.6964285714285714
+ep_8,Single-Goal Temporal Tasks,Interaction Order,0.32950191570881227,0.41123882503192843
+ep_8,Single-Goal Temporal Tasks,Interaction Order,0.6759581881533101,0.759581881533101
+ep_8,Multi-Goal Tasks,Unordered Revisitation,0.34953703703703703,0.2181712962962963
+ep_8,Single-Goal Temporal Tasks,Time-Based,0.37420178799489145,0.10727969348659003
+ep_8,Single-Goal Spatial Tasks,Spatial Relationship,0.2770034843205575,0.36411149825783967
+ep_8,Multi-Goal Tasks,Ordered Revisitation,0.4647983595352016,0.44907723855092274
+ep_8,Single-Goal Spatial Tasks,Object Attributes,0.2234993614303959,0.34355044699872284
+ep_8,Single-Goal Spatial Tasks,Conditional Interaction,0.6296296296296297,0.6814814814814815
+ep_8,Single-Goal Spatial Tasks,Object Recall,0.8674418604651164,0.7581395348837209
+ep_8,Single-Goal Spatial Tasks,Room Visitation,0.548040794417606,0.5942028985507246
+ep_8,Single-Goal Spatial Tasks,Interaction,0.6255792400370714,0.5254865616311399
+ep_8,Multi-Goal Tasks,Unordered Revisitation,0.7876984126984127,0.7916666666666667
+ep_8,Single-Goal Spatial Tasks,Conditional Interaction,0.8023255813953489,0.6197674418604651
+ep_8,Single-Goal Temporal Tasks,Interaction Order,0.3806620209059233,0.6707317073170732
+ep_8,Single-Goal Spatial Tasks,Interaction,0.27083333333333337,0.4554398148148148
+ep_8,Multi-Goal Tasks,Unordered Revisitation,0.5430555555555556,0.6162037037037036
+ep_8,Single-Goal Spatial Tasks,Room Visitation,0.6555831265508685,0.4163771712158809
+ep_8,Single-Goal Spatial Tasks,Conditional Interaction,0.6,0.9052631578947369
+ep_8,Multi-Goal Tasks,Unordered Revisitation,0.6576655052264808,0.7012195121951219
+ep_8,Single-Goal Spatial Tasks,Conditional Interaction,0.7728174603174603,0.5208333333333334
+ep_8,Single-Goal Temporal Tasks,Interaction Order,0.7388888888888888,0.7981481481481482
+ep_8,Single-Goal Spatial Tasks,Interaction,0.7926587301587301,0.6686507936507937
+ep_8,Single-Goal Temporal Tasks,Time-Based,0.40581395348837207,0.2697674418604651
+ep_8,Single-Goal Temporal Tasks,Duration Tracking,0.4430232558139535,0.23953488372093024
+ep_8,Single-Goal Spatial Tasks,Spatial Relationship,0.23372093023255813,0.5232558139534884
+ep_8,Single-Goal Temporal Tasks,Interaction Order,0.31545338441890164,0.632183908045977
+ep_8,Multi-Goal Tasks,Ordered Revisitation,0.39641203703703703,0.34375
+ep_8,Single-Goal Spatial Tasks,Conditional Interaction,0.47846889952153115,0.49282296650717705
+ep_8,Single-Goal Spatial Tasks,Spatial Relationship,0.5981481481481481,0.7444444444444445
+ep_13,Single-Goal Temporal Tasks,Interaction Order,0.5706521739130435,0.7309782608695652
+ep_13,Single-Goal Spatial Tasks,Conditional Interaction,0.6820652173913043,0.6331521739130435
+ep_13,Multi-Goal Tasks,Ordered Revisitation,0.6589724497393894,0.3827252419955324
+ep_13,Single-Goal Spatial Tasks,Object Attributes,0.7907407407407407,0.825925925925926
+ep_13,Single-Goal Temporal Tasks,Interaction Order,0.6373626373626373,0.7450549450549451
+ep_13,Single-Goal Spatial Tasks,Spatial Relationship,0.37926136363636365,0.5809659090909092
+ep_13,Single-Goal Temporal Tasks,Interaction Order,0.5582386363636365,0.9133522727272727
+ep_13,Multi-Goal Tasks,Unordered Revisitation,0.787962962962963,0.6671296296296296
+ep_13,Single-Goal Spatial Tasks,Interaction,0.75,0.6498842592592593
+ep_13,Single-Goal Spatial Tasks,Room Visitation,0.31781701444622795,0.4975922953451043
+ep_13,Single-Goal Spatial Tasks,Conditional Interaction,0.9646739130434783,0.9021739130434783
+ep_13,Multi-Goal Tasks,Unordered Revisitation,0.8668478260869565,0.3288043478260869
+ep_13,Single-Goal Spatial Tasks,Interaction,0.7978021978021979,0.8307692307692307
+ep_13,Single-Goal Temporal Tasks,Interaction Order,0.7092391304347826,0.9266304347826086
+ep_13,Single-Goal Temporal Tasks,Time-Based,0.8695652173913043,0.75
+ep_13,Single-Goal Spatial Tasks,Interaction,0.7966269841269842,0.7579365079365079
+ep_13,Single-Goal Spatial Tasks,Room Visitation,0.6984029484029484,0.7063882063882063
+ep_13,Single-Goal Spatial Tasks,Conditional Interaction,0.6697674418604651,0.6744186046511629
+ep_13,Multi-Goal Tasks,Unordered Revisitation,0.5930232558139535,0.6209302325581395
+ep_13,Single-Goal Spatial Tasks,Conditional Interaction,0.9010989010989011,0.9274725274725275
+ep_13,Single-Goal Temporal Tasks,Interaction Order,0.5894886363636364,0.7073863636363636
+ep_13,Single-Goal Temporal Tasks,Interaction Order,0.8296296296296296,0.8962962962962963
+ep_13,Multi-Goal Tasks,Ordered Revisitation,0.7233796296296295,0.7094907407407408
+ep_13,Single-Goal Spatial Tasks,Spatial Relationship,0.6358695652173914,0.6059782608695652
+ep_13,Single-Goal Temporal Tasks,Interaction Order,0.6166666666666666,0.6092592592592593
+ep_13,Single-Goal Temporal Tasks,Duration Tracking,0.6241758241758242,0.3912087912087912
+ep_13,Single-Goal Spatial Tasks,Object Recall,0.9106002554278416,0.8939974457215836
+ep_13,Single-Goal Spatial Tasks,Spatial Relationship,0.45370370370370366,0.8259259259259258
+ep_13,Single-Goal Spatial Tasks,Interaction,0.7578703703703704,0.19675925925925924
+ep_13,Multi-Goal Tasks,Unordered Revisitation,0.8125,0.7311507936507937
+ep_13,Single-Goal Temporal Tasks,Interaction Order,0.6331521739130435,0.6820652173913043
+ep_13,Single-Goal Spatial Tasks,Room Visitation,0.5,0.581081081081081
+ep_13,Multi-Goal Tasks,Unordered Revisitation,0.68801191362621,0.842144452717796
+ep_13,Single-Goal Spatial Tasks,Interaction,0.7746679316888045,0.8021821631878557
+ep_13,Single-Goal Temporal Tasks,Interaction Order,0.6666666666666667,0.7481481481481481
+ep_13,Single-Goal Spatial Tasks,Object Attributes,0.8527472527472528,0.8571428571428572
+ep_13,Single-Goal Spatial Tasks,Spatial Relationship,0.8016304347826086,0.7228260869565217
+ep_13,Single-Goal Spatial Tasks,Conditional Interaction,0.7659574468085106,0.7606382978723405
+ep_13,Single-Goal Spatial Tasks,Object Attributes,0.7944444444444445,0.24814814814814815
+ep_13,Single-Goal Temporal Tasks,Interaction Order,0.8296296296296296,0.6481481481481481
+ep_13,Single-Goal Temporal Tasks,Duration Tracking,0.6194310252281267,0.22329575952764355
+ep_13,Single-Goal Temporal Tasks,Interaction Order,0.7336956521739131,0.7255434782608696
+ep_13,Single-Goal Temporal Tasks,Interaction Order,0.8043478260869565,0.7880434782608696
+ep_13,Single-Goal Spatial Tasks,Object Attributes,0.8462962962962962,0.3962962962962963
+ep_13,Single-Goal Spatial Tasks,Conditional Interaction,0.9351851851851851,0.7685185185185185
+ep_13,Single-Goal Spatial Tasks,Object Attributes,0.6759259259259259,0.5259259259259259
+ep_13,Single-Goal Temporal Tasks,Interaction Order,0.7604395604395604,0.810989010989011
+ep_13,Single-Goal Temporal Tasks,Duration Tracking,0.6000000000000001,0.7907407407407407
+ep_13,Single-Goal Spatial Tasks,Object Recall,0.9188034188034189,0.9672364672364673
+ep_13,Single-Goal Temporal Tasks,Interaction Order,0.7351851851851852,0.9259259259259259
+ep_13,Single-Goal Temporal Tasks,Interaction Order,0.4111111111111111,0.8018518518518518
+ep_13,Single-Goal Temporal Tasks,Time-Based,0.8092592592592592,0.7703703703703704
+ep_13,Single-Goal Temporal Tasks,Interaction Order,0.8314814814814815,0.7314814814814814
+ep_13,Multi-Goal Tasks,Unordered Revisitation,0.7037037037037036,0.7042824074074073
+ep_13,Single-Goal Spatial Tasks,Room Visitation,0.5120385232744783,0.46709470304975925
+ep_13,Multi-Goal Tasks,Ordered Revisitation,0.7361111111111112,0.5565476190476191
+ep_13,Single-Goal Spatial Tasks,Interaction,0.7661950856291884,0.533879374534624
+ep_15,Single-Goal Spatial Tasks,Room Visitation,0.5055282555282555,0.6148648648648649
+ep_15,Single-Goal Spatial Tasks,Conditional Interaction,0.5297619047619048,0.18055555555555552
+ep_15,Single-Goal Spatial Tasks,Conditional Interaction,0.5473684210526315,0.09473684210526312
+ep_15,Multi-Goal Tasks,Unordered Revisitation,0.8522930315664086,0.715902322811197
+ep_15,Single-Goal Temporal Tasks,Interaction Order,0.556217423678332,0.5889798957557707
+ep_15,Single-Goal Spatial Tasks,Interaction,0.5651105651105652,0.562039312039312
+ep_15,Single-Goal Temporal Tasks,Time-Based,0.5733432613551749,0.44973938942665675
+ep_15,Single-Goal Spatial Tasks,Object Recall,0.9084766584766585,0.628992628992629
+ep_15,Single-Goal Temporal Tasks,Duration Tracking,0.666279069767442,0.44883720930232557
+ep_15,Single-Goal Temporal Tasks,Interaction Order,0.6807928913192072,0.8092959671907041
+ep_15,Single-Goal Spatial Tasks,Spatial Relationship,0.7170198222829801,0.6766917293233083
+ep_15,Multi-Goal Tasks,Ordered Revisitation,0.6871194379391101,0.7775175644028103
+ep_15,Single-Goal Temporal Tasks,Interaction Order,0.6712235133287765,0.6035543403964456
+ep_15,Single-Goal Temporal Tasks,Interaction Order,0.6432400238237046,0.6593210244192972
+ep_15,Single-Goal Spatial Tasks,Conditional Interaction,0.9125085440874914,0.8045112781954887
+ep_15,Single-Goal Spatial Tasks,Spatial Relationship,0.27252747252747256,0.26153846153846155
+ep_15,Single-Goal Temporal Tasks,Interaction Order,0.6406417112299465,0.562566844919786
+ep_15,Single-Goal Spatial Tasks,Spatial Relationship,0.6867182846932698,0.5658129839189995
+ep_15,Single-Goal Spatial Tasks,Object Attributes,0.7604651162790698,0.563953488372093
+ep_15,Multi-Goal Tasks,Ordered Revisitation,0.48486328125,0.68310546875
+ep_15,Single-Goal Spatial Tasks,Conditional Interaction,0.6656738644825018,0.6217423678332091
+ep_15,Single-Goal Temporal Tasks,Interaction Order,0.5296703296703297,0.3164835164835165
+ep_15,Single-Goal Spatial Tasks,Room Visitation,0.6153846153846154,0.46617238183503246
+ep_15,Single-Goal Spatial Tasks,Conditional Interaction,0.5800446760982875,0.5740878629932986
+ep_15,Single-Goal Spatial Tasks,Interaction,0.6637362637362638,0.7582417582417582
+ep_15,Multi-Goal Tasks,Unordered Revisitation,0.6175824175824176,0.27472527472527475
+ep_15,Single-Goal Temporal Tasks,Interaction Order,0.8278737343656939,0.7349612864800477
+ep_15,Single-Goal Spatial Tasks,Interaction,0.7133489461358314,0.6562060889929743
+ep_15,Multi-Goal Tasks,Unordered Revisitation,0.7278452541610436,0.6617183985605039
+ep_15,Single-Goal Temporal Tasks,Duration Tracking,0.7799043062200957,0.23376623376623373
+ep_15,Single-Goal Spatial Tasks,Object Recall,0.603988603988604,0.512108262108262
+ep_15,Single-Goal Temporal Tasks,Interaction Order,0.7775401069518717,0.5401069518716578
+ep_15,Single-Goal Temporal Tasks,Interaction Order,0.7546138072453862,0.6438824333561175
+ep_15,Single-Goal Temporal Tasks,Interaction Order,0.5889798957557707,0.41250930752047654
+ep_15,Single-Goal Spatial Tasks,Conditional Interaction,0.8705882352941177,0.5016042780748663
+ep_15,Single-Goal Spatial Tasks,Object Attributes,0.7686046511627908,0.8325581395348839
+ep_15,Single-Goal Spatial Tasks,Room Visitation,0.5786240786240786,0.7113022113022114
+ep_15,Single-Goal Spatial Tasks,Interaction,0.712890625,0.669921875
+ep_15,Multi-Goal Tasks,Ordered Revisitation,0.6234643734643736,0.5651105651105651
+ep_15,Single-Goal Temporal Tasks,Interaction Order,0.8284347231715653,0.7170198222829801
+ep_15,Multi-Goal Tasks,Unordered Revisitation,0.6969555035128806,0.6871194379391101
+ep_15,Single-Goal Temporal Tasks,Interaction Order,0.6567460317460317,0.8690476190476191
+ep_15,Single-Goal Temporal Tasks,Time-Based,0.8045112781954887,0.6896787423103212
+ep_15,Single-Goal Spatial Tasks,Room Visitation,0.5755528255528255,0.8341523341523343
+ep_15,Single-Goal Spatial Tasks,Interaction,0.7853901996370236,0.5644283121597097
+ep_15,Multi-Goal Tasks,Unordered Revisitation,0.49951171875,0.76318359375
+ep_15,Single-Goal Temporal Tasks,Interaction Order,0.5428571428571428,0.27692307692307694
+ep_15,Multi-Goal Tasks,Unordered Revisitation,0.6891891891891893,0.4305896805896806
+ep_15,Single-Goal Spatial Tasks,Interaction,0.7121007647323436,0.5461088618983356
+ep_15,Single-Goal Temporal Tasks,Duration Tracking,0.46068796068796064,0.6664619164619164
+ep_15,Single-Goal Temporal Tasks,Interaction Order,0.594186046511628,0.6162790697674418
+ep_15,Single-Goal Temporal Tasks,Interaction Order,0.4835164835164835,0.45714285714285713
+ep_15,Single-Goal Spatial Tasks,Object Attributes,0.8653451811346549,0.7525632262474368
+ep_15,Single-Goal Temporal Tasks,Interaction Order,0.5952380952380952,0.625
+ep_15,Single-Goal Spatial Tasks,Conditional Interaction,0.7315724815724816,0.7819410319410319
+ep_15,Single-Goal Spatial Tasks,Object Attributes,0.7978609625668449,0.509090909090909
+ep_15,Single-Goal Spatial Tasks,Spatial Relationship,0.389010989010989,0.34285714285714286
+ep_19,Single-Goal Spatial Tasks,Room Visitation,0.42215088282504015,0.608346709470305
+ep_19,Single-Goal Spatial Tasks,Interaction,0.6426229508196721,0.7873536299765808
+ep_19,Multi-Goal Tasks,Ordered Revisitation,0.7266344888108821,0.5484861781483106
+ep_19,Single-Goal Spatial Tasks,Object Recall,0.6533101045296167,0.23170731707317072
+ep_19,Single-Goal Temporal Tasks,Interaction Order,0.7999999999999999,0.786046511627907
+ep_19,Multi-Goal Tasks,Unordered Revisitation,0.5698784722222222,0.8077256944444445
+ep_19,Single-Goal Temporal Tasks,Interaction Order,0.6193576388888888,0.8237847222222222
+ep_19,Single-Goal Temporal Tasks,Time-Based,0.8660287081339713,0.6411483253588517
+ep_19,Single-Goal Temporal Tasks,Duration Tracking,0.7,0.6732558139534884
+ep_19,Single-Goal Temporal Tasks,Interaction Order,0.9227614490772386,0.8250170881749828
+ep_19,Single-Goal Temporal Tasks,Interaction Order,0.8728639781271359,0.771701982228298
+ep_19,Single-Goal Spatial Tasks,Object Attributes,0.21428571428571427,0.4555749128919861
+ep_19,Single-Goal Temporal Tasks,Interaction Order,0.732638888888889,0.791232638888889
+ep_19,Single-Goal Spatial Tasks,Conditional Interaction,0.7328872876994338,0.7704580545548122
+ep_19,Single-Goal Spatial Tasks,Object Attributes,0.8203174603174603,0.7619047619047619
+ep_19,Single-Goal Temporal Tasks,Duration Tracking,0.7438124185844551,0.7312201476335215
+ep_19,Single-Goal Temporal Tasks,Interaction Order,0.75,0.7651162790697674
+ep_19,Single-Goal Temporal Tasks,Interaction Order,0.6558159722222222,0.5672743055555556
+ep_19,Single-Goal Spatial Tasks,Object Attributes,0.9047619047619048,0.6704761904761904
+ep_19,Single-Goal Temporal Tasks,Interaction Order,0.7018229166666666,0.5985243055555556
+ep_19,Single-Goal Spatial Tasks,Conditional Interaction,0.8065934065934066,0.5934065934065934
+ep_19,Single-Goal Spatial Tasks,Object Attributes,0.7491289198606272,0.38588850174216033
+ep_19,Single-Goal Spatial Tasks,Spatial Relationship,0.698919197117859,0.8610396294390119
+ep_19,Single-Goal Spatial Tasks,Room Visitation,0.7516283108988275,0.603126356925749
+ep_19,Single-Goal Spatial Tasks,Interaction,0.6812852800694746,0.7603126356925749
+ep_19,Multi-Goal Tasks,Unordered Revisitation,0.6674473067915692,0.5639344262295082
+ep_19,Single-Goal Temporal Tasks,Interaction Order,0.6488715277777778,0.8841145833333333
+ep_19,Multi-Goal Tasks,Unordered Revisitation,0.841597191750768,0.8143922773146117
+ep_19,Single-Goal Spatial Tasks,Interaction,0.621763931548925,0.4936375603334795
+ep_19,Single-Goal Temporal Tasks,Duration Tracking,0.833902939166097,0.872863978127136
+ep_19,Single-Goal Temporal Tasks,Interaction Order,0.9213943950786057,0.8838004101161996
+ep_19,Single-Goal Spatial Tasks,Spatial Relationship,0.7751196172248804,0.8113465481886535
+ep_19,Multi-Goal Tasks,Ordered Revisitation,0.540798611111111,0.8402777777777778
+ep_19,Single-Goal Temporal Tasks,Interaction Order,0.786046511627907,0.7999999999999999
+ep_19,Single-Goal Temporal Tasks,Interaction Order,0.8800823468862584,0.7220792588780237
+ep_19,Single-Goal Spatial Tasks,Conditional Interaction,0.7034883720930232,0.7767441860465116
+ep_19,Single-Goal Spatial Tasks,Spatial Relationship,0.629439011837365,0.8054554812146166
+ep_19,Single-Goal Spatial Tasks,Room Visitation,0.41453245979749853,0.34663490172721856
+ep_19,Single-Goal Spatial Tasks,Conditional Interaction,0.8250170881749828,0.9227614490772386
+ep_19,Multi-Goal Tasks,Unordered Revisitation,0.7426659804426146,0.7586206896551724
+ep_19,Single-Goal Spatial Tasks,Object Recall,0.6737004632012352,0.8600102933607823
+ep_19,Single-Goal Temporal Tasks,Interaction Order,0.7922201138519923,0.7386148007590133
+ep_19,Single-Goal Spatial Tasks,Interaction,0.6665204036858271,0.806494076349276
+ep_19,Single-Goal Temporal Tasks,Time-Based,0.5742187499999999,0.4822048611111111
+ep_19,Single-Goal Spatial Tasks,Room Visitation,0.4073853484216796,0.33948779035139964
+ep_19,Multi-Goal Tasks,Unordered Revisitation,0.7744360902255638,0.5522898154477102
+ep_19,Single-Goal Temporal Tasks,Interaction Order,0.5985243055555556,0.7018229166666666
+ep_19,Single-Goal Spatial Tasks,Interaction,0.5572916666666667,0.7174479166666666
+ep_19,Multi-Goal Tasks,Unordered Revisitation,0.7248793330408073,0.8323826239578763
+ep_19,Single-Goal Temporal Tasks,Interaction Order,0.4965156794425087,0.3005226480836237
+ep_19,Single-Goal Spatial Tasks,Spatial Relationship,0.660833762223366,0.7478126608337623
+ep_19,Single-Goal Spatial Tasks,Object Attributes,0.8550922761449077,0.8879015721120984
+ep_19,Multi-Goal Tasks,Ordered Revisitation,0.5639344262295082,0.6674473067915692
+ep_19,Single-Goal Spatial Tasks,Conditional Interaction,0.6664388243335612,0.4210526315789474
+ep_19,Single-Goal Temporal Tasks,Interaction Order,0.8666982922201139,0.8396584440227703
+ep_23,Single-Goal Temporal Tasks,Interaction Order,0.5375347544022243,0.5949953660797035
+ep_23,Single-Goal Spatial Tasks,Interaction,0.5651260504201681,0.5
+ep_23,Single-Goal Temporal Tasks,Time-Based,0.7092105263157895,0.6690789473684211
+ep_23,Single-Goal Spatial Tasks,Conditional Interaction,0.7089898053753475,0.3957367933271548
+ep_23,Single-Goal Spatial Tasks,Room Visitation,0.5031928480204343,0.4916985951468711
+ep_23,Single-Goal Spatial Tasks,Conditional Interaction,0.8654791154791155,0.773955773955774
+ep_23,Multi-Goal Tasks,Unordered Revisitation,0.73779296875,0.4765625
+ep_23,Single-Goal Temporal Tasks,Interaction Order,0.8020434227330779,0.7547892720306513
+ep_23,Multi-Goal Tasks,Ordered Revisitation,0.510750329091707,0.5875383940324703
+ep_23,Single-Goal Spatial Tasks,Conditional Interaction,0.7125837676842889,0.6284437825763216
+ep_23,Single-Goal Temporal Tasks,Interaction Order,0.3293650793650793,0.375
+ep_23,Single-Goal Spatial Tasks,Spatial Relationship,0.6868421052631579,0.31842105263157894
+ep_23,Single-Goal Temporal Tasks,Duration Tracking,0.5184659090909092,0.6988636363636364
+ep_23,Single-Goal Temporal Tasks,Interaction Order,0.7862993298585258,0.7319434102755026
+ep_23,Single-Goal Spatial Tasks,Spatial Relationship,0.21829855537720705,0.4574638844301766
+ep_23,Multi-Goal Tasks,Ordered Revisitation,0.400390625,0.67529296875
+ep_23,Single-Goal Spatial Tasks,Object Attributes,0.7329545454545454,0.5411931818181818
+ep_23,Single-Goal Temporal Tasks,Interaction Order,0.625,0.5108695652173914
+ep_23,Single-Goal Spatial Tasks,Conditional Interaction,0.4726598702502317,0.561631139944393
+ep_23,Single-Goal Spatial Tasks,Object Recall,0.7913322632423756,0.16853932584269665
+ep_23,Single-Goal Temporal Tasks,Interaction Order,0.7116477272727273,0.6946022727272727
+ep_23,Single-Goal Spatial Tasks,Spatial Relationship,0.6335526315789475,0.5914473684210526
+ep_23,Single-Goal Temporal Tasks,Interaction Order,0.7361842105263159,0.569078947368421
+ep_23,Single-Goal Spatial Tasks,Interaction,0.6480912681000438,0.6301009214567792
+ep_23,Single-Goal Spatial Tasks,Conditional Interaction,0.73974609375,0.556640625
+ep_23,Multi-Goal Tasks,Unordered Revisitation,0.7058507783145465,0.2533548040794418
+ep_23,Single-Goal Spatial Tasks,Room Visitation,0.4623243933588761,0.5095785440613027
+ep_23,Single-Goal Spatial Tasks,Interaction,0.7717171717171717,0.6656565656565656
+ep_23,Multi-Goal Tasks,Unordered Revisitation,0.5125,0.5993421052631579
+ep_23,Single-Goal Spatial Tasks,Object Attributes,0.4398073836276083,0.3113964686998395
+ep_23,Single-Goal Temporal Tasks,Interaction Order,0.5949953660797035,0.5375347544022243
+ep_23,Single-Goal Spatial Tasks,Object Attributes,0.7395833333333334,0.7488425925925927
+ep_23,Single-Goal Temporal Tasks,Duration Tracking,0.3033707865168539,0.6837881219903692
+ep_23,Single-Goal Temporal Tasks,Interaction Order,0.8034251675353685,0.7877885331347729
+ep_23,Single-Goal Temporal Tasks,Interaction Order,0.7547892720306513,0.8301404853128992
+ep_23,Single-Goal Temporal Tasks,Interaction Order,0.46875,0.6704545454545454
+ep_23,Single-Goal Temporal Tasks,Interaction Order,0.35912698412698413,0.503968253968254
+ep_23,Multi-Goal Tasks,Unordered Revisitation,0.5471698113207547,0.5247915752523036
+ep_23,Single-Goal Temporal Tasks,Time-Based,0.6661931818181819,0.6647727272727274
+ep_23,Single-Goal Spatial Tasks,Room Visitation,0.6902086677367576,0.5569823434991974
+ep_23,Single-Goal Spatial Tasks,Interaction,0.6005859375,0.6572265625
+ep_23,Multi-Goal Tasks,Ordered Revisitation,0.5803571428571429,0.6265756302521008
+ep_23,Multi-Goal Tasks,Unordered Revisitation,0.6349789915966387,0.592436974789916
+ep_23,Single-Goal Temporal Tasks,Interaction Order,0.6521739130434783,0.3722826086956522
+ep_23,Single-Goal Spatial Tasks,Interaction,0.7203435319377348,0.5786366076221148
+ep_23,Single-Goal Spatial Tasks,Room Visitation,0.4189016602809707,0.5734355044699873
+ep_23,Single-Goal Spatial Tasks,Interaction,0.6773913043478261,0.625217391304348
+ep_23,Multi-Goal Tasks,Unordered Revisitation,0.517578125,0.8564453125
+ep_23,Single-Goal Spatial Tasks,Object Attributes,0.7572598659717051,0.5763216679076694
+ep_23,Single-Goal Temporal Tasks,Interaction Order,0.5914473684210526,0.6335526315789475
+ep_23,Single-Goal Spatial Tasks,Object Recall,0.6839666357738646,0.4318813716404078
+ep_23,Single-Goal Spatial Tasks,Object Attributes,0.7528409090909092,0.4659090909090909
+ep_23,Single-Goal Spatial Tasks,Spatial Relationship,0.592391304347826,0.5271739130434783
+ep_23,Single-Goal Temporal Tasks,Duration Tracking,0.42017879948914433,0.5593869731800767
+ep_23,Single-Goal Spatial Tasks,Conditional Interaction,0.6845466155810983,0.47381864623243936
+ep_23,Single-Goal Temporal Tasks,Interaction Order,0.16853932584269665,0.4414125200642054
+ep_23,Single-Goal Temporal Tasks,Interaction Order,0.47729379054680265,0.43744207599629287
+ep_25,Single-Goal Temporal Tasks,Duration Tracking,0.7142857142857142,0.3912087912087912
+ep_25,Single-Goal Temporal Tasks,Interaction Order,0.782608695652174,0.4755434782608696
+ep_25,Single-Goal Temporal Tasks,Interaction Order,0.1505376344086021,0.6200716845878136
+ep_25,Single-Goal Spatial Tasks,Object Attributes,0.9266304347826088,0.7119565217391305
+ep_25,Single-Goal Temporal Tasks,Interaction Order,0.8458781362007168,0.7813620071684588
+ep_25,Single-Goal Spatial Tasks,Object Attributes,0.755952380952381,0.8234126984126984
+ep_25,Single-Goal Spatial Tasks,Room Visitation,0.671549295774648,0.716056338028169
+ep_25,Single-Goal Spatial Tasks,Interaction,0.61015625,0.90078125
+ep_25,Single-Goal Spatial Tasks,Conditional Interaction,0.843956043956044,0.7274725274725274
+ep_25,Multi-Goal Tasks,Ordered Revisitation,0.900997150997151,0.7927350427350427
+ep_25,Single-Goal Temporal Tasks,Interaction Order,0.8586956521739131,0.8125000000000001
+ep_25,Single-Goal Temporal Tasks,Interaction Order,0.7925925925925926,0.8518518518518519
+ep_25,Multi-Goal Tasks,Unordered Revisitation,0.7096081588835211,0.8121309715512613
+ep_25,Single-Goal Temporal Tasks,Time-Based,0.29032258064516125,0.4982078853046595
+ep_25,Single-Goal Spatial Tasks,Object Recall,0.8962962962962964,0.798148148148148
+ep_25,Single-Goal Spatial Tasks,Room Visitation,0.5069767441860464,0.6930232558139535
+ep_25,Single-Goal Spatial Tasks,Interaction,0.7228009259259259,0.5590277777777778
+ep_25,Multi-Goal Tasks,Unordered Revisitation,0.5484375,0.60859375
+ep_25,Multi-Goal Tasks,Unordered Revisitation,0.8817663817663819,0.8062678062678063
+ep_25,Single-Goal Temporal Tasks,Interaction Order,0.7634408602150539,0.8100358422939069
+ep_25,Single-Goal Spatial Tasks,Interaction,0.7873536299765809,0.848711943793911
+ep_25,Single-Goal Temporal Tasks,Duration Tracking,0.42760563380281696,0.5295774647887325
+ep_25,Single-Goal Temporal Tasks,Interaction Order,0.5326086956521738,0.7119565217391304
+ep_25,Single-Goal Temporal Tasks,Interaction Order,0.8470588235294119,0.9732620320855615
+ep_25,Single-Goal Spatial Tasks,Object Attributes,0.8105939004815408,0.7865168539325843
+ep_25,Single-Goal Temporal Tasks,Interaction Order,0.8314814814814816,0.7833333333333333
+ep_25,Single-Goal Spatial Tasks,Object Attributes,0.6344086021505375,0.7168458781362008
+ep_25,Single-Goal Spatial Tasks,Spatial Relationship,0.7554347826086956,0.5842391304347826
+ep_25,Single-Goal Spatial Tasks,Room Visitation,0.4223646723646723,0.45227920227920226
+ep_25,Multi-Goal Tasks,Unordered Revisitation,0.7796791443850268,0.32192513368983955
+ep_25,Single-Goal Temporal Tasks,Interaction Order,0.7885304659498209,0.9354838709677419
+ep_25,Single-Goal Spatial Tasks,Interaction,0.8682336182336181,0.8297720797720798
+ep_25,Single-Goal Temporal Tasks,Time-Based,0.8148148148148149,0.862962962962963
+ep_25,Single-Goal Spatial Tasks,Object Recall,0.9565217391304348,0.39945652173913043
+ep_25,Single-Goal Temporal Tasks,Duration Tracking,0.11827956989247308,0.03225806451612904
+ep_25,Single-Goal Temporal Tasks,Interaction Order,0.736413043478261,0.8532608695652173
+ep_25,Single-Goal Spatial Tasks,Spatial Relationship,0.7274725274725274,0.843956043956044
+ep_25,Single-Goal Temporal Tasks,Interaction Order,0.8,0.8923076923076922
+ep_25,Multi-Goal Tasks,Ordered Revisitation,0.6977992485238862,0.855072463768116
+ep_25,Single-Goal Spatial Tasks,Conditional Interaction,0.8962566844919786,0.6577540106951871
+ep_25,Single-Goal Spatial Tasks,Conditional Interaction,0.6093189964157706,0.39068100358422936
+ep_25,Single-Goal Temporal Tasks,Interaction Order,0.7555555555555555,0.7
+ep_25,Single-Goal Spatial Tasks,Spatial Relationship,0.798148148148148,0.8962962962962964
+ep_25,Single-Goal Temporal Tasks,Interaction Order,0.28315412186379924,0.025089605734766998
+ep_25,Single-Goal Spatial Tasks,Spatial Relationship,0.8611111111111112,0.8296296296296297
+ep_25,Multi-Goal Tasks,Ordered Revisitation,0.42656249999999996,0.64609375
+ep_25,Single-Goal Spatial Tasks,Object Attributes,0.8804347826086957,0.8125
+ep_25,Single-Goal Temporal Tasks,Interaction Order,0.7613240418118468,0.8545296167247387
+ep_25,Single-Goal Spatial Tasks,Conditional Interaction,0.8100358422939069,0.7634408602150539
+ep_25,Single-Goal Spatial Tasks,Conditional Interaction,0.894186046511628,0.6453488372093024
+ep_25,Single-Goal Spatial Tasks,Room Visitation,0.5295774647887325,0.42760563380281696
+ep_25,Multi-Goal Tasks,Unordered Revisitation,0.9732620320855615,0.8470588235294119
+ep_25,Single-Goal Temporal Tasks,Interaction Order,0.8755813953488372,0.8488372093023255
+ep_25,Single-Goal Spatial Tasks,Interaction,0.8384326355340848,0.8845947396672035
+ep_25,Multi-Goal Tasks,Unordered Revisitation,0.7822014051522248,0.8749414519906323
+ep_29,Single-Goal Spatial Tasks,Room Visitation,0.39510489510489505,0.38854895104895104
+ep_29,Multi-Goal Tasks,Unordered Revisitation,0.656043956043956,0.7247252747252747
+ep_29,Single-Goal Spatial Tasks,Interaction,0.5890313390313391,0.5719373219373219
+ep_29,Single-Goal Spatial Tasks,Interaction,0.5234782608695652,0.6426086956521739
+ep_29,Single-Goal Temporal Tasks,Interaction Order,0.5662650602409638,0.7581093605189991
+ep_29,Multi-Goal Tasks,Unordered Revisitation,0.6035353535353536,0.6191919191919192
+ep_29,Single-Goal Spatial Tasks,Object Recall,0.7314814814814815,0.575925925925926
+ep_29,Single-Goal Temporal Tasks,Interaction Order,0.49074074074074076,0.43333333333333335
+ep_29,Single-Goal Temporal Tasks,Duration Tracking,0.2840909090909091,0.21590909090909088
+ep_29,Single-Goal Temporal Tasks,Interaction Order,0.508169014084507,0.5374647887323944
+ep_29,Single-Goal Temporal Tasks,Interaction Order,0.6227988878591288,0.6153846153846154
+ep_29,Single-Goal Spatial Tasks,Object Attributes,0.7271268057784912,0.637239165329053
+ep_29,Single-Goal Spatial Tasks,Conditional Interaction,0.5511363636363636,0.1633522727272727
+ep_29,Single-Goal Spatial Tasks,Spatial Relationship,0.4712301587301588,0.4126984126984127
+ep_29,Single-Goal Spatial Tasks,Object Attributes,0.9229534510433387,0.35152487961476725
+ep_29,Single-Goal Temporal Tasks,Interaction Order,0.7798295454545454,0.8551136363636364
+ep_29,Single-Goal Temporal Tasks,Duration Tracking,0.3579454253611557,0.377207062600321
+ep_29,Single-Goal Temporal Tasks,Interaction Order,0.7258522727272727,0.7528409090909092
+ep_29,Single-Goal Temporal Tasks,Interaction Order,0.7846153846153846,0.7362637362637363
+ep_29,Single-Goal Spatial Tasks,Object Attributes,0.8571428571428572,0.6461538461538462
+ep_29,Single-Goal Spatial Tasks,Conditional Interaction,0.9098901098901099,0.7472527472527473
+ep_29,Single-Goal Spatial Tasks,Object Attributes,0.7585227272727273,0.7798295454545454
+ep_29,Single-Goal Spatial Tasks,Room Visitation,0.6833108412055781,0.5870445344129556
+ep_29,Multi-Goal Tasks,Ordered Revisitation,0.656060606060606,0.5606060606060606
+ep_29,Single-Goal Spatial Tasks,Interaction,0.6901098901098901,0.692857142857143
+ep_29,Single-Goal Temporal Tasks,Interaction Order,0.6074074074074074,0.5444444444444444
+ep_29,Single-Goal Temporal Tasks,Time-Based,0.7826704545454546,0.7286931818181818
+ep_29,Multi-Goal Tasks,Unordered Revisitation,0.5594035594035595,0.5194805194805195
+ep_29,Single-Goal Temporal Tasks,Interaction Order,0.584126984126984,0.37206349206349204
+ep_29,Single-Goal Temporal Tasks,Interaction Order,0.8622159090909091,0.6633522727272727
+ep_29,Single-Goal Spatial Tasks,Spatial Relationship,0.6311399443929565,0.489341983317887
+ep_29,Single-Goal Spatial Tasks,Conditional Interaction,0.5218253968253969,0.49702380952380953
+ep_29,Single-Goal Temporal Tasks,Interaction Order,0.6945054945054945,0.5846153846153846
+ep_29,Single-Goal Spatial Tasks,Object Attributes,0.9190340909090908,0.8110795454545454
+ep_29,Multi-Goal Tasks,Ordered Revisitation,0.5296703296703297,0.7181318681318681
+ep_29,Single-Goal Spatial Tasks,Room Visitation,0.3723776223776224,0.5795454545454546
+ep_29,Single-Goal Spatial Tasks,Conditional Interaction,0.8250401284109149,0.7640449438202247
+ep_29,Multi-Goal Tasks,Unordered Revisitation,0.9296703296703297,0.5406593406593407
+ep_29,Single-Goal Spatial Tasks,Interaction,0.44373219373219375,0.38603988603988604
+ep_29,Single-Goal Temporal Tasks,Interaction Order,0.6153846153846154,0.6227988878591288
+ep_29,Multi-Goal Tasks,Unordered Revisitation,0.6182608695652174,0.7095652173913044
+ep_29,Single-Goal Spatial Tasks,Object Recall,0.7784090909090909,0.7428977272727273
+ep_29,Single-Goal Spatial Tasks,Interaction,0.5594035594035595,0.5661375661375662
+ep_29,Single-Goal Spatial Tasks,Room Visitation,0.4682860998650472,0.8295096716149348
+ep_29,Single-Goal Spatial Tasks,Conditional Interaction,0.6210526315789473,0.42105263157894735
+ep_29,Multi-Goal Tasks,Unordered Revisitation,0.8068181818181818,0.5738636363636364
+ep_29,Single-Goal Spatial Tasks,Conditional Interaction,0.695457930007446,0.408041697691735
+ep_29,Single-Goal Temporal Tasks,Interaction Order,0.5453521126760563,0.5188732394366198
+ep_29,Single-Goal Temporal Tasks,Time-Based,0.46422535211267607,0.5819718309859155
+ep_29,Single-Goal Spatial Tasks,Interaction,0.5646464646464647,0.6308080808080807
+ep_29,Single-Goal Temporal Tasks,Interaction Order,0.7626373626373626,0.6131868131868132
+ep_29,Single-Goal Temporal Tasks,Duration Tracking,0.6857142857142857,0.8527472527472528
+ep_29,Single-Goal Spatial Tasks,Spatial Relationship,0.7286931818181818,0.6661931818181819
+ep_29,Single-Goal Temporal Tasks,Interaction Order,0.6903409090909092,0.4928977272727273
+ep_29,Single-Goal Spatial Tasks,Conditional Interaction,0.7736263736263737,0.6813186813186813
+ep_29,Multi-Goal Tasks,Ordered Revisitation,0.49783549783549785,0.6185666185666185
+ep_29,Single-Goal Temporal Tasks,Interaction Order,0.6902086677367576,0.6452648475120385
+ep_29,Single-Goal Spatial Tasks,Spatial Relationship,0.5198412698412698,0.5148809523809523
+ep_33,Single-Goal Temporal Tasks,Interaction Order,0.45906902086677365,0.5024077046548957
+ep_33,Multi-Goal Tasks,Unordered Revisitation,0.5612874779541446,0.5383597883597884
+ep_33,Single-Goal Temporal Tasks,Time-Based,0.3340659340659341,0.4043956043956044
+ep_33,Single-Goal Temporal Tasks,Interaction Order,0.7111111111111111,0.6314814814814814
+ep_33,Single-Goal Spatial Tasks,Interaction,0.5126953125,0.70166015625
+ep_33,Multi-Goal Tasks,Ordered Revisitation,0.49927849927849927,0.5695045695045696
+ep_33,Single-Goal Spatial Tasks,Room Visitation,0.38384715588363,0.5449413808076422
+ep_33,Single-Goal Spatial Tasks,Object Attributes,0.37802197802197807,0.3362637362637363
+ep_33,Single-Goal Spatial Tasks,Object Attributes,0.7340129749768304,0.6950880444856349
+ep_33,Single-Goal Temporal Tasks,Interaction Order,0.4228707564026206,0.490172721858249
+ep_33,Single-Goal Temporal Tasks,Interaction Order,0.36703296703296706,0.6901098901098901
+ep_33,Single-Goal Temporal Tasks,Duration Tracking,0.5740740740740741,0.6185185185185185
+ep_33,Single-Goal Temporal Tasks,Interaction Order,0.6265060240963856,0.35217794253938833
+ep_33,Single-Goal Spatial Tasks,Object Attributes,0.7463884430176564,0.7640449438202247
+ep_33,Single-Goal Spatial Tasks,Spatial Relationship,0.17921146953405015,0.4946236559139785
+ep_33,Single-Goal Spatial Tasks,Object Attributes,0.6898395721925134,0.7925133689839572
+ep_33,Single-Goal Temporal Tasks,Interaction Order,0.3434991974317817,0.5730337078651685
+ep_33,Single-Goal Temporal Tasks,Interaction Order,0.5427204374572796,0.5686944634313055
+ep_33,Single-Goal Temporal Tasks,Duration Tracking,0.39861050803300047,0.6526270082501086
+ep_33,Single-Goal Temporal Tasks,Interaction Order,0.7714285714285715,0.8791208791208791
+ep_33,Single-Goal Spatial Tasks,Object Recall,0.7472527472527473,0.3967032967032967
+ep_33,Multi-Goal Tasks,Unordered Revisitation,0.6041366041366042,0.444925444925445
+ep_33,Single-Goal Temporal Tasks,Interaction Order,0.5270270270270271,0.3740786240786241
+ep_33,Single-Goal Spatial Tasks,Interaction,0.6785714285714286,0.688392857142857
+ep_33,Single-Goal Spatial Tasks,Interaction,0.7495256166982922,0.7746679316888045
+ep_33,Single-Goal Spatial Tasks,Conditional Interaction,0.7481481481481481,0.6333333333333333
+ep_33,Multi-Goal Tasks,Unordered Revisitation,0.45556640625,0.6533203125
+ep_33,Single-Goal Spatial Tasks,Room Visitation,0.4120712114633088,0.37776812852800695
+ep_33,Single-Goal Spatial Tasks,Spatial Relationship,0.3118279569892473,0.18996415770609318
+ep_33,Single-Goal Temporal Tasks,Interaction Order,0.4043956043956044,0.6439560439560439
+ep_33,Multi-Goal Tasks,Ordered Revisitation,0.5119047619047619,0.5216049382716049
+ep_33,Single-Goal Spatial Tasks,Conditional Interaction,0.5663082437275986,0.25806451612903225
+ep_33,Single-Goal Spatial Tasks,Conditional Interaction,0.5428571428571429,0.46153846153846156
+ep_33,Single-Goal Temporal Tasks,Interaction Order,0.6349965823650033,0.5427204374572796
+ep_33,Single-Goal Spatial Tasks,Spatial Relationship,0.4241758241758242,0.7076923076923077
+ep_33,Single-Goal Temporal Tasks,Duration Tracking,0.3362637362637363,0.3296703296703297
+ep_33,Single-Goal Temporal Tasks,Interaction Order,0.34285714285714286,0.37802197802197807
+ep_33,Single-Goal Spatial Tasks,Interaction,0.5084175084175084,0.44540644540644536
+ep_33,Single-Goal Temporal Tasks,Time-Based,0.7849462365591396,0.7455197132616487
+ep_33,Single-Goal Temporal Tasks,Interaction Order,0.7706093189964157,0.8028673835125448
+ep_33,Multi-Goal Tasks,Unordered Revisitation,0.6137362637362637,0.46483516483516485
+ep_33,Single-Goal Spatial Tasks,Room Visitation,0.48198002605297435,0.4264003473729917
+ep_33,Single-Goal Spatial Tasks,Interaction,0.6322751322751323,0.693121693121693
+ep_33,Single-Goal Spatial Tasks,Object Recall,0.6933797909407665,0.5696864111498258
+ep_33,Multi-Goal Tasks,Unordered Revisitation,0.6888392857142859,0.48214285714285715
+ep_33,Single-Goal Temporal Tasks,Interaction Order,0.5730337078651685,0.5939004815409309
+ep_33,Multi-Goal Tasks,Unordered Revisitation,0.6141304347826086,0.43478260869565216
+ep_33,Single-Goal Spatial Tasks,Room Visitation,0.3033707865168539,0.2568218298555377
+ep_33,Multi-Goal Tasks,Ordered Revisitation,0.33056640625,0.6513671875
+ep_33,Single-Goal Spatial Tasks,Object Attributes,0.4170528266913809,0.8470806302131604
+ep_33,Single-Goal Spatial Tasks,Conditional Interaction,0.7132812500000001,0.66015625
+ep_33,Single-Goal Temporal Tasks,Interaction Order,0.41847826086956524,0.5027173913043479
+ep_33,Single-Goal Spatial Tasks,Conditional Interaction,0.657608695652174,0.44565217391304346
+ep_33,Single-Goal Spatial Tasks,Spatial Relationship,0.5409309791332263,0.4975922953451043
+ep_33,Single-Goal Temporal Tasks,Interaction Order,0.42962962962962964,0.26296296296296295
+ep_35,Single-Goal Spatial Tasks,Interaction,0.8315789473684211,0.7684210526315789
+ep_35,Multi-Goal Tasks,Unordered Revisitation,0.6347549909255898,0.5880217785843921
+ep_35,Single-Goal Spatial Tasks,Conditional Interaction,0.7447833065810594,0.8346709470304976
+ep_35,Single-Goal Spatial Tasks,Room Visitation,0.5304621848739496,0.49107142857142855
+ep_35,Single-Goal Spatial Tasks,Interaction,0.6729644624381467,0.7228969860548808
+ep_35,Multi-Goal Tasks,Unordered Revisitation,0.5659392789373814,0.6764705882352942
+ep_35,Single-Goal Temporal Tasks,Interaction Order,0.51996151996152,0.6907166907166907
+ep_35,Single-Goal Spatial Tasks,Object Recall,0.51497277676951,0.5349364791288567
+ep_35,Single-Goal Temporal Tasks,Interaction Order,0.7223113964686999,0.6837881219903692
+ep_35,Multi-Goal Tasks,Ordered Revisitation,0.5111891180342255,0.7665642825800789
+ep_35,Single-Goal Spatial Tasks,Object Attributes,0.44301765650080255,0.6869983948635634
+ep_35,Single-Goal Temporal Tasks,Interaction Order,0.38021978021978026,0.5428571428571428
+ep_35,Single-Goal Spatial Tasks,Conditional Interaction,0.753125,0.73046875
+ep_35,Single-Goal Temporal Tasks,Duration Tracking,0.7094703049759229,0.7768860353130016
+ep_35,Single-Goal Temporal Tasks,Interaction Order,0.4767255216693419,0.5489566613162119
+ep_35,Single-Goal Temporal Tasks,Interaction Order,0.4157303370786517,0.48796147672552165
+ep_35,Multi-Goal Tasks,Ordered Revisitation,0.6027890238416554,0.637876743139901
+ep_35,Single-Goal Spatial Tasks,Conditional Interaction,0.5875383940324703,0.5827117156647653
+ep_35,Single-Goal Temporal Tasks,Interaction Order,0.571978021978022,0.4104395604395604
+ep_35,Multi-Goal Tasks,Unordered Revisitation,0.5236270753512133,0.39335887611749676
+ep_35,Single-Goal Spatial Tasks,Conditional Interaction,0.8285714285714286,0.632967032967033
+ep_35,Single-Goal Spatial Tasks,Room Visitation,0.5252100840336134,0.5808823529411764
+ep_35,Single-Goal Spatial Tasks,Interaction,0.5798548094373865,0.4823049001814882
+ep_35,Single-Goal Temporal Tasks,Time-Based,0.4843674843674844,0.5791245791245792
+ep_35,Single-Goal Temporal Tasks,Interaction Order,0.5076923076923077,0.5692307692307692
+ep_35,Single-Goal Temporal Tasks,Interaction Order,0.76484375,0.84609375
+ep_35,Single-Goal Temporal Tasks,Duration Tracking,0.47636554621848737,0.5126050420168067
+ep_35,Single-Goal Temporal Tasks,Interaction Order,0.5329052969502408,0.5585874799357946
+ep_35,Single-Goal Spatial Tasks,Object Attributes,0.7431781701444623,0.7640449438202247
+ep_35,Single-Goal Spatial Tasks,Conditional Interaction,0.8465909090909091,0.43465909090909094
+ep_35,Single-Goal Spatial Tasks,Object Attributes,0.6663763066202091,0.31881533101045295
+ep_35,Single-Goal Temporal Tasks,Interaction Order,0.8231089934484812,0.7581893984514593
+ep_35,Single-Goal Spatial Tasks,Interaction,0.6656565656565656,0.6297979797979798
+ep_35,Multi-Goal Tasks,Unordered Revisitation,0.5840280824923212,0.7143483984203598
+ep_35,Single-Goal Spatial Tasks,Room Visitation,0.5023437500000001,0.7671875
+ep_35,Multi-Goal Tasks,Unordered Revisitation,0.6311252268602541,0.6887477313974593
+ep_35,Single-Goal Temporal Tasks,Interaction Order,0.5331347728965004,0.34698436336559946
+ep_35,Single-Goal Spatial Tasks,Interaction,0.5526565464895635,0.6646110056925997
+ep_35,Single-Goal Spatial Tasks,Object Recall,0.6768837803320562,0.7752234993614303
+ep_35,Single-Goal Spatial Tasks,Interaction,0.6191311978938131,0.7648091268100043
+ep_35,Multi-Goal Tasks,Ordered Revisitation,0.5367513611615246,0.6215970961887477
+ep_35,Single-Goal Spatial Tasks,Room Visitation,0.4422268907563025,0.6129201680672269
+ep_35,Single-Goal Temporal Tasks,Interaction Order,0.7212626563430613,0.8552709946396664
+ep_35,Multi-Goal Tasks,Unordered Revisitation,0.637876743139901,0.6027890238416554
+ep_35,Single-Goal Temporal Tasks,Time-Based,0.781701444622793,0.7303370786516854
+ep_35,Single-Goal Temporal Tasks,Interaction Order,0.8314606741573034,0.739967897271268
+ep_35,Single-Goal Temporal Tasks,Interaction Order,0.49876543209876545,0.3761316872427984
+ep_35,Single-Goal Temporal Tasks,Duration Tracking,0.3843621399176955,0.6024691358024692
+ep_35,Single-Goal Temporal Tasks,Interaction Order,0.5617977528089888,0.45425361155698235
+ep_35,Single-Goal Spatial Tasks,Object Attributes,0.7046548956661316,0.7367576243980738
+ep_35,Single-Goal Spatial Tasks,Conditional Interaction,0.6193284936479129,0.5072595281306715
+ep_35,Single-Goal Spatial Tasks,Object Attributes,0.5856922285126094,0.550694801852805
+ep_35,Single-Goal Temporal Tasks,Interaction Order,0.7325637325637325,0.608946608946609
+ep_39,Single-Goal Temporal Tasks,Interaction Order,0.6813186813186813,0.6989010989010989
+ep_39,Single-Goal Temporal Tasks,Time-Based,0.6879120879120879,0.7120879120879121
+ep_39,Single-Goal Temporal Tasks,Interaction Order,0.685823754789272,0.5925925925925926
+ep_39,Multi-Goal Tasks,Unordered Revisitation,0.599609375,0.59521484375
+ep_39,Single-Goal Spatial Tasks,Room Visitation,0.49534883720930234,0.3383720930232559
+ep_39,Multi-Goal Tasks,Ordered Revisitation,0.6805896805896806,0.7512285012285013
+ep_39,Single-Goal Spatial Tasks,Interaction,0.5734953703703703,0.6174768518518519
+ep_39,Single-Goal Temporal Tasks,Interaction Order,0.6440217391304348,0.7119565217391304
+ep_39,Single-Goal Spatial Tasks,Object Attributes,0.701098901098901,0.5648351648351648
+ep_39,Single-Goal Spatial Tasks,Object Attributes,0.7534843205574913,0.49564459930313587
+ep_39,Single-Goal Temporal Tasks,Interaction Order,0.7076923076923077,0.5032967032967033
+ep_39,Single-Goal Temporal Tasks,Duration Tracking,0.7648351648351648,0.6813186813186813
+ep_39,Single-Goal Temporal Tasks,Interaction Order,0.5912087912087912,0.31648351648351647
+ep_39,Single-Goal Temporal Tasks,Interaction Order,0.7432098765432099,0.7325102880658436
+ep_39,Single-Goal Spatial Tasks,Object Attributes,0.7648351648351648,0.8769230769230769
+ep_39,Single-Goal Spatial Tasks,Spatial Relationship,0.5440613026819923,0.5197956577266921
+ep_39,Single-Goal Spatial Tasks,Object Attributes,0.578021978021978,0.7714285714285715
+ep_39,Single-Goal Temporal Tasks,Interaction Order,0.6373626373626373,0.512087912087912
+ep_39,Single-Goal Temporal Tasks,Duration Tracking,0.6124069478908188,0.6272952853598015
+ep_39,Single-Goal Temporal Tasks,Interaction Order,0.5849297573435503,0.5363984674329502
+ep_39,Single-Goal Spatial Tasks,Conditional Interaction,0.9758241758241758,0.8527472527472528
+ep_39,Single-Goal Spatial Tasks,Interaction,0.6043572984749456,0.8230936819172113
+ep_39,Multi-Goal Tasks,Unordered Revisitation,0.668918918918919,0.7297297297297298
+ep_39,Single-Goal Temporal Tasks,Interaction Order,0.6820652173913043,0.6711956521739131
+ep_39,Single-Goal Spatial Tasks,Room Visitation,0.36171875,0.45859375
+ep_39,Single-Goal Spatial Tasks,Object Recall,0.7670329670329671,0.4461538461538461
+ep_39,Multi-Goal Tasks,Unordered Revisitation,0.484375,0.6383101851851853
+ep_39,Single-Goal Spatial Tasks,Interaction,0.7199017199017199,0.4176904176904177
+ep_39,Single-Goal Spatial Tasks,Conditional Interaction,0.5802197802197803,0.6857142857142857
+ep_39,Single-Goal Temporal Tasks,Interaction Order,0.6334610472541506,0.8250319284802043
+ep_39,Single-Goal Temporal Tasks,Interaction Order,0.8417582417582418,0.7186813186813187
+ep_39,Multi-Goal Tasks,Ordered Revisitation,0.61279296875,0.865234375
+ep_39,Single-Goal Spatial Tasks,Spatial Relationship,0.8,0.8388888888888888
+ep_39,Single-Goal Temporal Tasks,Interaction Order,0.7692307692307693,0.378021978021978
+ep_39,Single-Goal Temporal Tasks,Duration Tracking,0.18206521739130435,0.6983695652173914
+ep_39,Single-Goal Spatial Tasks,Conditional Interaction,0.7934782608695652,0.5679347826086957
+ep_39,Single-Goal Spatial Tasks,Spatial Relationship,0.734065934065934,0.7956043956043957
+ep_39,Single-Goal Temporal Tasks,Interaction Order,0.625,0.6494565217391304
+ep_39,Single-Goal Temporal Tasks,Time-Based,0.6774193548387096,0.6451612903225806
+ep_39,Single-Goal Spatial Tasks,Interaction,0.6283783783783784,0.7893120393120394
+ep_39,Single-Goal Spatial Tasks,Room Visitation,0.5032437442075997,0.5569972196478221
+ep_39,Multi-Goal Tasks,Unordered Revisitation,0.758095238095238,0.833015873015873
+ep_39,Single-Goal Temporal Tasks,Interaction Order,0.7203703703703703,0.8074074074074074
+ep_39,Multi-Goal Tasks,Unordered Revisitation,0.665359477124183,0.8745098039215686
+ep_39,Single-Goal Spatial Tasks,Interaction,0.68505859375,0.69384765625
+ep_39,Single-Goal Spatial Tasks,Object Recall,0.7880434782608696,0.27989130434782605
+ep_39,Single-Goal Spatial Tasks,Room Visitation,0.5796874999999999,0.371875
+ep_39,Multi-Goal Tasks,Unordered Revisitation,0.7186813186813187,0.28791208791208794
+ep_39,Single-Goal Spatial Tasks,Interaction,0.37962962962962965,0.4925925925925926
+ep_39,Single-Goal Temporal Tasks,Interaction Order,0.5376756066411239,0.7675606641123882
+ep_39,Single-Goal Spatial Tasks,Conditional Interaction,0.6130268199233716,0.4444444444444444
+ep_39,Multi-Goal Tasks,Ordered Revisitation,0.4837962962962963,0.6822916666666666
+ep_39,Single-Goal Spatial Tasks,Object Attributes,0.5582417582417583,0.5186813186813187
+ep_39,Single-Goal Temporal Tasks,Interaction Order,0.3695652173913043,0.0625
+ep_39,Single-Goal Spatial Tasks,Conditional Interaction,0.7447619047619047,0.7701587301587302
+ep_39,Single-Goal Spatial Tasks,Spatial Relationship,0.9092592592592592,0.6592592592592593
+ep_43,Single-Goal Spatial Tasks,Conditional Interaction,0.665934065934066,0.6923076923076923
+ep_43,Single-Goal Temporal Tasks,Interaction Order,0.621978021978022,0.5560439560439561
+ep_43,Single-Goal Spatial Tasks,Object Attributes,0.5252747252747252,0.4725274725274725
+ep_43,Multi-Goal Tasks,Ordered Revisitation,0.5458984375,0.5908203125
+ep_43,Single-Goal Spatial Tasks,Spatial Relationship,0.5351851851851852,0.39629629629629626
+ep_43,Single-Goal Temporal Tasks,Interaction Order,0.7176954732510289,0.6016460905349794
+ep_43,Multi-Goal Tasks,Unordered Revisitation,0.6737749546279492,0.7046279491833031
+ep_43,Single-Goal Spatial Tasks,Interaction,0.5816993464052288,0.6296296296296295
+ep_43,Single-Goal Temporal Tasks,Interaction Order,0.6560721062618596,0.7865275142314991
+ep_43,Multi-Goal Tasks,Unordered Revisitation,0.6747252747252748,0.40659340659340665
+ep_43,Single-Goal Spatial Tasks,Conditional Interaction,0.7556818181818181,0.7130681818181819
+ep_43,Single-Goal Spatial Tasks,Interaction,0.921875,0.7727272727272727
+ep_43,Single-Goal Spatial Tasks,Room Visitation,0.6229958772331653,0.5295464956481906
+ep_43,Single-Goal Temporal Tasks,Time-Based,0.5379506641366224,0.5080645161290323
+ep_43,Single-Goal Spatial Tasks,Interaction,0.6938775510204082,0.7060356057316544
+ep_43,Single-Goal Temporal Tasks,Interaction Order,0.6486344537815126,0.6286764705882353
+ep_43,Multi-Goal Tasks,Unordered Revisitation,0.7623339658444022,0.7129981024667932
+ep_43,Single-Goal Spatial Tasks,Conditional Interaction,0.9481481481481482,0.20185185185185184
+ep_43,Single-Goal Spatial Tasks,Room Visitation,0.4507558405863491,0.5382501145213009
+ep_43,Single-Goal Spatial Tasks,Spatial Relationship,0.982078853046595,0.935483870967742
+ep_43,Single-Goal Temporal Tasks,Interaction Order,0.6081000595592615,0.5955926146515783
+ep_43,Single-Goal Spatial Tasks,Conditional Interaction,0.4609375,0.5218750000000001
+ep_43,Multi-Goal Tasks,Ordered Revisitation,0.562962962962963,0.6666666666666666
+ep_43,Single-Goal Temporal Tasks,Interaction Order,0.40219780219780216,0.5230769230769231
+ep_43,Single-Goal Spatial Tasks,Spatial Relationship,0.35604395604395606,0.42417582417582417
+ep_43,Single-Goal Temporal Tasks,Interaction Order,0.5582417582417583,0.6065934065934067
+ep_43,Single-Goal Spatial Tasks,Object Recall,0.8160919540229884,0.5236270753512133
+ep_43,Single-Goal Temporal Tasks,Duration Tracking,0.5853174603174603,0.6170634920634921
+ep_43,Single-Goal Spatial Tasks,Interaction,0.6234119782214156,0.4882032667876588
+ep_43,Single-Goal Temporal Tasks,Interaction Order,0.5657754010695186,0.544385026737968
+ep_43,Multi-Goal Tasks,Unordered Revisitation,0.7316543638732089,0.6122448979591837
+ep_43,Multi-Goal Tasks,Unordered Revisitation,0.6005859375,0.55810546875
+ep_43,Single-Goal Spatial Tasks,Interaction,0.43359375,0.45546875
+ep_43,Single-Goal Spatial Tasks,Room Visitation,0.40625000000000006,0.55078125
+ep_43,Single-Goal Spatial Tasks,Spatial Relationship,0.8100358422939068,0.8387096774193548
+ep_43,Single-Goal Spatial Tasks,Object Attributes,0.8945054945054945,0.6153846153846154
+ep_43,Single-Goal Temporal Tasks,Interaction Order,0.6491959499702203,0.6521739130434784
+ep_43,Single-Goal Spatial Tasks,Conditional Interaction,0.6168478260869565,0.9347826086956522
+ep_43,Single-Goal Spatial Tasks,Object Attributes,0.654945054945055,0.6461538461538462
+ep_43,Single-Goal Temporal Tasks,Interaction Order,0.6545454545454545,0.6877005347593583
+ep_43,Single-Goal Temporal Tasks,Interaction Order,0.5472527472527472,0.6967032967032967
+ep_43,Single-Goal Temporal Tasks,Duration Tracking,0.5295464956481906,0.5336692624828218
+ep_43,Single-Goal Spatial Tasks,Object Attributes,0.7909859154929577,0.531830985915493
+ep_43,Single-Goal Temporal Tasks,Interaction Order,0.5972527472527472,0.5758241758241758
+ep_43,Single-Goal Spatial Tasks,Object Attributes,0.5934065934065934,0.37362637362637363
+ep_43,Single-Goal Spatial Tasks,Conditional Interaction,0.5436507936507936,0.6517857142857143
+ep_43,Single-Goal Temporal Tasks,Interaction Order,0.5634920634920635,0.46130952380952384
+ep_43,Single-Goal Spatial Tasks,Object Recall,0.7662790697674418,0.40232558139534885
+ep_43,Single-Goal Temporal Tasks,Interaction Order,0.6460905349794238,0.46913580246913583
+ep_43,Single-Goal Temporal Tasks,Duration Tracking,0.4835164835164835,0.5648351648351648
+ep_43,Single-Goal Temporal Tasks,Time-Based,0.7012345679012346,0.731687242798354
+ep_43,Multi-Goal Tasks,Unordered Revisitation,0.5773420479302833,0.562962962962963
+ep_43,Single-Goal Temporal Tasks,Interaction Order,0.5,0.34814814814814815
+ep_43,Single-Goal Temporal Tasks,Interaction Order,0.660082304526749,0.6353909465020576
+ep_43,Multi-Goal Tasks,Ordered Revisitation,0.6786799826313504,0.6830221450282241
+ep_43,Single-Goal Spatial Tasks,Interaction,0.625,0.7001953125
+ep_43,Single-Goal Spatial Tasks,Room Visitation,0.5712322491983508,0.4860284012826385
+ep_45,Single-Goal Spatial Tasks,Room Visitation,0.3030583873957368,0.26691380908248374
+ep_45,Single-Goal Spatial Tasks,Interaction,0.6209490740740741,0.6493055555555556
+ep_45,Single-Goal Spatial Tasks,Conditional Interaction,0.9972826086956521,0.875
+ep_45,Multi-Goal Tasks,Unordered Revisitation,0.5846153846153846,0.6347394540942928
+ep_45,Single-Goal Temporal Tasks,Interaction Order,0.7634408602150536,0.6989247311827956
+ep_45,Multi-Goal Tasks,Unordered Revisitation,0.8581932773109244,0.7137605042016806
+ep_45,Single-Goal Spatial Tasks,Interaction,0.6509977827050998,0.9201773835920177
+ep_45,Single-Goal Temporal Tasks,Duration Tracking,0.47021484375,0.5068359375
+ep_45,Single-Goal Spatial Tasks,Object Recall,0.6888888888888889,0.3259259259259259
+ep_45,Single-Goal Temporal Tasks,Interaction Order,0.432967032967033,0.23956043956043957
+ep_45,Single-Goal Temporal Tasks,Interaction Order,0.7868550368550369,0.7487714987714987
+ep_45,Single-Goal Spatial Tasks,Object Attributes,0.6723684210526316,0.44868421052631585
+ep_45,Single-Goal Temporal Tasks,Interaction Order,0.6756066411238825,0.6526181353767561
+ep_45,Single-Goal Spatial Tasks,Object Attributes,0.8907407407407407,0.3925925925925926
+ep_45,Single-Goal Spatial Tasks,Spatial Relationship,0.7419354838709677,0.6344086021505376
+ep_45,Single-Goal Temporal Tasks,Duration Tracking,0.3626373626373626,0.24835164835164839
+ep_45,Single-Goal Temporal Tasks,Interaction Order,0.6203703703703703,0.787037037037037
+ep_45,Single-Goal Temporal Tasks,Interaction Order,0.4967032967032967,0.20659340659340664
+ep_45,Single-Goal Spatial Tasks,Object Attributes,0.7388888888888889,0.7314814814814814
+ep_45,Single-Goal Temporal Tasks,Interaction Order,0.7788697788697789,0.7285012285012284
+ep_45,Single-Goal Spatial Tasks,Object Attributes,0.7555555555555555,0.6759259259259259
+ep_45,Single-Goal Spatial Tasks,Room Visitation,0.47900390625,0.576171875
+ep_45,Single-Goal Spatial Tasks,Interaction,0.6560794044665013,0.44913151364764264
+ep_45,Single-Goal Spatial Tasks,Conditional Interaction,0.7701575532900834,0.7544022242817424
+ep_45,Multi-Goal Tasks,Ordered Revisitation,0.8093487394957982,0.6696428571428571
+ep_45,Single-Goal Temporal Tasks,Interaction Order,0.7611111111111111,0.737037037037037
+ep_45,Multi-Goal Tasks,Unordered Revisitation,0.6171839856050383,0.5380116959064327
+ep_45,Single-Goal Temporal Tasks,Interaction Order,0.6143039591315453,0.46615581098339715
+ep_45,Single-Goal Temporal Tasks,Time-Based,0.46593406593406594,0.42637362637362636
+ep_45,Single-Goal Spatial Tasks,Object Recall,1.0,0.9021739130434783
+ep_45,Single-Goal Temporal Tasks,Interaction Order,0.5934065934065934,0.4483516483516483
+ep_45,Single-Goal Spatial Tasks,Spatial Relationship,0.24835164835164836,0.21758241758241756
+ep_45,Single-Goal Spatial Tasks,Object Attributes,0.6648148148148147,0.5648148148148149
+ep_45,Multi-Goal Tasks,Ordered Revisitation,0.4749379652605459,0.6451612903225806
+ep_45,Single-Goal Spatial Tasks,Conditional Interaction,0.8462962962962963,0.5981481481481481
+ep_45,Single-Goal Spatial Tasks,Conditional Interaction,0.6810035842293907,0.4050179211469534
+ep_45,Single-Goal Temporal Tasks,Interaction Order,0.7240143369175628,0.5949820788530465
+ep_45,Single-Goal Spatial Tasks,Room Visitation,0.6858974358974359,0.41666666666666663
+ep_45,Single-Goal Spatial Tasks,Interaction,0.7349397590361445,0.633920296570899
+ep_45,Multi-Goal Tasks,Unordered Revisitation,0.8660714285714286,0.7777777777777779
+ep_45,Single-Goal Temporal Tasks,Interaction Order,0.7943805874840357,0.8045977011494252
+ep_45,Single-Goal Spatial Tasks,Interaction,0.6180836707152496,0.7031039136302295
+ep_45,Multi-Goal Tasks,Unordered Revisitation,0.6904656319290465,0.7920177383592018
+ep_45,Single-Goal Spatial Tasks,Room Visitation,0.541015625,0.57373046875
+ep_45,Single-Goal Spatial Tasks,Conditional Interaction,0.7430555555555556,0.5406746031746031
+ep_45,Multi-Goal Tasks,Unordered Revisitation,0.9918478260869565,0.782608695652174
+ep_45,Single-Goal Temporal Tasks,Interaction Order,0.6867469879518072,0.6404077849860983
+ep_45,Single-Goal Spatial Tasks,Interaction,0.8429621848739495,0.7615546218487395
+ep_45,Single-Goal Temporal Tasks,Time-Based,0.75,0.8913043478260869
+ep_45,Single-Goal Temporal Tasks,Duration Tracking,0.4021978021978022,0.37362637362637363
+ep_45,Single-Goal Temporal Tasks,Interaction Order,0.6241758241758243,0.27912087912087913
+ep_45,Single-Goal Spatial Tasks,Spatial Relationship,0.3274725274725274,0.2571428571428571
+ep_45,Multi-Goal Tasks,Ordered Revisitation,0.5555555555555556,0.6986054880791723
+ep_45,Single-Goal Temporal Tasks,Interaction Order,0.8703296703296703,0.7054945054945055
+ep_45,Single-Goal Temporal Tasks,Interaction Order,0.4769230769230769,0.20659340659340658
+ep_45,Single-Goal Spatial Tasks,Conditional Interaction,0.65,0.6492187500000001
+ep_45,Single-Goal Spatial Tasks,Spatial Relationship,0.2659340659340659,0.37142857142857144
+ep_49,Single-Goal Temporal Tasks,Time-Based,0.8858695652173914,0.7798913043478262
+ep_49,Single-Goal Temporal Tasks,Interaction Order,0.84375,0.8622159090909091
+ep_49,Multi-Goal Tasks,Unordered Revisitation,0.5384250474383302,0.7333965844402276
+ep_49,Single-Goal Temporal Tasks,Interaction Order,0.46236559139784944,0.3548387096774193
+ep_49,Multi-Goal Tasks,Ordered Revisitation,0.7980324074074074,0.7395833333333334
+ep_49,Single-Goal Spatial Tasks,Conditional Interaction,0.8858695652173914,0.08967391304347827
+ep_49,Single-Goal Spatial Tasks,Interaction,0.6608450704225353,0.6315492957746478
+ep_49,Single-Goal Spatial Tasks,Room Visitation,0.8288770053475936,0.8213903743315508
+ep_49,Single-Goal Spatial Tasks,Object Attributes,0.7046052631578948,0.4703947368421053
+ep_49,Single-Goal Temporal Tasks,Interaction Order,0.9202127659574468,0.8936170212765958
+ep_49,Single-Goal Spatial Tasks,Object Attributes,0.7516483516483516,0.7736263736263735
+ep_49,Single-Goal Temporal Tasks,Interaction Order,0.28804347826086957,0.5543478260869565
+ep_49,Single-Goal Temporal Tasks,Interaction Order,0.7340659340659341,0.5384615384615385
+ep_49,Single-Goal Temporal Tasks,Duration Tracking,0.5217391304347826,0.48641304347826086
+ep_49,Single-Goal Spatial Tasks,Spatial Relationship,0.5425531914893618,0.8191489361702128
+ep_49,Single-Goal Spatial Tasks,Object Attributes,0.9565217391304348,0.891304347826087
+ep_49,Single-Goal Temporal Tasks,Interaction Order,0.5579240037071364,0.4077849860982391
+ep_49,Single-Goal Spatial Tasks,Object Attributes,0.9355400696864111,0.8736933797909407
+ep_49,Single-Goal Temporal Tasks,Interaction Order,0.9105113636363636,0.8394886363636364
+ep_49,Single-Goal Temporal Tasks,Interaction Order,0.358695652173913,0.3451086956521739
+ep_49,Single-Goal Temporal Tasks,Duration Tracking,0.37239089184060725,0.32400379506641364
+ep_49,Single-Goal Spatial Tasks,Object Recall,0.6664184661206255,0.6574832464631422
+ep_49,Single-Goal Spatial Tasks,Interaction,0.5126385809312639,0.7006651884700665
+ep_49,Multi-Goal Tasks,Unordered Revisitation,0.8200231481481481,0.6712962962962963
+ep_49,Single-Goal Temporal Tasks,Interaction Order,0.6692209450830141,0.5504469987228607
+ep_49,Multi-Goal Tasks,Unordered Revisitation,0.6653521126760564,0.8811267605633802
+ep_49,Single-Goal Spatial Tasks,Conditional Interaction,0.8703296703296703,0.9142857142857143
+ep_49,Single-Goal Spatial Tasks,Interaction,0.8075396825396826,0.5803571428571428
+ep_49,Single-Goal Spatial Tasks,Room Visitation,0.45557491289198604,0.3702090592334495
+ep_49,Single-Goal Spatial Tasks,Spatial Relationship,0.043478260869565244,0.5679347826086957
+ep_49,Single-Goal Spatial Tasks,Conditional Interaction,0.5450549450549451,0.6747252747252748
+ep_49,Single-Goal Temporal Tasks,Interaction Order,0.7896200185356812,0.6163113994439295
+ep_49,Single-Goal Spatial Tasks,Conditional Interaction,0.5727525486561631,0.6839666357738646
+ep_49,Single-Goal Temporal Tasks,Interaction Order,0.9164835164835164,0.8901098901098901
+ep_49,Multi-Goal Tasks,Ordered Revisitation,0.5464895635673623,0.7296015180265655
+ep_49,Single-Goal Spatial Tasks,Spatial Relationship,0.548913043478261,0.6684782608695652
+ep_49,Single-Goal Temporal Tasks,Interaction Order,0.8967032967032967,0.8945054945054945
+ep_49,Single-Goal Temporal Tasks,Duration Tracking,0.8858695652173914,0.7663043478260869
+ep_49,Single-Goal Temporal Tasks,Time-Based,0.8039772727272727,0.8181818181818182
+ep_49,Single-Goal Spatial Tasks,Interaction,0.7910879629629629,0.7957175925925927
+ep_49,Single-Goal Temporal Tasks,Interaction Order,0.6104725415070242,0.70242656449553
+ep_49,Multi-Goal Tasks,Unordered Revisitation,0.6024096385542169,0.6663577386468953
+ep_49,Single-Goal Spatial Tasks,Room Visitation,0.7465240641711229,0.839572192513369
+ep_49,Multi-Goal Tasks,Unordered Revisitation,0.6288248337028824,0.5507760532150776
+ep_49,Single-Goal Spatial Tasks,Object Recall,0.48641304347826086,0.6222826086956521
+ep_49,Single-Goal Spatial Tasks,Interaction,0.5621442125237192,0.685483870967742
+ep_49,Single-Goal Temporal Tasks,Interaction Order,0.34285714285714286,0.389010989010989
+ep_49,Multi-Goal Tasks,Unordered Revisitation,0.6431881371640408,0.6543095458758109
+ep_49,Single-Goal Spatial Tasks,Interaction,0.899641577060932,0.8637992831541218
+ep_49,Single-Goal Spatial Tasks,Room Visitation,0.4565527065527066,0.5384615384615385
+ep_49,Single-Goal Temporal Tasks,Interaction Order,0.877906976744186,0.8604651162790697
+ep_49,Single-Goal Spatial Tasks,Conditional Interaction,0.7606382978723404,0.8989361702127661
+ep_49,Single-Goal Spatial Tasks,Conditional Interaction,0.5505097312326228,0.7738646895273401
+ep_49,Multi-Goal Tasks,Ordered Revisitation,0.5746478873239437,0.744225352112676
+ep_49,Single-Goal Spatial Tasks,Object Attributes,0.6467391304347826,0.8505434782608696
+ep_49,Single-Goal Spatial Tasks,Spatial Relationship,0.20108695652173914,0.28532608695652173
+ep_49,Single-Goal Temporal Tasks,Interaction Order,0.32065217391304346,0.6358695652173914
+ep_53,Single-Goal Temporal Tasks,Interaction Order,0.671875,0.9156249999999999
+ep_53,Single-Goal Spatial Tasks,Object Recall,0.6756578947368421,0.45197368421052636
+ep_53,Single-Goal Spatial Tasks,Interaction,0.7526339899221255,0.5336692624828219
+ep_53,Multi-Goal Tasks,Unordered Revisitation,0.6649305555555555,0.5907118055555556
+ep_53,Single-Goal Spatial Tasks,Conditional Interaction,0.8925925925925926,0.3574074074074074
+ep_53,Single-Goal Spatial Tasks,Room Visitation,0.3932394366197184,0.6377464788732394
+ep_53,Single-Goal Spatial Tasks,Interaction,0.5525568181818182,0.5639204545454546
+ep_53,Multi-Goal Tasks,Unordered Revisitation,0.3978494623655914,0.6953405017921146
+ep_53,Multi-Goal Tasks,Ordered Revisitation,0.26301663982823403,0.6682769726247987
+ep_53,Single-Goal Spatial Tasks,Object Attributes,0.6264204545454546,0.7244318181818181
+ep_53,Single-Goal Temporal Tasks,Interaction Order,0.7014446227929374,0.5168539325842696
+ep_53,Single-Goal Spatial Tasks,Conditional Interaction,0.6342245989304812,0.28021390374331545
+ep_53,Single-Goal Temporal Tasks,Interaction Order,0.9130434782608695,0.6467391304347826
+ep_53,Single-Goal Spatial Tasks,Spatial Relationship,0.574331550802139,0.41711229946524064
+ep_53,Single-Goal Temporal Tasks,Interaction Order,0.9032258064516129,0.8494623655913979
+ep_53,Multi-Goal Tasks,Ordered Revisitation,0.39395327530920754,0.8625744388456252
+ep_53,Single-Goal Spatial Tasks,Conditional Interaction,0.28315412186379924,0.3512544802867383
+ep_53,Single-Goal Temporal Tasks,Interaction Order,0.7692307692307692,0.6725274725274725
+ep_53,Single-Goal Spatial Tasks,Spatial Relationship,0.49090909090909096,0.34652406417112297
+ep_53,Single-Goal Temporal Tasks,Duration Tracking,0.33967391304347827,0.30163043478260865
+ep_53,Single-Goal Temporal Tasks,Interaction Order,0.9184782608695652,0.4945652173913043
+ep_53,Single-Goal Spatial Tasks,Spatial Relationship,0.2652329749103942,0.2186379928315412
+ep_53,Single-Goal Temporal Tasks,Interaction Order,0.43617021276595747,0.5425531914893618
+ep_53,Single-Goal Spatial Tasks,Interaction,0.642820380854349,0.4745239320638188
+ep_53,Single-Goal Temporal Tasks,Time-Based,0.4494902687673772,0.4531974050046339
+ep_53,Single-Goal Spatial Tasks,Room Visitation,0.39371155160628846,0.47026657552973344
+ep_53,Single-Goal Spatial Tasks,Conditional Interaction,0.5489130434782609,0.35054347826086957
+ep_53,Multi-Goal Tasks,Unordered Revisitation,0.6262099776619509,0.44080416976917347
+ep_53,Single-Goal Spatial Tasks,Object Attributes,0.6115569823434991,0.1765650080256822
+ep_53,Single-Goal Temporal Tasks,Interaction Order,0.7604395604395604,0.6131868131868132
+ep_53,Single-Goal Spatial Tasks,Object Attributes,0.842391304347826,0.8478260869565217
+ep_53,Single-Goal Spatial Tasks,Conditional Interaction,0.8919786096256684,0.6716577540106952
+ep_53,Single-Goal Spatial Tasks,Spatial Relationship,0.5914438502673797,0.5818181818181818
+ep_53,Single-Goal Temporal Tasks,Duration Tracking,0.312112676056338,0.688450704225352
+ep_53,Single-Goal Temporal Tasks,Interaction Order,0.6594982078853046,0.27240143369175623
+ep_53,Single-Goal Temporal Tasks,Interaction Order,0.5922953451043338,0.6886035313001605
+ep_53,Single-Goal Spatial Tasks,Object Recall,0.8888888888888888,0.2867383512544803
+ep_53,Multi-Goal Tasks,Unordered Revisitation,0.6814204837879568,0.3540916109109624
+ep_53,Single-Goal Temporal Tasks,Interaction Order,0.6283524904214559,0.37420178799489145
+ep_53,Single-Goal Spatial Tasks,Interaction,0.6501736111111112,0.9010416666666665
+ep_53,Single-Goal Spatial Tasks,Room Visitation,0.35830985915492963,0.5616901408450704
+ep_53,Single-Goal Spatial Tasks,Interaction,0.3901712583767684,0.49292628443782577
+ep_53,Multi-Goal Tasks,Unordered Revisitation,0.3446054750402576,0.7139023081052066
+ep_53,Single-Goal Temporal Tasks,Interaction Order,0.2831541218637993,0.4551971326164874
+ep_53,Single-Goal Temporal Tasks,Interaction Order,0.5956043956043956,0.31868131868131866
+ep_53,Multi-Goal Tasks,Unordered Revisitation,0.5771873568483739,0.5579477782867613
+ep_53,Single-Goal Temporal Tasks,Time-Based,0.32974910394265233,0.5412186379928315
+ep_53,Single-Goal Spatial Tasks,Room Visitation,0.5443850267379678,0.546524064171123
+ep_53,Single-Goal Spatial Tasks,Interaction,0.5544820182501342,0.5442834138486312
+ep_53,Multi-Goal Tasks,Ordered Revisitation,0.5316520844055584,0.7334019557385486
+ep_53,Single-Goal Spatial Tasks,Object Attributes,0.38315217391304346,0.2690217391304348
+ep_53,Single-Goal Temporal Tasks,Interaction Order,0.8544061302681992,0.6168582375478927
+ep_53,Single-Goal Spatial Tasks,Object Attributes,0.5461956521739131,0.532608695652174
+ep_53,Single-Goal Spatial Tasks,Conditional Interaction,0.5931417979610751,0.40871177015755333
+ep_53,Single-Goal Temporal Tasks,Duration Tracking,0.8602150537634408,0.8853046594982079
+ep_53,Single-Goal Temporal Tasks,Interaction Order,0.6407407407407407,0.8018518518518518
+ep_53,Single-Goal Temporal Tasks,Interaction Order,0.7282608695652174,0.8043478260869565
+ep_55,Single-Goal Spatial Tasks,Object Attributes,0.8858695652173912,0.25
+ep_55,Single-Goal Temporal Tasks,Interaction Order,0.7444444444444445,0.6
+ep_55,Single-Goal Spatial Tasks,Object Recall,0.6871008939974457,0.6526181353767561
+ep_55,Single-Goal Spatial Tasks,Object Attributes,0.978494623655914,0.5232974910394265
+ep_55,Single-Goal Temporal Tasks,Duration Tracking,0.5611111111111111,0.2925925925925926
+ep_55,Single-Goal Temporal Tasks,Interaction Order,0.6593406593406593,0.7472527472527473
+ep_55,Single-Goal Temporal Tasks,Interaction Order,0.7956043956043957,0.6241758241758242
+ep_55,Single-Goal Spatial Tasks,Conditional Interaction,0.5710227272727273,0.5781250000000001
+ep_55,Single-Goal Temporal Tasks,Interaction Order,0.6272401433691757,0.2473118279569892
+ep_55,Multi-Goal Tasks,Unordered Revisitation,0.543355119825708,0.730718954248366
+ep_55,Single-Goal Temporal Tasks,Interaction Order,0.5457463884430176,0.7640449438202247
+ep_55,Single-Goal Temporal Tasks,Time-Based,0.6277777777777778,0.5185185185185185
+ep_55,Single-Goal Spatial Tasks,Room Visitation,0.5267979844251031,0.5071003206596427
+ep_55,Single-Goal Spatial Tasks,Interaction,0.6272246272246272,0.7128427128427128
+ep_55,Multi-Goal Tasks,Ordered Revisitation,0.7782118055555555,0.46137152777777773
+ep_55,Single-Goal Temporal Tasks,Interaction Order,0.6314814814814815,0.7611111111111111
+ep_55,Multi-Goal Tasks,Unordered Revisitation,0.8116319444444444,0.6241319444444444
+ep_55,Single-Goal Spatial Tasks,Interaction,0.5691092584466872,0.7814831066257131
+ep_55,Single-Goal Spatial Tasks,Room Visitation,0.30497685185185186,0.5162037037037037
+ep_55,Single-Goal Spatial Tasks,Interaction,0.6145136387030365,0.8378795676788472
+ep_55,Multi-Goal Tasks,Unordered Revisitation,0.6714766714766714,0.5978835978835979
+ep_55,Single-Goal Spatial Tasks,Object Attributes,0.7572368421052631,0.5828947368421052
+ep_55,Single-Goal Temporal Tasks,Interaction Order,0.4895238095238095,0.5746031746031746
+ep_55,Single-Goal Spatial Tasks,Object Attributes,0.5054945054945055,0.7252747252747253
+ep_55,Single-Goal Spatial Tasks,Spatial Relationship,0.5568181818181819,0.44886363636363635
+ep_55,Single-Goal Temporal Tasks,Duration Tracking,0.5666513971598718,0.4741181859825928
+ep_55,Single-Goal Temporal Tasks,Interaction Order,0.4301075268817204,0.2974910394265233
+ep_55,Single-Goal Temporal Tasks,Interaction Order,0.4693732193732194,0.5584045584045584
+ep_55,Single-Goal Spatial Tasks,Conditional Interaction,0.712962962962963,0.6462962962962964
+ep_55,Single-Goal Temporal Tasks,Interaction Order,0.6636904761904762,0.7271825396825397
+ep_55,Single-Goal Spatial Tasks,Interaction,0.7078993055555555,0.7387152777777778
+ep_55,Single-Goal Temporal Tasks,Time-Based,0.6372093023255814,0.6965116279069767
+ep_55,Single-Goal Spatial Tasks,Room Visitation,0.573697270471464,0.43126550868486346
+ep_55,Single-Goal Spatial Tasks,Conditional Interaction,0.5185185185185186,0.44032921810699593
+ep_55,Multi-Goal Tasks,Unordered Revisitation,0.642314990512334,0.7300759013282733
+ep_55,Multi-Goal Tasks,Ordered Revisitation,0.5485838779956427,0.6736383442265795
+ep_55,Single-Goal Temporal Tasks,Interaction Order,0.5781250000000001,0.5710227272727273
+ep_55,Single-Goal Temporal Tasks,Interaction Order,0.7110754414125201,0.6597110754414125
+ep_55,Single-Goal Spatial Tasks,Conditional Interaction,0.7394636015325671,0.4661558109833972
+ep_55,Single-Goal Spatial Tasks,Object Recall,1.0,0.12544802867383517
+ep_55,Single-Goal Spatial Tasks,Spatial Relationship,0.5369318181818181,0.5511363636363636
+ep_55,Single-Goal Temporal Tasks,Duration Tracking,0.6395604395604395,0.6505494505494506
+ep_55,Single-Goal Temporal Tasks,Interaction Order,0.8351648351648352,0.8791208791208791
+ep_55,Single-Goal Spatial Tasks,Spatial Relationship,0.4944444444444444,0.6314814814814815
+ep_55,Single-Goal Spatial Tasks,Object Attributes,0.8222222222222222,0.7944444444444445
+ep_55,Multi-Goal Tasks,Ordered Revisitation,0.5132275132275133,0.7205387205387206
+ep_55,Single-Goal Spatial Tasks,Conditional Interaction,0.8185185185185185,0.7148148148148148
+ep_55,Single-Goal Temporal Tasks,Interaction Order,0.49572649572649574,0.2621082621082621
+ep_55,Single-Goal Temporal Tasks,Interaction Order,0.7934065934065935,0.5912087912087912
+ep_55,Single-Goal Spatial Tasks,Spatial Relationship,0.5454545454545455,0.5965909090909092
+ep_55,Single-Goal Spatial Tasks,Conditional Interaction,0.719298245614035,0.6797121007647324
+ep_55,Single-Goal Temporal Tasks,Interaction Order,0.5942460317460317,0.7926587301587302
+ep_55,Single-Goal Spatial Tasks,Interaction,0.592156862745098,0.6666666666666666
+ep_55,Multi-Goal Tasks,Unordered Revisitation,0.5730583589293551,0.5471698113207547
+ep_55,Single-Goal Spatial Tasks,Room Visitation,0.4681712962962962,0.32291666666666663
+ep_55,Single-Goal Spatial Tasks,Interaction,0.49135802469135803,0.5423868312757202
+ep_55,Multi-Goal Tasks,Unordered Revisitation,0.7094017094017094,0.6374269005847953
+ep_59,Single-Goal Spatial Tasks,Room Visitation,0.32568359375,0.43896484375
+ep_59,Single-Goal Spatial Tasks,Conditional Interaction,0.7611111111111111,0.7740740740740741
+ep_59,Multi-Goal Tasks,Unordered Revisitation,0.48897707231040566,0.5824514991181658
+ep_59,Single-Goal Spatial Tasks,Interaction,0.6269736842105262,0.7210526315789474
+ep_59,Single-Goal Spatial Tasks,Interaction,0.6430976430976431,0.7008177008177009
+ep_59,Single-Goal Temporal Tasks,Interaction Order,0.7221254355400697,0.554006968641115
+ep_59,Multi-Goal Tasks,Unordered Revisitation,0.79491833030853,0.8289473684210527
+ep_59,Single-Goal Temporal Tasks,Interaction Order,0.34505494505494505,0.2967032967032967
+ep_59,Single-Goal Temporal Tasks,Duration Tracking,0.6718403547671841,0.7170731707317073
+ep_59,Single-Goal Temporal Tasks,Interaction Order,0.6545138888888888,0.5914351851851852
+ep_59,Single-Goal Temporal Tasks,Interaction Order,0.6592105263157895,0.5861842105263158
+ep_59,Single-Goal Spatial Tasks,Object Attributes,0.7164835164835165,0.7296703296703296
+ep_59,Single-Goal Spatial Tasks,Object Attributes,0.59375,0.5511363636363636
+ep_59,Single-Goal Temporal Tasks,Interaction Order,0.6296296296296297,0.5592592592592592
+ep_59,Single-Goal Temporal Tasks,Duration Tracking,0.44602272727272724,0.3806818181818181
+ep_59,Single-Goal Spatial Tasks,Object Recall,0.8285714285714286,0.7956043956043957
+ep_59,Single-Goal Temporal Tasks,Interaction Order,0.29230769230769227,0.9274725274725275
+ep_59,Single-Goal Temporal Tasks,Interaction Order,0.7106481481481481,0.6608796296296297
+ep_59,Single-Goal Spatial Tasks,Object Attributes,0.5406593406593406,0.5252747252747253
+ep_59,Single-Goal Spatial Tasks,Object Attributes,0.5553977272727273,0.4744318181818182
+ep_59,Single-Goal Spatial Tasks,Room Visitation,0.333984375,0.7861328125
+ep_59,Single-Goal Spatial Tasks,Conditional Interaction,0.8629629629629629,0.5925925925925926
+ep_59,Multi-Goal Tasks,Ordered Revisitation,0.7667876588021779,0.6665154264972777
+ep_59,Single-Goal Spatial Tasks,Interaction,0.48897707231040566,0.44753086419753085
+ep_59,Single-Goal Temporal Tasks,Interaction Order,0.306980056980057,0.34971509971509973
+ep_59,Single-Goal Temporal Tasks,Time-Based,0.40954415954415957,0.3874643874643875
+ep_59,Multi-Goal Tasks,Unordered Revisitation,0.6023391812865497,0.34997750787224463
+ep_59,Single-Goal Temporal Tasks,Interaction Order,0.6435185185185186,0.7100694444444445
+ep_59,Single-Goal Temporal Tasks,Interaction Order,0.5397727272727273,0.6832386363636365
+ep_59,Single-Goal Spatial Tasks,Conditional Interaction,0.7518518518518519,0.7388888888888889
+ep_59,Single-Goal Temporal Tasks,Interaction Order,0.4119318181818182,0.6207386363636364
+ep_59,Single-Goal Spatial Tasks,Object Attributes,0.49010989010989015,0.34285714285714286
+ep_59,Multi-Goal Tasks,Ordered Revisitation,0.3090828924162258,0.4885361552028219
+ep_59,Single-Goal Spatial Tasks,Conditional Interaction,0.9105113636363635,0.8053977272727273
+ep_59,Single-Goal Spatial Tasks,Room Visitation,0.6549889135254988,0.7458980044345899
+ep_59,Multi-Goal Tasks,Unordered Revisitation,0.6925925925925926,0.6388888888888888
+ep_59,Single-Goal Temporal Tasks,Interaction Order,0.456950456950457,0.38768638768638775
+ep_59,Multi-Goal Tasks,Unordered Revisitation,0.6503126503126503,0.7974987974987975
+ep_59,Single-Goal Spatial Tasks,Interaction,0.6122357174988753,0.618983355825461
+ep_59,Single-Goal Spatial Tasks,Room Visitation,0.7215077605321508,0.6611973392461197
+ep_59,Multi-Goal Tasks,Unordered Revisitation,0.6120018323408154,0.5075584058634905
+ep_59,Single-Goal Temporal Tasks,Interaction Order,0.5801393728222997,0.5905923344947736
+ep_59,Single-Goal Temporal Tasks,Time-Based,0.7,0.5144736842105263
+ep_59,Single-Goal Spatial Tasks,Interaction,0.7785843920145191,0.7400181488203267
+ep_59,Single-Goal Temporal Tasks,Interaction Order,0.7092592592592593,0.5685185185185185
+ep_59,Single-Goal Temporal Tasks,Duration Tracking,0.40028490028490027,0.4672364672364672
+ep_59,Single-Goal Spatial Tasks,Object Recall,0.6120018323408154,0.38341731562070547
+ep_59,Single-Goal Temporal Tasks,Interaction Order,0.521885521885522,0.4184704184704185
+ep_59,Single-Goal Spatial Tasks,Conditional Interaction,0.5139372822299652,0.4442508710801394
+ep_59,Multi-Goal Tasks,Ordered Revisitation,0.524966261808367,0.5416104363472785
+ep_59,Single-Goal Temporal Tasks,Interaction Order,0.328125,0.31676136363636365
+ep_59,Single-Goal Spatial Tasks,Conditional Interaction,0.65625,0.4076704545454546
+ep_63,Multi-Goal Tasks,Ordered Revisitation,0.3741758241758242,0.6368131868131868
+ep_63,Single-Goal Spatial Tasks,Object Attributes,0.6845878136200716,0.6344086021505376
+ep_63,Single-Goal Spatial Tasks,Conditional Interaction,0.41218637992831536,0.5806451612903225
+ep_63,Single-Goal Temporal Tasks,Interaction Order,0.9148936170212766,0.8457446808510638
+ep_63,Single-Goal Spatial Tasks,Conditional Interaction,0.9361702127659575,0.8138297872340426
+ep_63,Single-Goal Temporal Tasks,Interaction Order,0.6272401433691757,0.5663082437275986
+ep_63,Single-Goal Spatial Tasks,Spatial Relationship,0.8233695652173914,0.8125
+ep_63,Single-Goal Temporal Tasks,Interaction Order,0.8315412186379928,0.7419354838709679
+ep_63,Single-Goal Spatial Tasks,Interaction,0.4718277599633532,0.6953733394411361
+ep_63,Multi-Goal Tasks,Unordered Revisitation,0.4891304347826087,0.44608695652173913
+ep_63,Single-Goal Spatial Tasks,Room Visitation,0.6186067019400352,0.5361552028218695
+ep_63,Single-Goal Spatial Tasks,Interaction,0.6953405017921147,0.5913978494623656
+ep_63,Multi-Goal Tasks,Unordered Revisitation,0.8342245989304813,0.37967914438502676
+ep_63,Single-Goal Temporal Tasks,Interaction Order,0.5106382978723405,0.6968085106382979
+ep_63,Single-Goal Spatial Tasks,Interaction,0.41126760563380277,0.5284507042253521
+ep_63,Single-Goal Spatial Tasks,Object Recall,0.636015325670498,0.35887611749680715
+ep_63,Single-Goal Temporal Tasks,Time-Based,0.20390624999999996,0.15781250000000002
+ep_63,Single-Goal Spatial Tasks,Room Visitation,0.6014109347442681,0.5335097001763668
+ep_63,Multi-Goal Tasks,Unordered Revisitation,0.22554347826086954,0.13043478260869565
+ep_63,Single-Goal Temporal Tasks,Interaction Order,0.7635869565217391,0.592391304347826
+ep_63,Multi-Goal Tasks,Ordered Revisitation,0.37196518552450764,0.5584058634906093
+ep_63,Single-Goal Spatial Tasks,Conditional Interaction,0.1847826086956522,0.9402173913043479
+ep_63,Single-Goal Spatial Tasks,Conditional Interaction,0.45494505494505494,0.5648351648351648
+ep_63,Single-Goal Temporal Tasks,Interaction Order,0.5934065934065934,0.7428571428571429
+ep_63,Single-Goal Spatial Tasks,Spatial Relationship,0.8315217391304348,0.625
+ep_63,Single-Goal Temporal Tasks,Duration Tracking,0.6195652173913044,0.5842391304347827
+ep_63,Single-Goal Temporal Tasks,Interaction Order,0.7690217391304347,0.5163043478260869
+ep_63,Single-Goal Spatial Tasks,Spatial Relationship,0.601063829787234,0.6382978723404256
+ep_63,Multi-Goal Tasks,Unordered Revisitation,0.4428169014084507,0.3515492957746479
+ep_63,Single-Goal Temporal Tasks,Interaction Order,0.7872340425531915,0.824468085106383
+ep_63,Single-Goal Spatial Tasks,Interaction,0.47608695652173916,0.4404347826086957
+ep_63,Single-Goal Spatial Tasks,Room Visitation,0.5220458553791887,0.5881834215167548
+ep_63,Single-Goal Spatial Tasks,Interaction,0.6848684210526316,0.7039473684210527
+ep_63,Multi-Goal Tasks,Unordered Revisitation,0.5368131868131868,0.7120879120879121
+ep_63,Single-Goal Spatial Tasks,Object Attributes,0.7865168539325843,0.667736757624398
+ep_63,Single-Goal Temporal Tasks,Interaction Order,0.32578124999999997,0.23984375
+ep_63,Single-Goal Spatial Tasks,Object Attributes,0.4157706093189964,0.49103942652329735
+ep_63,Single-Goal Spatial Tasks,Spatial Relationship,0.9414893617021277,0.973404255319149
+ep_63,Single-Goal Temporal Tasks,Duration Tracking,0.5361552028218695,0.38315696649029984
+ep_63,Single-Goal Temporal Tasks,Interaction Order,0.6914893617021276,0.7340425531914894
+ep_63,Single-Goal Temporal Tasks,Interaction Order,0.3670212765957447,0.5265957446808511
+ep_63,Single-Goal Spatial Tasks,Object Attributes,0.7358288770053476,0.6695187165775401
+ep_63,Single-Goal Temporal Tasks,Interaction Order,0.9574468085106383,0.898936170212766
+ep_63,Single-Goal Spatial Tasks,Object Attributes,0.4985795454545454,0.4289772727272727
+ep_63,Single-Goal Temporal Tasks,Duration Tracking,0.5232974910394265,0.7168458781362007
+ep_63,Single-Goal Temporal Tasks,Interaction Order,0.7921146953405017,0.899641577060932
+ep_63,Single-Goal Temporal Tasks,Interaction Order,0.13620071684587814,0.2508960573476702
+ep_63,Single-Goal Temporal Tasks,Interaction Order,0.4372759856630824,0.3154121863799283
+ep_63,Single-Goal Spatial Tasks,Object Recall,0.9181380417335473,0.7897271268057785
+ep_63,Single-Goal Temporal Tasks,Interaction Order,0.7204301075268816,0.5053763440860215
+ep_63,Multi-Goal Tasks,Unordered Revisitation,0.4173156207054512,0.646816307833257
+ep_63,Single-Goal Temporal Tasks,Time-Based,0.7885304659498209,0.6451612903225807
+ep_63,Single-Goal Spatial Tasks,Room Visitation,0.5163139329805996,0.39814814814814814
+ep_63,Single-Goal Spatial Tasks,Interaction,0.5131868131868131,0.5340659340659341
+ep_63,Single-Goal Spatial Tasks,Conditional Interaction,0.6382978723404256,0.675531914893617
+ep_63,Multi-Goal Tasks,Ordered Revisitation,0.3515492957746479,0.4591549295774648
+ep_65,Single-Goal Spatial Tasks,Room Visitation,0.56015625,0.5023437500000001
+ep_65,Multi-Goal Tasks,Unordered Revisitation,0.6053240740740741,0.6822916666666666
+ep_65,Single-Goal Spatial Tasks,Interaction,0.7083333333333334,0.5773809523809523
+ep_65,Single-Goal Spatial Tasks,Conditional Interaction,0.7092592592592593,0.625925925925926
+ep_65,Single-Goal Spatial Tasks,Interaction,0.6274250440917107,0.8813932980599648
+ep_65,Multi-Goal Tasks,Unordered Revisitation,0.6609336609336609,0.39189189189189194
+ep_65,Single-Goal Temporal Tasks,Interaction Order,0.5814814814814815,0.6388888888888888
+ep_65,Single-Goal Temporal Tasks,Interaction Order,0.4982078853046594,0.45878136200716846
+ep_65,Single-Goal Temporal Tasks,Duration Tracking,0.5936507936507937,0.4793650793650794
+ep_65,Single-Goal Temporal Tasks,Interaction Order,0.5833333333333334,0.5074074074074073
+ep_65,Single-Goal Temporal Tasks,Interaction Order,0.6451612903225806,0.44802867383512546
+ep_65,Single-Goal Spatial Tasks,Object Attributes,0.2437275985663082,0.2974910394265233
+ep_65,Single-Goal Spatial Tasks,Spatial Relationship,0.5648148148148149,0.5425925925925926
+ep_65,Single-Goal Spatial Tasks,Object Attributes,0.8989010989010988,0.8923076923076925
+ep_65,Single-Goal Temporal Tasks,Interaction Order,0.9384615384615385,0.8615384615384615
+ep_65,Single-Goal Temporal Tasks,Duration Tracking,0.6774193548387096,0.5232974910394266
+ep_65,Single-Goal Temporal Tasks,Interaction Order,0.5159574468085106,0.5638297872340425
+ep_65,Single-Goal Temporal Tasks,Interaction Order,0.5760869565217391,0.5652173913043478
+ep_65,Single-Goal Spatial Tasks,Object Attributes,0.7065217391304348,0.7255434782608696
+ep_65,Single-Goal Spatial Tasks,Object Recall,0.7526881720430106,0.6917562724014337
+ep_65,Single-Goal Spatial Tasks,Object Attributes,0.6500802568218299,0.478330658105939
+ep_65,Single-Goal Spatial Tasks,Room Visitation,0.44086021505376344,0.4444444444444444
+ep_65,Multi-Goal Tasks,Ordered Revisitation,0.5257985257985258,0.5423832923832924
+ep_65,Single-Goal Spatial Tasks,Interaction,0.642361111111111,0.7974537037037037
+ep_65,Single-Goal Spatial Tasks,Conditional Interaction,0.2508960573476703,0.6559139784946236
+ep_65,Single-Goal Temporal Tasks,Interaction Order,0.4444444444444444,0.3763440860215054
+ep_65,Single-Goal Temporal Tasks,Time-Based,0.6774193548387096,0.8853046594982079
+ep_65,Single-Goal Temporal Tasks,Interaction Order,0.5340501792114696,0.5806451612903226
+ep_65,Multi-Goal Tasks,Unordered Revisitation,0.6302729528535981,0.37617866004962786
+ep_65,Single-Goal Temporal Tasks,Interaction Order,0.6711956521739131,0.5570652173913043
+ep_65,Single-Goal Spatial Tasks,Conditional Interaction,0.8206521739130435,0.6304347826086957
+ep_65,Single-Goal Spatial Tasks,Spatial Relationship,0.3763440860215054,0.7096774193548386
+ep_65,Single-Goal Temporal Tasks,Interaction Order,0.5788043478260869,0.46739130434782605
+ep_65,Single-Goal Spatial Tasks,Conditional Interaction,0.6521739130434783,0.5489130434782609
+ep_65,Multi-Goal Tasks,Ordered Revisitation,0.4641203703703704,0.7413194444444445
+ep_65,Single-Goal Spatial Tasks,Object Attributes,0.8571428571428572,0.9098901098901099
+ep_65,Single-Goal Spatial Tasks,Room Visitation,0.50703125,0.5265625
+ep_65,Multi-Goal Tasks,Unordered Revisitation,0.9789473684210527,0.33684210526315794
+ep_65,Single-Goal Spatial Tasks,Interaction,0.44176136363636365,0.5227272727272727
+ep_65,Single-Goal Temporal Tasks,Interaction Order,0.9498207885304659,0.7634408602150538
+ep_65,Multi-Goal Tasks,Unordered Revisitation,0.5692239858906526,0.44576719576719576
+ep_65,Single-Goal Spatial Tasks,Interaction,0.6843672456575682,0.674441687344913
+ep_65,Single-Goal Spatial Tasks,Room Visitation,0.5492063492063493,0.6253968253968254
+ep_65,Multi-Goal Tasks,Unordered Revisitation,0.7292464878671774,0.756066411238825
+ep_65,Single-Goal Temporal Tasks,Interaction Order,0.5907407407407408,0.5888888888888889
+ep_65,Single-Goal Temporal Tasks,Time-Based,0.3894736842105263,0.4842105263157894
+ep_65,Single-Goal Spatial Tasks,Interaction,0.5847665847665848,0.5816953316953316
+ep_65,Single-Goal Temporal Tasks,Interaction Order,0.4874551971326165,0.3584229390681003
+ep_65,Single-Goal Temporal Tasks,Duration Tracking,0.7240143369175627,0.9462365591397849
+ep_65,Single-Goal Spatial Tasks,Conditional Interaction,0.8853046594982078,0.7060931899641577
+ep_65,Single-Goal Spatial Tasks,Spatial Relationship,0.4910394265232974,0.4086021505376344
+ep_65,Single-Goal Spatial Tasks,Conditional Interaction,0.7578125,0.7671874999999999
+ep_65,Single-Goal Temporal Tasks,Interaction Order,0.6028097062579821,0.5772669220945084
+ep_65,Single-Goal Temporal Tasks,Interaction Order,0.4946236559139785,0.5053763440860215
+ep_65,Multi-Goal Tasks,Ordered Revisitation,0.5464019851116626,0.6937965260545906
+ep_65,Single-Goal Spatial Tasks,Spatial Relationship,0.3978494623655914,0.6523297491039427
+ep_65,Single-Goal Spatial Tasks,Object Recall,0.5976658476658476,0.5878378378378378
+ep_69,Single-Goal Spatial Tasks,Object Attributes,0.6388888888888888,0.42592592592592593
+ep_69,Multi-Goal Tasks,Ordered Revisitation,0.5399274047186933,0.5980036297640654
+ep_69,Single-Goal Spatial Tasks,Conditional Interaction,0.6611111111111112,0.575925925925926
+ep_69,Single-Goal Temporal Tasks,Interaction Order,0.7364672364672364,0.6431623931623932
+ep_69,Single-Goal Spatial Tasks,Spatial Relationship,0.7301136363636364,0.6221590909090909
+ep_69,Single-Goal Spatial Tasks,Conditional Interaction,0.7234567901234568,0.7349794238683127
+ep_69,Single-Goal Temporal Tasks,Interaction Order,0.6314814814814815,0.4685185185185185
+ep_69,Single-Goal Spatial Tasks,Interaction,0.7794918330308529,0.750453720508167
+ep_69,Multi-Goal Tasks,Unordered Revisitation,0.7305210918114144,0.759801488833747
+ep_69,Single-Goal Temporal Tasks,Interaction Order,0.7713068181818182,0.6264204545454546
+ep_69,Single-Goal Spatial Tasks,Interaction,0.25370370370370365,0.28888888888888886
+ep_69,Multi-Goal Tasks,Unordered Revisitation,0.6341463414634146,0.8057491289198606
+ep_69,Single-Goal Spatial Tasks,Object Recall,0.5574074074074074,0.33148148148148143
+ep_69,Single-Goal Spatial Tasks,Room Visitation,0.29239436619718306,0.40225352112676055
+ep_69,Single-Goal Spatial Tasks,Interaction,0.845107503290917,0.7538394032470381
+ep_69,Single-Goal Temporal Tasks,Time-Based,0.5847578347578347,0.5876068376068377
+ep_69,Single-Goal Temporal Tasks,Interaction Order,0.7379679144385026,0.7593582887700535
+ep_69,Multi-Goal Tasks,Unordered Revisitation,0.6656079854809438,0.6270417422867514
+ep_69,Single-Goal Spatial Tasks,Room Visitation,0.6849315068493151,0.6605122096486004
+ep_69,Single-Goal Spatial Tasks,Spatial Relationship,0.6732954545454546,0.6889204545454546
+ep_69,Multi-Goal Tasks,Ordered Revisitation,0.632486388384755,0.706442831215971
+ep_69,Single-Goal Temporal Tasks,Interaction Order,0.7744565217391305,0.7880434782608696
+ep_69,Single-Goal Temporal Tasks,Interaction Order,0.6798212956068503,0.7550260610573343
+ep_69,Single-Goal Spatial Tasks,Conditional Interaction,0.6756756756756757,0.7131449631449631
+ep_69,Single-Goal Spatial Tasks,Spatial Relationship,0.8043478260869565,0.8288043478260869
+ep_69,Single-Goal Spatial Tasks,Conditional Interaction,0.6484817292846115,0.6546577457539886
+ep_69,Single-Goal Temporal Tasks,Duration Tracking,0.32608695652173914,0.41304347826086957
+ep_69,Single-Goal Temporal Tasks,Interaction Order,0.6195652173913044,0.13043478260869568
+ep_69,Single-Goal Temporal Tasks,Interaction Order,0.7897727272727273,0.6349431818181819
+ep_69,Multi-Goal Tasks,Unordered Revisitation,0.8380868802106187,0.7849934181658621
+ep_69,Single-Goal Spatial Tasks,Interaction,0.7935483870967742,0.6000000000000001
+ep_69,Single-Goal Spatial Tasks,Conditional Interaction,0.14814814814814817,0.35555555555555557
+ep_69,Single-Goal Spatial Tasks,Interaction,0.6301369863013699,0.7194758784991067
+ep_69,Multi-Goal Tasks,Unordered Revisitation,0.4872958257713249,0.5653357531760436
+ep_69,Single-Goal Spatial Tasks,Room Visitation,0.32450704225352117,0.4225352112676056
+ep_69,Single-Goal Spatial Tasks,Object Recall,0.6425153793574846,0.7409432672590568
+ep_69,Single-Goal Spatial Tasks,Object Attributes,0.7418478260869565,0.4184782608695652
+ep_69,Single-Goal Spatial Tasks,Spatial Relationship,0.7542613636363636,0.6732954545454545
+ep_69,Single-Goal Spatial Tasks,Object Attributes,0.788888888888889,0.6166666666666667
+ep_69,Single-Goal Temporal Tasks,Interaction Order,0.6666666666666666,0.6607142857142857
+ep_69,Single-Goal Temporal Tasks,Interaction Order,0.7571022727272727,0.5625
+ep_69,Single-Goal Temporal Tasks,Duration Tracking,0.3554929577464788,0.31999999999999995
+ep_69,Single-Goal Temporal Tasks,Interaction Order,0.8369565217391304,0.828804347826087
+ep_69,Single-Goal Spatial Tasks,Object Attributes,0.4372093023255814,0.42558139534883715
+ep_69,Single-Goal Spatial Tasks,Object Attributes,0.9266304347826088,0.7717391304347826
+ep_69,Single-Goal Temporal Tasks,Interaction Order,0.6321667907669397,0.6932241250930752
+ep_69,Single-Goal Temporal Tasks,Interaction Order,0.5333333333333333,0.5574074074074075
+ep_69,Single-Goal Temporal Tasks,Duration Tracking,0.796195652173913,0.8342391304347825
+ep_69,Single-Goal Temporal Tasks,Interaction Order,0.5814814814814815,0.5481481481481482
+ep_69,Multi-Goal Tasks,Unordered Revisitation,0.706442831215971,0.632486388384755
+ep_69,Single-Goal Temporal Tasks,Interaction Order,0.8622159090909091,0.5667613636363635
+ep_69,Single-Goal Temporal Tasks,Time-Based,0.9293478260869565,0.8315217391304347
+ep_69,Single-Goal Temporal Tasks,Interaction Order,0.07592592592592595,0.09444444444444441
+ep_69,Single-Goal Spatial Tasks,Interaction,0.6265880217785843,0.5784936479128857
+ep_69,Multi-Goal Tasks,Ordered Revisitation,0.7977182974989029,0.7810443176831944
+ep_69,Single-Goal Spatial Tasks,Room Visitation,0.6759976176295415,0.6086956521739131
+ep_73,Single-Goal Temporal Tasks,Duration Tracking,0.7091304347826087,0.6052173913043478
+ep_73,Single-Goal Temporal Tasks,Interaction Order,0.4308510638297872,0.6276595744680851
+ep_73,Single-Goal Temporal Tasks,Interaction Order,0.6887565152643336,0.7401340282948623
+ep_73,Single-Goal Spatial Tasks,Object Attributes,0.7940340909090909,0.5071022727272727
+ep_73,Single-Goal Temporal Tasks,Interaction Order,0.5965909090909091,0.6448863636363636
+ep_73,Single-Goal Spatial Tasks,Object Attributes,0.8940217391304347,0.6983695652173914
+ep_73,Single-Goal Spatial Tasks,Object Recall,0.8307692307692307,0.7516483516483516
+ep_73,Single-Goal Spatial Tasks,Spatial Relationship,0.4989010989010989,0.5296703296703297
+ep_73,Single-Goal Spatial Tasks,Room Visitation,0.37295825771324864,0.46506352087114344
+ep_73,Single-Goal Spatial Tasks,Interaction,0.6745014245014245,0.7977207977207977
+ep_73,Multi-Goal Tasks,Unordered Revisitation,0.6457326892109501,0.36983360171765967
+ep_73,Single-Goal Spatial Tasks,Conditional Interaction,0.7465020576131688,0.6320987654320988
+ep_73,Multi-Goal Tasks,Unordered Revisitation,0.7161862527716186,0.7237250554323725
+ep_73,Single-Goal Temporal Tasks,Interaction Order,0.6989247311827956,0.6379928315412187
+ep_73,Single-Goal Spatial Tasks,Interaction,0.7112768758227292,0.6796840719613866
+ep_73,Single-Goal Spatial Tasks,Room Visitation,0.3566243194192377,0.4482758620689655
+ep_73,Single-Goal Spatial Tasks,Interaction,0.6876006441223832,0.6468062265163714
+ep_73,Multi-Goal Tasks,Ordered Revisitation,0.6292682926829268,0.576940133037694
+ep_73,Single-Goal Temporal Tasks,Interaction Order,0.5957446808510638,0.7978723404255319
+ep_73,Single-Goal Spatial Tasks,Conditional Interaction,0.6989247311827957,0.845878136200717
+ep_73,Single-Goal Temporal Tasks,Interaction Order,0.4879614767255217,0.6934189406099518
+ep_73,Multi-Goal Tasks,Unordered Revisitation,0.6714285714285714,0.5910714285714286
+ep_73,Single-Goal Temporal Tasks,Time-Based,0.5698924731182795,0.7634408602150538
+ep_73,Single-Goal Temporal Tasks,Duration Tracking,0.7635869565217391,0.8043478260869565
+ep_73,Single-Goal Temporal Tasks,Interaction Order,0.8745519713261648,0.4874551971326165
+ep_73,Single-Goal Temporal Tasks,Interaction Order,0.7340425531914894,0.30851063829787234
+ep_73,Single-Goal Spatial Tasks,Object Attributes,0.6263736263736264,0.6615384615384615
+ep_73,Single-Goal Temporal Tasks,Interaction Order,0.8709677419354839,0.7275985663082437
+ep_73,Single-Goal Spatial Tasks,Object Attributes,0.7526881720430108,0.6594982078853047
+ep_73,Single-Goal Spatial Tasks,Room Visitation,0.3216878402903811,0.27903811252268607
+ep_73,Single-Goal Spatial Tasks,Interaction,0.4588068181818182,0.3394886363636364
+ep_73,Multi-Goal Tasks,Unordered Revisitation,0.6576704545454546,0.578125
+ep_73,Single-Goal Temporal Tasks,Interaction Order,0.6857781087118392,0.5673864482501861
+ep_73,Single-Goal Spatial Tasks,Interaction,0.715625,0.6625000000000001
+ep_73,Multi-Goal Tasks,Unordered Revisitation,0.7380430013163668,0.65906099166301
+ep_73,Single-Goal Temporal Tasks,Interaction Order,0.5806451612903225,0.6451612903225805
+ep_73,Single-Goal Spatial Tasks,Spatial Relationship,0.4703296703296703,0.4989010989010989
+ep_73,Single-Goal Spatial Tasks,Conditional Interaction,0.8085106382978724,0.7340425531914894
+ep_73,Multi-Goal Tasks,Ordered Revisitation,0.36983360171765967,0.7348362855609232
+ep_73,Single-Goal Spatial Tasks,Object Attributes,0.6595744680851063,0.4148936170212766
+ep_73,Single-Goal Temporal Tasks,Interaction Order,0.7204301075268817,0.5340501792114696
+ep_73,Single-Goal Spatial Tasks,Conditional Interaction,0.6278409090909092,0.6747159090909092
+ep_73,Single-Goal Spatial Tasks,Object Recall,0.558109833971903,0.7650063856960408
+ep_73,Single-Goal Temporal Tasks,Duration Tracking,0.46953405017921146,0.6881720430107526
+ep_73,Single-Goal Temporal Tasks,Interaction Order,0.8563829787234043,0.30851063829787234
+ep_73,Single-Goal Spatial Tasks,Spatial Relationship,0.7765957446808511,0.75
+ep_73,Single-Goal Temporal Tasks,Interaction Order,0.5679347826086957,0.7445652173913042
+ep_73,Multi-Goal Tasks,Ordered Revisitation,0.5785714285714286,0.553125
+ep_73,Single-Goal Spatial Tasks,Conditional Interaction,0.36043956043956044,0.48791208791208796
+ep_73,Single-Goal Temporal Tasks,Interaction Order,0.6798212956068503,0.712583767684289
+ep_73,Single-Goal Spatial Tasks,Spatial Relationship,0.41098901098901097,0.5032967032967033
+ep_73,Single-Goal Spatial Tasks,Room Visitation,0.3253176043557169,0.4342105263157895
+ep_73,Multi-Goal Tasks,Unordered Revisitation,0.6661931818181819,0.6349431818181819
+ep_73,Single-Goal Temporal Tasks,Interaction Order,0.8028673835125448,0.8566308243727598
+ep_73,Single-Goal Spatial Tasks,Interaction,0.7082039911308204,0.5485587583148559
+ep_73,Single-Goal Temporal Tasks,Time-Based,0.6049382716049383,0.6271604938271605
+ep_75,Single-Goal Spatial Tasks,Spatial Relationship,0.4417582417582418,0.4241758241758242
+ep_75,Single-Goal Temporal Tasks,Interaction Order,0.6307692307692307,0.5274725274725275
+ep_75,Single-Goal Spatial Tasks,Conditional Interaction,0.5434782608695652,0.5896739130434783
+ep_75,Multi-Goal Tasks,Ordered Revisitation,0.46320123520329387,0.7483273288728769
+ep_75,Single-Goal Temporal Tasks,Interaction Order,0.3125,0.6902173913043478
+ep_75,Single-Goal Spatial Tasks,Spatial Relationship,0.35638297872340424,0.25531914893617025
+ep_75,Single-Goal Temporal Tasks,Interaction Order,0.2826086956521739,0.8097826086956521
+ep_75,Single-Goal Temporal Tasks,Duration Tracking,0.7296296296296296,0.5777777777777778
+ep_75,Single-Goal Temporal Tasks,Time-Based,0.8,0.9368421052631579
+ep_75,Single-Goal Spatial Tasks,Interaction,0.7032894736842106,0.5230263157894737
+ep_75,Single-Goal Temporal Tasks,Interaction Order,0.43157894736842106,0.43157894736842106
+ep_75,Multi-Goal Tasks,Unordered Revisitation,0.8033205619412517,0.685823754789272
+ep_75,Single-Goal Spatial Tasks,Room Visitation,0.6433358153387938,0.46760982874162316
+ep_75,Multi-Goal Tasks,Unordered Revisitation,0.5754464285714286,0.6995535714285714
+ep_75,Single-Goal Spatial Tasks,Interaction,0.6711271230056612,0.5851775604734946
+ep_75,Single-Goal Temporal Tasks,Interaction Order,0.4945054945054945,0.5032967032967033
+ep_75,Multi-Goal Tasks,Unordered Revisitation,0.8330658105939005,0.2985553772070626
+ep_75,Single-Goal Spatial Tasks,Interaction,0.4982078853046595,0.5089605734767025
+ep_75,Single-Goal Spatial Tasks,Object Recall,0.5644955300127714,0.7100893997445721
+ep_75,Single-Goal Spatial Tasks,Conditional Interaction,0.7400568181818181,0.17045454545454544
+ep_75,Single-Goal Temporal Tasks,Interaction Order,0.7692307692307692,0.5010989010989011
+ep_75,Single-Goal Spatial Tasks,Object Attributes,0.912962962962963,0.75
+ep_75,Multi-Goal Tasks,Ordered Revisitation,0.357355568790947,0.7820131030375223
+ep_75,Single-Goal Spatial Tasks,Conditional Interaction,0.973404255319149,0.8882978723404256
+ep_75,Single-Goal Spatial Tasks,Spatial Relationship,0.43736263736263736,0.3494505494505495
+ep_75,Single-Goal Temporal Tasks,Interaction Order,0.6114130434782609,0.4782608695652174
+ep_75,Single-Goal Temporal Tasks,Time-Based,0.6702127659574468,0.48936170212765956
+ep_75,Multi-Goal Tasks,Unordered Revisitation,0.6474523932063818,0.20329387545033456
+ep_75,Single-Goal Temporal Tasks,Interaction Order,0.4767025089605735,0.8064516129032258
+ep_75,Single-Goal Spatial Tasks,Conditional Interaction,0.8842105263157894,0.9578947368421052
+ep_75,Single-Goal Temporal Tasks,Interaction Order,0.7872340425531915,0.898936170212766
+ep_75,Multi-Goal Tasks,Ordered Revisitation,0.6467105263157894,0.5276315789473685
+ep_75,Single-Goal Spatial Tasks,Interaction,0.653960690887433,0.6605122096486004
+ep_75,Single-Goal Spatial Tasks,Room Visitation,0.3189655172413793,0.5095281306715063
+ep_75,Single-Goal Spatial Tasks,Object Attributes,0.4048913043478261,0.2826086956521739
+ep_75,Single-Goal Temporal Tasks,Interaction Order,0.36200716845878134,0.6093189964157706
+ep_75,Single-Goal Spatial Tasks,Object Attributes,0.7314814814814815,0.5092592592592593
+ep_75,Single-Goal Temporal Tasks,Interaction Order,0.6063829787234043,0.7978723404255319
+ep_75,Single-Goal Temporal Tasks,Interaction Order,0.5376344086021505,0.5376344086021505
+ep_75,Single-Goal Temporal Tasks,Duration Tracking,0.4627659574468085,0.7659574468085106
+ep_75,Single-Goal Spatial Tasks,Spatial Relationship,0.2446808510638298,0.5478723404255319
+ep_75,Single-Goal Spatial Tasks,Object Recall,0.6739130434782608,0.5380434782608696
+ep_75,Single-Goal Spatial Tasks,Object Attributes,0.8673835125448028,0.16129032258064516
+ep_75,Single-Goal Temporal Tasks,Interaction Order,0.6845878136200717,0.8100358422939067
+ep_75,Single-Goal Spatial Tasks,Object Attributes,0.8315412186379928,0.5376344086021505
+ep_75,Single-Goal Temporal Tasks,Interaction Order,0.25263157894736843,0.6421052631578947
+ep_75,Single-Goal Temporal Tasks,Interaction Order,0.4864130434782609,0.8288043478260869
+ep_75,Single-Goal Temporal Tasks,Duration Tracking,0.37794918330308525,0.5653357531760436
+ep_75,Single-Goal Spatial Tasks,Interaction,0.5736607142857143,0.8790178571428572
+ep_75,Single-Goal Temporal Tasks,Interaction Order,0.6296296296296297,0.6907407407407408
+ep_75,Multi-Goal Tasks,Unordered Revisitation,0.7506578947368421,0.6539473684210526
+ep_75,Single-Goal Spatial Tasks,Conditional Interaction,0.5213068181818182,0.29261363636363635
+ep_75,Multi-Goal Tasks,Unordered Revisitation,0.6545562835020846,0.6998213222156044
+ep_75,Single-Goal Spatial Tasks,Interaction,0.6185915492957746,0.6061971830985916
+ep_75,Single-Goal Spatial Tasks,Room Visitation,0.2813067150635209,0.6007259528130671
+ep_79,Single-Goal Temporal Tasks,Interaction Order,0.8629629629629629,0.3833333333333333
+ep_79,Single-Goal Spatial Tasks,Interaction,0.6452453321754233,0.7125488493269647
+ep_79,Multi-Goal Tasks,Unordered Revisitation,0.5226752175904719,0.7123224919835088
+ep_79,Single-Goal Spatial Tasks,Room Visitation,0.48321759259259256,0.5989583333333335
+ep_79,Single-Goal Spatial Tasks,Interaction,0.611111111111111,0.4666666666666667
+ep_79,Multi-Goal Tasks,Unordered Revisitation,0.6179361179361179,0.7469287469287469
+ep_79,Multi-Goal Tasks,Ordered Revisitation,0.4796015180265654,0.6750474383301708
+ep_79,Single-Goal Spatial Tasks,Object Attributes,0.6666666666666666,0.2508960573476702
+ep_79,Single-Goal Spatial Tasks,Object Recall,0.5294840294840295,0.5995085995085995
+ep_79,Single-Goal Temporal Tasks,Interaction Order,0.439572192513369,0.7026737967914439
+ep_79,Single-Goal Spatial Tasks,Conditional Interaction,0.7053497942386832,0.3325102880658436
+ep_79,Single-Goal Spatial Tasks,Conditional Interaction,0.5170454545454546,0.3196022727272727
+ep_79,Single-Goal Temporal Tasks,Interaction Order,0.7062600321027288,0.8362760834670947
+ep_79,Single-Goal Spatial Tasks,Spatial Relationship,0.45232558139534884,0.4430232558139535
+ep_79,Single-Goal Temporal Tasks,Interaction Order,0.5796296296296297,0.8037037037037038
+ep_79,Multi-Goal Tasks,Ordered Revisitation,0.45636126791141984,0.7086409031697786
+ep_79,Single-Goal Spatial Tasks,Conditional Interaction,0.717948717948718,0.5284900284900285
+ep_79,Single-Goal Temporal Tasks,Interaction Order,0.529891304347826,0.38315217391304346
+ep_79,Single-Goal Spatial Tasks,Spatial Relationship,0.5034883720930233,0.41162790697674423
+ep_79,Single-Goal Temporal Tasks,Duration Tracking,0.7060931899641577,0.2616487455197132
+ep_79,Single-Goal Temporal Tasks,Interaction Order,0.5733695652173914,0.43478260869565216
+ep_79,Single-Goal Spatial Tasks,Spatial Relationship,0.3440860215053763,0.6415770609318996
+ep_79,Single-Goal Temporal Tasks,Interaction Order,0.6524064171122995,0.4374331550802139
+ep_79,Single-Goal Spatial Tasks,Interaction,0.7940917107583775,0.718694885361552
+ep_79,Single-Goal Temporal Tasks,Time-Based,0.5852568875651527,0.6232315711094565
+ep_79,Single-Goal Spatial Tasks,Room Visitation,0.45486111111111105,0.5497685185185186
+ep_79,Single-Goal Spatial Tasks,Conditional Interaction,0.9148936170212766,0.5372340425531914
+ep_79,Multi-Goal Tasks,Unordered Revisitation,0.5555555555555556,0.03225806451612904
+ep_79,Single-Goal Spatial Tasks,Object Attributes,0.4838709677419355,0.3261648745519713
+ep_79,Single-Goal Spatial Tasks,Object Recall,1.0,0.4157608695652174
+ep_79,Single-Goal Temporal Tasks,Interaction Order,0.5953488372093023,0.5837209302325581
+ep_79,Single-Goal Spatial Tasks,Object Attributes,0.9462365591397849,0.18279569892473116
+ep_79,Single-Goal Spatial Tasks,Spatial Relationship,0.6285714285714286,0.3274725274725274
+ep_79,Single-Goal Temporal Tasks,Duration Tracking,0.4693287037037038,0.5844907407407407
+ep_79,Single-Goal Temporal Tasks,Interaction Order,0.7992831541218637,0.6272401433691756
+ep_79,Single-Goal Temporal Tasks,Interaction Order,0.6427807486631016,0.5754010695187166
+ep_79,Multi-Goal Tasks,Unordered Revisitation,0.7817460317460317,0.7945326278659612
+ep_79,Single-Goal Temporal Tasks,Interaction Order,0.4278074866310161,0.6149732620320856
+ep_79,Single-Goal Spatial Tasks,Conditional Interaction,0.6373790022338048,0.5949367088607594
+ep_79,Single-Goal Spatial Tasks,Interaction,0.6170407695831425,0.8772331653687586
+ep_79,Single-Goal Spatial Tasks,Room Visitation,0.47337962962962965,0.6053240740740741
+ep_79,Single-Goal Spatial Tasks,Interaction,0.6540845070422535,0.708169014084507
+ep_79,Multi-Goal Tasks,Unordered Revisitation,0.5080645161290323,0.6124288425047438
+ep_79,Single-Goal Temporal Tasks,Interaction Order,0.7744565217391304,0.7282608695652173
+ep_79,Single-Goal Temporal Tasks,Interaction Order,0.5790697674418605,0.47441860465116276
+ep_79,Single-Goal Spatial Tasks,Conditional Interaction,0.6147672552166934,0.5345104333868379
+ep_79,Multi-Goal Tasks,Unordered Revisitation,0.5297438124185845,0.7585757707338255
+ep_79,Single-Goal Temporal Tasks,Time-Based,0.6487455197132617,0.40143369175627236
+ep_79,Single-Goal Spatial Tasks,Room Visitation,0.4740740740740741,0.5851851851851851
+ep_79,Single-Goal Spatial Tasks,Interaction,0.5834914611005693,0.8031309297912713
+ep_79,Multi-Goal Tasks,Ordered Revisitation,0.6962081128747796,0.8434744268077602
+ep_79,Single-Goal Spatial Tasks,Object Attributes,0.6415770609318996,0.3440860215053763
+ep_79,Single-Goal Temporal Tasks,Interaction Order,0.6663577386468953,0.7071362372567191
+ep_79,Single-Goal Spatial Tasks,Object Attributes,0.5146871008939975,0.7292464878671776
+ep_79,Single-Goal Temporal Tasks,Duration Tracking,0.5652173913043478,0.4592391304347826
+ep_79,Single-Goal Temporal Tasks,Interaction Order,0.22010869565217392,0.328804347826087
+ep_79,Single-Goal Temporal Tasks,Interaction Order,0.4408602150537634,0.24731182795698922
+ep_83,Single-Goal Spatial Tasks,Conditional Interaction,0.3052631578947368,0.4
+ep_83,Multi-Goal Tasks,Unordered Revisitation,0.8853046594982079,0.35125448028673834
+ep_83,Single-Goal Spatial Tasks,Room Visitation,0.3882608695652174,0.5391304347826087
+ep_83,Single-Goal Spatial Tasks,Interaction,0.6183622828784119,0.4893300248138958
+ep_83,Single-Goal Temporal Tasks,Time-Based,0.33684210526315794,0.2315789473684211
+ep_83,Single-Goal Temporal Tasks,Interaction Order,0.8,0.7894736842105263
+ep_83,Single-Goal Spatial Tasks,Conditional Interaction,0.4372759856630824,0.3369175627240143
+ep_83,Single-Goal Spatial Tasks,Spatial Relationship,0.4042553191489362,0.48404255319148937
+ep_83,Single-Goal Temporal Tasks,Duration Tracking,0.3763440860215054,0.6738351254480287
+ep_83,Single-Goal Temporal Tasks,Interaction Order,0.5734767025089605,0.41218637992831536
+ep_83,Single-Goal Spatial Tasks,Spatial Relationship,0.7234042553191489,0.8723404255319149
+ep_83,Single-Goal Spatial Tasks,Object Recall,0.74296875,0.5453125000000001
+ep_83,Multi-Goal Tasks,Ordered Revisitation,0.5868852459016395,0.5690866510538642
+ep_83,Single-Goal Temporal Tasks,Interaction Order,0.46808510638297873,0.6436170212765957
+ep_83,Single-Goal Temporal Tasks,Interaction Order,0.7706093189964157,0.24372759856630824
+ep_83,Single-Goal Spatial Tasks,Conditional Interaction,0.5232974910394266,0.8458781362007168
+ep_83,Single-Goal Spatial Tasks,Spatial Relationship,0.625,0.657608695652174
+ep_83,Single-Goal Temporal Tasks,Interaction Order,0.6329787234042553,0.5
+ep_83,Single-Goal Spatial Tasks,Object Attributes,0.7180851063829787,0.4468085106382979
+ep_83,Multi-Goal Tasks,Ordered Revisitation,0.41223832528180354,0.6264090177133655
+ep_83,Single-Goal Spatial Tasks,Conditional Interaction,0.5626373626373626,0.5428571428571429
+ep_83,Single-Goal Temporal Tasks,Interaction Order,0.34782608695652173,0.37771739130434784
+ep_83,Single-Goal Spatial Tasks,Interaction,0.5171052631578947,0.5276315789473685
+ep_83,Multi-Goal Tasks,Unordered Revisitation,0.6438492063492063,0.6438492063492064
+ep_83,Single-Goal Spatial Tasks,Room Visitation,0.5030434782608696,0.5052173913043477
+ep_83,Single-Goal Spatial Tasks,Interaction,0.727400468384075,0.6627634660421545
+ep_83,Multi-Goal Tasks,Unordered Revisitation,0.6089065255731922,0.7270723104056438
+ep_83,Single-Goal Temporal Tasks,Interaction Order,0.6331521739130435,0.47554347826086957
+ep_83,Single-Goal Temporal Tasks,Interaction Order,0.34767025089605735,0.2114695340501792
+ep_83,Single-Goal Temporal Tasks,Duration Tracking,0.31182795698924726,0.16129032258064516
+ep_83,Single-Goal Temporal Tasks,Interaction Order,0.942652329749104,0.5340501792114696
+ep_83,Single-Goal Spatial Tasks,Object Attributes,0.5734767025089605,0.3405017921146953
+ep_83,Single-Goal Spatial Tasks,Object Recall,0.9318996415770608,0.7383512544802867
+ep_83,Single-Goal Spatial Tasks,Object Attributes,0.8776595744680852,0.7765957446808511
+ep_83,Single-Goal Temporal Tasks,Interaction Order,0.5017921146953405,0.5232974910394266
+ep_83,Single-Goal Spatial Tasks,Interaction,0.512614063338701,0.47987117552334935
+ep_83,Multi-Goal Tasks,Ordered Revisitation,0.5012406947890817,0.5379652605459057
+ep_83,Single-Goal Spatial Tasks,Room Visitation,0.2967032967032967,0.3142857142857143
+ep_83,Multi-Goal Tasks,Unordered Revisitation,0.6056206088992975,0.5409836065573771
+ep_83,Single-Goal Temporal Tasks,Interaction Order,0.5489130434782609,0.608695652173913
+ep_83,Single-Goal Temporal Tasks,Time-Based,0.46808510638297873,0.7712765957446808
+ep_83,Single-Goal Temporal Tasks,Interaction Order,0.8853046594982079,0.7526881720430106
+ep_83,Single-Goal Spatial Tasks,Conditional Interaction,0.512087912087912,0.6945054945054945
+ep_83,Single-Goal Spatial Tasks,Interaction,0.5515625000000001,0.4921875
+ep_83,Multi-Goal Tasks,Unordered Revisitation,0.5169082125603864,0.6247987117552334
+ep_83,Single-Goal Spatial Tasks,Room Visitation,0.5858747993579454,0.752808988764045
+ep_83,Single-Goal Temporal Tasks,Interaction Order,0.5428571428571429,0.7120879120879121
+ep_83,Multi-Goal Tasks,Unordered Revisitation,0.6148883374689826,0.5806451612903225
+ep_83,Single-Goal Spatial Tasks,Interaction,0.5886243386243386,0.4620811287477954
+ep_83,Single-Goal Spatial Tasks,Conditional Interaction,0.6633522727272727,0.4602272727272727
+ep_83,Single-Goal Temporal Tasks,Interaction Order,0.6285714285714286,0.6989010989010989
+ep_83,Single-Goal Temporal Tasks,Duration Tracking,0.48869565217391303,0.3126086956521739
+ep_83,Single-Goal Temporal Tasks,Interaction Order,0.952127659574468,0.8085106382978724
+ep_83,Single-Goal Spatial Tasks,Object Attributes,0.8566308243727598,0.6989247311827957
+ep_83,Single-Goal Spatial Tasks,Spatial Relationship,0.925531914893617,0.8191489361702128
+ep_83,Single-Goal Spatial Tasks,Object Attributes,0.8617021276595745,0.4521276595744681
+ep_83,Single-Goal Temporal Tasks,Interaction Order,0.5591397849462366,0.8100358422939068
+ep_85,Single-Goal Spatial Tasks,Object Recall,0.655921052631579,0.7401315789473684
+ep_85,Single-Goal Spatial Tasks,Object Attributes,0.9068100358422939,0.6093189964157705
+ep_85,Multi-Goal Tasks,Ordered Revisitation,0.525390625,0.66552734375
+ep_85,Single-Goal Spatial Tasks,Conditional Interaction,0.29670329670329676,0.35604395604395606
+ep_85,Single-Goal Temporal Tasks,Interaction Order,0.7164062499999999,0.715625
+ep_85,Single-Goal Spatial Tasks,Spatial Relationship,0.8315217391304348,0.8315217391304348
+ep_85,Single-Goal Spatial Tasks,Conditional Interaction,0.7351851851851852,0.6055555555555556
+ep_85,Single-Goal Temporal Tasks,Interaction Order,0.6093189964157706,0.6344086021505376
+ep_85,Single-Goal Spatial Tasks,Interaction,0.7718297498903027,0.7836770513383062
+ep_85,Multi-Goal Tasks,Unordered Revisitation,0.6810185185185185,0.8962962962962963
+ep_85,Single-Goal Temporal Tasks,Interaction Order,0.6521739130434782,0.5815217391304348
+ep_85,Single-Goal Spatial Tasks,Interaction,0.4018518518518518,0.24629629629629626
+ep_85,Multi-Goal Tasks,Unordered Revisitation,0.5778491171749598,0.5056179775280899
+ep_85,Single-Goal Spatial Tasks,Room Visitation,0.5196969696969698,0.37777777777777777
+ep_85,Single-Goal Spatial Tasks,Interaction,0.7032227032227032,0.6363636363636365
+ep_85,Single-Goal Temporal Tasks,Time-Based,0.532608695652174,0.5244565217391304
+ep_85,Single-Goal Temporal Tasks,Interaction Order,0.7132616487455197,0.9175627240143369
+ep_85,Multi-Goal Tasks,Unordered Revisitation,0.6657608695652174,0.5135869565217391
+ep_85,Single-Goal Spatial Tasks,Room Visitation,0.5087412587412588,0.4558566433566434
+ep_85,Single-Goal Spatial Tasks,Spatial Relationship,0.6487455197132616,0.6630824372759856
+ep_85,Multi-Goal Tasks,Ordered Revisitation,0.6511627906976745,0.8486178148310662
+ep_85,Single-Goal Temporal Tasks,Interaction Order,0.6164874551971326,0.4623655913978495
+ep_85,Single-Goal Temporal Tasks,Interaction Order,0.6331521739130435,0.5788043478260869
+ep_85,Single-Goal Spatial Tasks,Conditional Interaction,0.6909323116219668,0.7292464878671775
+ep_85,Single-Goal Spatial Tasks,Spatial Relationship,0.9068100358422938,0.8566308243727598
+ep_85,Single-Goal Temporal Tasks,Duration Tracking,0.7383512544802868,0.8064516129032259
+ep_85,Single-Goal Temporal Tasks,Interaction Order,0.8853046594982079,0.6451612903225806
+ep_85,Single-Goal Temporal Tasks,Interaction Order,0.73125,0.50859375
+ep_85,Multi-Goal Tasks,Unordered Revisitation,0.70995670995671,0.49350649350649356
+ep_85,Single-Goal Spatial Tasks,Interaction,0.6708333333333333,0.6583333333333333
+ep_85,Single-Goal Spatial Tasks,Conditional Interaction,0.4839910647803425,0.5115413253909158
+ep_85,Single-Goal Spatial Tasks,Interaction,0.5313390313390313,0.48504273504273504
+ep_85,Multi-Goal Tasks,Unordered Revisitation,0.6005859375,0.79052734375
+ep_85,Single-Goal Spatial Tasks,Room Visitation,0.5222222222222223,0.4171717171717172
+ep_85,Single-Goal Spatial Tasks,Object Recall,0.7168458781362007,0.5555555555555556
+ep_85,Single-Goal Spatial Tasks,Object Attributes,0.6333333333333333,0.7351851851851852
+ep_85,Single-Goal Spatial Tasks,Spatial Relationship,0.6057347670250895,0.8387096774193549
+ep_85,Single-Goal Spatial Tasks,Object Attributes,0.6594982078853047,0.4767025089605734
+ep_85,Single-Goal Temporal Tasks,Interaction Order,0.8097826086956522,0.9429347826086957
+ep_85,Single-Goal Temporal Tasks,Interaction Order,0.644955300127714,0.6257982120051085
+ep_85,Single-Goal Temporal Tasks,Duration Tracking,0.4606643356643356,0.5231643356643356
+ep_85,Single-Goal Temporal Tasks,Interaction Order,0.7419354838709677,0.3082437275985663
+ep_85,Single-Goal Spatial Tasks,Object Attributes,0.5259259259259259,0.6370370370370371
+ep_85,Single-Goal Spatial Tasks,Object Attributes,0.6774193548387096,0.7491039426523297
+ep_85,Single-Goal Temporal Tasks,Interaction Order,0.7021276595744681,0.5
+ep_85,Single-Goal Temporal Tasks,Interaction Order,0.3405017921146953,0.14695340501792112
+ep_85,Single-Goal Temporal Tasks,Duration Tracking,0.7634408602150538,0.6021505376344085
+ep_85,Single-Goal Temporal Tasks,Interaction Order,0.5934065934065934,0.6615384615384616
+ep_85,Multi-Goal Tasks,Unordered Revisitation,0.7472575691092584,0.6511627906976745
+ep_85,Single-Goal Temporal Tasks,Interaction Order,0.7907608695652174,0.9157608695652173
+ep_85,Single-Goal Temporal Tasks,Time-Based,0.33333333333333337,0.5985663082437276
+ep_85,Single-Goal Spatial Tasks,Conditional Interaction,0.9197431781701444,0.5521669341894061
+ep_85,Single-Goal Temporal Tasks,Interaction Order,0.6087912087912087,0.6967032967032968
+ep_85,Single-Goal Spatial Tasks,Interaction,0.69384765625,0.83154296875
+ep_85,Multi-Goal Tasks,Ordered Revisitation,0.6094276094276094,0.6594516594516595
+ep_85,Single-Goal Spatial Tasks,Room Visitation,0.6737720111214086,0.49119555143651533
+ep_89,Single-Goal Temporal Tasks,Time-Based,0.7562724014336918,0.7168458781362006
+ep_89,Multi-Goal Tasks,Unordered Revisitation,0.7814831066257131,0.8819657744624836
+ep_89,Single-Goal Temporal Tasks,Interaction Order,0.7,0.7759259259259259
+ep_89,Single-Goal Spatial Tasks,Object Recall,0.7608346709470305,0.7287319422150882
+ep_89,Single-Goal Temporal Tasks,Interaction Order,0.7666666666666666,0.662962962962963
+ep_89,Multi-Goal Tasks,Ordered Revisitation,0.6637002341920375,0.5138173302107728
+ep_89,Single-Goal Spatial Tasks,Interaction,0.8116161616161616,0.9080808080808082
+ep_89,Single-Goal Spatial Tasks,Room Visitation,0.37269841269841264,0.41333333333333333
+ep_89,Single-Goal Spatial Tasks,Spatial Relationship,0.8637992831541218,0.996415770609319
+ep_89,Single-Goal Spatial Tasks,Conditional Interaction,0.7831010452961672,0.7883275261324042
+ep_89,Single-Goal Spatial Tasks,Object Attributes,0.5111111111111111,0.6944444444444444
+ep_89,Single-Goal Temporal Tasks,Interaction Order,0.4012841091492777,0.884430176565008
+ep_89,Single-Goal Spatial Tasks,Object Attributes,0.8777173913043479,0.7744565217391305
+ep_89,Single-Goal Temporal Tasks,Interaction Order,0.5638297872340425,0.6063829787234043
+ep_89,Single-Goal Temporal Tasks,Interaction Order,0.45161290322580644,0.24731182795698925
+ep_89,Single-Goal Temporal Tasks,Duration Tracking,0.7491039426523297,0.6594982078853047
+ep_89,Single-Goal Spatial Tasks,Conditional Interaction,0.7186046511627907,0.6627906976744187
+ep_89,Single-Goal Spatial Tasks,Spatial Relationship,0.663953488372093,0.7976744186046512
+ep_89,Single-Goal Spatial Tasks,Object Attributes,0.985663082437276,0.992831541218638
+ep_89,Single-Goal Temporal Tasks,Interaction Order,0.7463884430176565,0.6934189406099518
+ep_89,Single-Goal Spatial Tasks,Object Attributes,0.7650063856960408,0.6998722860791826
+ep_89,Single-Goal Temporal Tasks,Interaction Order,0.7611111111111111,0.7055555555555556
+ep_89,Single-Goal Temporal Tasks,Interaction Order,0.6648936170212766,0.44148936170212766
+ep_89,Single-Goal Temporal Tasks,Duration Tracking,0.5695006747638327,0.4417453891138101
+ep_89,Single-Goal Spatial Tasks,Interaction,0.8265217391304348,0.9347826086956521
+ep_89,Single-Goal Temporal Tasks,Interaction Order,0.5818181818181819,0.7422459893048128
+ep_89,Multi-Goal Tasks,Unordered Revisitation,0.7231850117096019,0.47681498829039815
+ep_89,Multi-Goal Tasks,Unordered Revisitation,0.7479797979797981,0.7429292929292929
+ep_89,Single-Goal Spatial Tasks,Interaction,0.7459057071960298,0.6898263027295285
+ep_89,Single-Goal Spatial Tasks,Room Visitation,0.45028409090909094,0.5014204545454545
+ep_89,Single-Goal Spatial Tasks,Spatial Relationship,0.878136200716846,0.7706093189964157
+ep_89,Single-Goal Temporal Tasks,Interaction Order,0.8813716404077849,0.680259499536608
+ep_89,Single-Goal Spatial Tasks,Conditional Interaction,0.43956043956043955,0.7164835164835166
+ep_89,Multi-Goal Tasks,Ordered Revisitation,0.6946028960070206,0.7077665642825801
+ep_89,Single-Goal Temporal Tasks,Interaction Order,0.6902173913043479,0.8097826086956521
+ep_89,Single-Goal Spatial Tasks,Spatial Relationship,0.6881720430107526,0.7096774193548386
+ep_89,Single-Goal Temporal Tasks,Interaction Order,0.7472826086956521,0.6929347826086956
+ep_89,Single-Goal Temporal Tasks,Duration Tracking,0.8028673835125447,0.6236559139784946
+ep_89,Single-Goal Temporal Tasks,Time-Based,0.6213903743315508,0.5850267379679145
+ep_89,Single-Goal Spatial Tasks,Interaction,0.7690866510538642,0.7648711943793911
+ep_89,Single-Goal Temporal Tasks,Interaction Order,0.6445868945868946,0.5975783475783476
+ep_89,Single-Goal Spatial Tasks,Object Recall,0.6875,0.5978260869565217
+ep_89,Multi-Goal Tasks,Unordered Revisitation,0.7611111111111111,0.6444444444444445
+ep_89,Single-Goal Spatial Tasks,Room Visitation,0.5918803418803419,0.7122507122507122
+ep_89,Single-Goal Spatial Tasks,Conditional Interaction,0.6594982078853047,0.7491039426523297
+ep_89,Multi-Goal Tasks,Unordered Revisitation,0.7660869565217392,0.8891304347826087
+ep_89,Single-Goal Spatial Tasks,Interaction,0.8336989907854322,0.7542781921895569
+ep_89,Single-Goal Temporal Tasks,Interaction Order,0.8109360518999074,0.7451343836886006
+ep_89,Multi-Goal Tasks,Unordered Revisitation,0.7627906976744186,0.49186046511627907
+ep_89,Single-Goal Spatial Tasks,Interaction,0.685823754789272,0.7330779054916986
+ep_89,Single-Goal Spatial Tasks,Room Visitation,0.5641025641025641,0.6296296296296297
+ep_89,Single-Goal Spatial Tasks,Conditional Interaction,0.5164835164835164,0.8417582417582418
+ep_89,Single-Goal Spatial Tasks,Conditional Interaction,0.6534883720930232,0.39534883720930236
+ep_89,Single-Goal Temporal Tasks,Interaction Order,0.6352941176470588,0.6844919786096256
+ep_89,Single-Goal Spatial Tasks,Object Attributes,0.8064516129032259,0.7849462365591398
+ep_89,Multi-Goal Tasks,Ordered Revisitation,0.5666666666666668,0.8575757575757575
+ep_89,Single-Goal Spatial Tasks,Spatial Relationship,0.8924731182795699,0.6810035842293907
+ep_89,Single-Goal Temporal Tasks,Interaction Order,0.9139784946236559,0.8100358422939068
+ep_92,Single-Goal Temporal Tasks,Duration Tracking,0.541019955654102,0.5467849223946786
+ep_92,Single-Goal Temporal Tasks,Interaction Order,0.6594982078853046,0.5483870967741935
+ep_92,Single-Goal Spatial Tasks,Conditional Interaction,0.8136200716845877,0.3010752688172043
+ep_92,Single-Goal Temporal Tasks,Interaction Order,0.4431673052362708,0.4189016602809706
+ep_92,Single-Goal Spatial Tasks,Object Attributes,0.6994773519163763,0.6594076655052266
+ep_92,Single-Goal Temporal Tasks,Interaction Order,0.608139534883721,0.4790697674418605
+ep_92,Single-Goal Spatial Tasks,Object Attributes,0.8409090909090909,0.6633522727272727
+ep_92,Single-Goal Spatial Tasks,Spatial Relationship,0.4945652173913043,0.8097826086956522
+ep_92,Single-Goal Spatial Tasks,Room Visitation,0.5875831485587584,0.5694013303769401
+ep_92,Single-Goal Spatial Tasks,Interaction,0.5853658536585366,0.6114982578397212
+ep_92,Multi-Goal Tasks,Unordered Revisitation,0.5726851851851852,0.8148148148148148
+ep_92,Multi-Goal Tasks,Unordered Revisitation,0.6036887089518669,0.6410256410256411
+ep_92,Single-Goal Temporal Tasks,Interaction Order,0.4789272030651341,0.5108556832694764
+ep_92,Single-Goal Spatial Tasks,Interaction,0.7412109375,0.7607421875
+ep_92,Single-Goal Spatial Tasks,Object Recall,0.7472826086956522,0.44836956521739135
+ep_92,Single-Goal Spatial Tasks,Room Visitation,0.5809312638580931,0.6257206208425721
+ep_92,Single-Goal Spatial Tasks,Interaction,0.6092592592592593,0.6407407407407406
+ep_92,Multi-Goal Tasks,Ordered Revisitation,0.5717498875393612,0.528115159694107
+ep_92,Single-Goal Temporal Tasks,Interaction Order,0.5494505494505495,0.4351648351648352
+ep_92,Single-Goal Temporal Tasks,Interaction Order,0.5058139534883721,0.4441860465116279
+ep_92,Multi-Goal Tasks,Unordered Revisitation,0.6165870603560574,0.5527572731220147
+ep_92,Single-Goal Temporal Tasks,Time-Based,0.5846153846153846,0.4131868131868132
+ep_92,Single-Goal Temporal Tasks,Duration Tracking,0.36141304347826086,0.5190217391304348
+ep_92,Single-Goal Temporal Tasks,Interaction Order,0.4301075268817204,0.6666666666666667
+ep_92,Single-Goal Temporal Tasks,Interaction Order,0.6967032967032967,0.5934065934065934
+ep_92,Single-Goal Spatial Tasks,Conditional Interaction,0.8944444444444445,0.524074074074074
+ep_92,Single-Goal Spatial Tasks,Object Attributes,0.5106382978723404,0.696808510638298
+ep_92,Single-Goal Temporal Tasks,Interaction Order,0.5006385696040868,0.5006385696040868
+ep_92,Single-Goal Spatial Tasks,Object Attributes,0.6209453197405005,0.6014828544949027
+ep_92,Single-Goal Spatial Tasks,Room Visitation,0.5467849223946786,0.541019955654102
+ep_92,Single-Goal Spatial Tasks,Interaction,0.5450549450549451,0.7076923076923076
+ep_92,Multi-Goal Tasks,Unordered Revisitation,0.4487385936661299,0.5458937198067633
+ep_92,Single-Goal Temporal Tasks,Interaction Order,0.7222222222222223,0.7008547008547008
+ep_92,Single-Goal Spatial Tasks,Conditional Interaction,0.3829787234042553,0.5212765957446808
+ep_92,Single-Goal Spatial Tasks,Interaction,0.67216673903604,0.6860616587060356
+ep_92,Multi-Goal Tasks,Unordered Revisitation,0.7138671875,0.73583984375
+ep_92,Single-Goal Temporal Tasks,Interaction Order,0.8285714285714285,0.7406593406593406
+ep_92,Single-Goal Spatial Tasks,Spatial Relationship,0.7574074074074074,0.5740740740740741
+ep_92,Multi-Goal Tasks,Ordered Revisitation,0.4912037037037037,0.6393518518518518
+ep_92,Single-Goal Spatial Tasks,Object Attributes,0.7611111111111111,0.3814814814814815
+ep_92,Single-Goal Temporal Tasks,Interaction Order,0.4035759897828863,0.421455938697318
+ep_92,Single-Goal Spatial Tasks,Conditional Interaction,0.8695652173913043,0.4891304347826087
+ep_92,Single-Goal Temporal Tasks,Duration Tracking,0.3648148148148148,0.4481481481481482
+ep_92,Single-Goal Temporal Tasks,Interaction Order,0.662962962962963,0.788888888888889
+ep_92,Single-Goal Spatial Tasks,Spatial Relationship,0.8263736263736263,0.49010989010989015
+ep_92,Single-Goal Temporal Tasks,Interaction Order,0.6814814814814815,0.8592592592592593
+ep_92,Multi-Goal Tasks,Ordered Revisitation,0.5818497611810682,0.6482848458532349
+ep_92,Single-Goal Spatial Tasks,Conditional Interaction,0.5585858585858586,0.6085858585858586
+ep_92,Single-Goal Temporal Tasks,Interaction Order,0.33186813186813185,0.2263736263736264
+ep_92,Single-Goal Spatial Tasks,Spatial Relationship,0.4755434782608695,0.5407608695652174
+ep_92,Single-Goal Spatial Tasks,Object Recall,0.7777777777777778,0.4516129032258065
+ep_92,Single-Goal Spatial Tasks,Room Visitation,0.555210643015521,0.6177383592017739
+ep_92,Multi-Goal Tasks,Unordered Revisitation,0.8518518518518519,0.4407407407407407
+ep_92,Single-Goal Spatial Tasks,Conditional Interaction,0.7372159090909092,0.5880681818181819
+ep_92,Single-Goal Temporal Tasks,Interaction Order,0.4457215836526181,0.5683269476372924
+ep_92,Single-Goal Spatial Tasks,Interaction,0.656770130454341,0.6360773729194782
+ep_92,Single-Goal Temporal Tasks,Time-Based,0.7251028806584362,0.5563786008230454
+ep_94,Single-Goal Spatial Tasks,Room Visitation,0.7000000000000001,0.5518518518518518
+ep_94,Multi-Goal Tasks,Unordered Revisitation,0.5770609318996416,0.5913978494623655
+ep_94,Single-Goal Spatial Tasks,Interaction,0.49053497942386837,0.5283950617283951
+ep_94,Single-Goal Spatial Tasks,Conditional Interaction,0.8031914893617021,0.46808510638297873
+ep_94,Single-Goal Temporal Tasks,Interaction Order,0.7777777777777779,0.7777777777777778
+ep_94,Multi-Goal Tasks,Unordered Revisitation,0.6875822729267221,0.6432645897323388
+ep_94,Single-Goal Spatial Tasks,Object Recall,0.4630681818181818,0.5184659090909091
+ep_94,Single-Goal Spatial Tasks,Interaction,0.697979797979798,0.53989898989899
+ep_94,Single-Goal Temporal Tasks,Interaction Order,0.6808510638297872,0.553191489361702
+ep_94,Single-Goal Spatial Tasks,Spatial Relationship,0.9095744680851063,0.8191489361702127
+ep_94,Single-Goal Temporal Tasks,Interaction Order,0.4631578947368421,0.8210526315789474
+ep_94,Single-Goal Spatial Tasks,Conditional Interaction,0.3829787234042553,0.6755319148936171
+ep_94,Multi-Goal Tasks,Ordered Revisitation,0.34008338296605123,0.7397260273972602
+ep_94,Single-Goal Spatial Tasks,Object Attributes,0.8457446808510638,0.851063829787234
+ep_94,Single-Goal Temporal Tasks,Interaction Order,0.7393617021276595,0.6276595744680851
+ep_94,Single-Goal Temporal Tasks,Duration Tracking,0.7712765957446809,0.5531914893617021
+ep_94,Single-Goal Spatial Tasks,Spatial Relationship,0.6968085106382979,0.6329787234042553
+ep_94,Single-Goal Spatial Tasks,Conditional Interaction,0.723916532905297,0.7608346709470305
+ep_94,Single-Goal Temporal Tasks,Interaction Order,0.7526881720430108,0.7025089605734768
+ep_94,Single-Goal Temporal Tasks,Interaction Order,0.04255319148936171,0.35638297872340424
+ep_94,Multi-Goal Tasks,Ordered Revisitation,0.5590909090909091,0.6328282828282827
+ep_94,Single-Goal Spatial Tasks,Spatial Relationship,0.8776595744680852,0.75
+ep_94,Single-Goal Spatial Tasks,Room Visitation,0.3886710239651416,0.35729847494553374
+ep_94,Multi-Goal Tasks,Unordered Revisitation,0.8351254480286738,0.6630824372759856
+ep_94,Single-Goal Spatial Tasks,Conditional Interaction,0.2421052631578947,0.7473684210526316
+ep_94,Single-Goal Spatial Tasks,Conditional Interaction,0.8817204301075269,0.39068100358422936
+ep_94,Single-Goal Temporal Tasks,Interaction Order,0.39893617021276595,0.5053191489361701
+ep_94,Single-Goal Temporal Tasks,Time-Based,0.8563829787234043,0.9095744680851064
+ep_94,Single-Goal Spatial Tasks,Interaction,0.6057176891006552,0.5467540202501489
+ep_94,Single-Goal Temporal Tasks,Interaction Order,0.7180851063829787,0.39361702127659576
+ep_94,Single-Goal Temporal Tasks,Duration Tracking,0.5372549019607843,0.5006535947712418
+ep_94,Single-Goal Temporal Tasks,Interaction Order,0.7263157894736842,0.6
+ep_94,Single-Goal Spatial Tasks,Conditional Interaction,0.921146953405018,0.7813620071684587
+ep_94,Single-Goal Temporal Tasks,Interaction Order,0.5555555555555555,0.5632183908045977
+ep_94,Single-Goal Spatial Tasks,Object Attributes,0.8457446808510638,0.7659574468085106
+ep_94,Single-Goal Spatial Tasks,Spatial Relationship,0.6956521739130435,0.3179347826086957
+ep_94,Single-Goal Spatial Tasks,Object Attributes,0.3085106382978723,0.7446808510638299
+ep_94,Single-Goal Spatial Tasks,Room Visitation,0.3603485838779956,0.34335511982570804
+ep_94,Multi-Goal Tasks,Unordered Revisitation,0.5836807623585467,0.658129839189994
+ep_94,Single-Goal Spatial Tasks,Interaction,0.4926984126984127,0.5669841269841269
+ep_94,Single-Goal Spatial Tasks,Interaction,0.6691531373409391,0.7060114085125055
+ep_94,Single-Goal Spatial Tasks,Object Recall,0.4787234042553191,0.526595744680851
+ep_94,Multi-Goal Tasks,Unordered Revisitation,0.6420488385944014,0.3436569386539607
+ep_94,Single-Goal Temporal Tasks,Interaction Order,0.5164835164835164,0.49230769230769234
+ep_94,Single-Goal Spatial Tasks,Room Visitation,0.46794871794871795,0.44515669515669515
+ep_94,Multi-Goal Tasks,Ordered Revisitation,0.5342465753424658,0.5503275759380584
+ep_94,Single-Goal Spatial Tasks,Interaction,0.6283502084574151,0.5854675402025015
+ep_94,Single-Goal Temporal Tasks,Interaction Order,0.8882978723404256,0.9521276595744681
+ep_94,Single-Goal Temporal Tasks,Time-Based,0.8776595744680852,0.6117021276595744
+ep_94,Single-Goal Temporal Tasks,Interaction Order,0.5312899106002554,0.7675606641123882
+ep_94,Multi-Goal Tasks,Unordered Revisitation,0.6328282828282827,0.5590909090909091
+ep_94,Single-Goal Temporal Tasks,Interaction Order,0.9893617021276595,0.8776595744680851
+ep_94,Single-Goal Temporal Tasks,Duration Tracking,0.7606382978723405,0.5319148936170213
+ep_94,Single-Goal Temporal Tasks,Interaction Order,0.8723404255319149,0.5478723404255319
+ep_94,Single-Goal Temporal Tasks,Interaction Order,0.5894736842105264,0.34736842105263155
+ep_94,Single-Goal Spatial Tasks,Conditional Interaction,0.44835164835164837,0.24615384615384617
+ep_94,Single-Goal Spatial Tasks,Object Attributes,0.9414893617021276,0.7925531914893617
+ep_94,Single-Goal Spatial Tasks,Object Attributes,0.8764044943820224,0.8089887640449438
+ep_98,Single-Goal Temporal Tasks,Interaction Order,0.7777777777777778,0.6093189964157706
+ep_98,Single-Goal Temporal Tasks,Time-Based,0.7315340909090908,0.6221590909090909
+ep_98,Single-Goal Spatial Tasks,Interaction,0.7079978529253891,0.6296296296296297
+ep_98,Single-Goal Spatial Tasks,Room Visitation,0.6597110754414126,0.5874799357945426
+ep_98,Multi-Goal Tasks,Unordered Revisitation,0.8745519713261649,0.8028673835125448
+ep_98,Single-Goal Spatial Tasks,Conditional Interaction,0.6404494382022472,0.5489566613162119
+ep_98,Single-Goal Temporal Tasks,Interaction Order,0.748015873015873,0.6011904761904762
+ep_98,Single-Goal Temporal Tasks,Interaction Order,0.12234042553191493,0.5053191489361702
+ep_98,Multi-Goal Tasks,Ordered Revisitation,0.5021645021645023,0.6628186628186629
+ep_98,Single-Goal Spatial Tasks,Spatial Relationship,0.6236559139784946,0.40501792114695334
+ep_98,Single-Goal Temporal Tasks,Interaction Order,0.8853046594982078,0.4946236559139785
+ep_98,Single-Goal Temporal Tasks,Duration Tracking,0.33684210526315794,0.42105263157894735
+ep_98,Single-Goal Spatial Tasks,Spatial Relationship,0.2021276595744681,0.6914893617021276
+ep_98,Single-Goal Temporal Tasks,Interaction Order,0.7052631578947368,0.7894736842105263
+ep_98,Single-Goal Spatial Tasks,Conditional Interaction,0.8125,0.6032608695652174
+ep_98,Single-Goal Spatial Tasks,Object Recall,0.8025568181818182,0.7911931818181818
+ep_98,Multi-Goal Tasks,Ordered Revisitation,0.32060185185185186,0.48842592592592593
+ep_98,Single-Goal Spatial Tasks,Object Attributes,0.6657608695652174,0.7228260869565217
+ep_98,Single-Goal Spatial Tasks,Conditional Interaction,0.3179347826086956,0.5407608695652174
+ep_98,Single-Goal Temporal Tasks,Interaction Order,0.8940217391304348,0.9375
+ep_98,Single-Goal Spatial Tasks,Spatial Relationship,0.6032608695652174,0.6793478260869565
+ep_98,Single-Goal Temporal Tasks,Interaction Order,0.6736111111111112,0.7728174603174602
+ep_98,Multi-Goal Tasks,Unordered Revisitation,0.6318082788671023,0.5660130718954248
+ep_98,Single-Goal Spatial Tasks,Interaction,0.7349687349687349,0.719095719095719
+ep_98,Single-Goal Spatial Tasks,Room Visitation,0.4259121370067014,0.5800446760982875
+ep_98,Multi-Goal Tasks,Unordered Revisitation,0.7010869565217392,0.23369565217391305
+ep_98,Single-Goal Spatial Tasks,Interaction,0.6079545454545454,0.43607954545454547
+ep_98,Single-Goal Temporal Tasks,Interaction Order,0.7000000000000001,0.3462962962962963
+ep_98,Single-Goal Spatial Tasks,Object Attributes,0.48641304347826086,0.32065217391304346
+ep_98,Single-Goal Spatial Tasks,Object Attributes,0.6335227272727273,0.6704545454545455
+ep_98,Single-Goal Temporal Tasks,Interaction Order,0.8559782608695652,0.2391304347826087
+ep_98,Single-Goal Temporal Tasks,Duration Tracking,0.4042553191489362,0.6436170212765957
+ep_98,Single-Goal Temporal Tasks,Interaction Order,0.675531914893617,0.35638297872340424
+ep_98,Single-Goal Temporal Tasks,Interaction Order,0.39361702127659576,0.06914893617021278
+ep_98,Single-Goal Temporal Tasks,Time-Based,0.8233695652173914,0.8777173913043478
+ep_98,Single-Goal Temporal Tasks,Interaction Order,0.3369175627240143,0.5089605734767024
+ep_98,Multi-Goal Tasks,Unordered Revisitation,0.6628186628186629,0.5021645021645023
+ep_98,Single-Goal Spatial Tasks,Conditional Interaction,0.6929347826086956,0.38315217391304346
+ep_98,Single-Goal Spatial Tasks,Room Visitation,0.5294117647058824,0.655994043186895
+ep_98,Multi-Goal Tasks,Ordered Revisitation,0.6709608158883521,0.618894256575416
+ep_98,Single-Goal Spatial Tasks,Interaction,0.6631944444444445,0.666087962962963
+ep_98,Single-Goal Spatial Tasks,Interaction,0.5215686274509804,0.48627450980392156
+ep_98,Multi-Goal Tasks,Unordered Revisitation,0.8180354267310789,0.7058507783145463
+ep_98,Single-Goal Temporal Tasks,Interaction Order,0.4,0.6526315789473685
+ep_98,Single-Goal Spatial Tasks,Conditional Interaction,0.6548913043478262,0.532608695652174
+ep_98,Single-Goal Spatial Tasks,Room Visitation,0.5874906924795235,0.5353685778108712
+ep_98,Multi-Goal Tasks,Unordered Revisitation,0.6111111111111112,0.6041666666666667
+ep_98,Single-Goal Spatial Tasks,Interaction,0.7625000000000001,0.759375
+ep_98,Single-Goal Temporal Tasks,Interaction Order,0.7318681318681319,0.7890109890109891
+ep_98,Single-Goal Spatial Tasks,Object Attributes,0.8331788693234476,0.6367006487488414
+ep_98,Single-Goal Spatial Tasks,Object Recall,0.8940217391304348,0.6277173913043479
+ep_98,Single-Goal Spatial Tasks,Spatial Relationship,0.6093189964157706,0.7885304659498207
+ep_98,Single-Goal Spatial Tasks,Object Attributes,0.7146739130434783,0.3532608695652174
+ep_98,Single-Goal Temporal Tasks,Interaction Order,0.8563829787234043,0.49468085106382975
+ep_98,Single-Goal Temporal Tasks,Duration Tracking,0.47631578947368425,0.3585526315789474
+ep_98,Single-Goal Temporal Tasks,Interaction Order,0.9133226324237561,0.8892455858747994

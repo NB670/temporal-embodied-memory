@@ -1,0 +1,30 @@
+# All settings fixed before running the experiments (2026-11-20).
+dataset:
+  repo: yali30/findingdory-subsampled-96
+  revision: 95afe1e8ef355e06f27000851fc4033266bdd480
+  split: validation
+  episodes: all            # "all" = all 100 val episodes; or a path to a subset json
+  dev_subset: data/metadata/subset_episodes.json   # 30 eps inspected in Phase 2/3
+
+encoder:
+  model_name: ViT-B-32
+  pretrained: laion2b_s34b_b79k
+  mask_overlay: true
+  pad_to_square: true
+  strip_prefix: true
+
+# Question-independent control prompt, chosen before seeing any results with it.
+generic_prompt: "a robot gripper picking up or placing an object"
+
+budgets: [4, 8, 16, 32]
+main_budget: 8
+radii: [0, 1, 2, 4]
+main_radius: 2
+anchor_fracs: [0.25, 0.5, 0.75]
+main_anchor_frac: 0.5
+random_seeds: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9]
+
+statistics:
+  bootstrap_reps: 5000
+  bootstrap_seed: 0
+  ci: 0.95

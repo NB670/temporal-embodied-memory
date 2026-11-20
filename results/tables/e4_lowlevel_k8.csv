@@ -1,0 +1,89 @@
+low,high,kind,name,mean,ci_lo,ci_hi,p_value,n_questions,n_episodes
+Conditional Interaction,Single-Goal Spatial Tasks,level,random,0.4493288590604027,0.42063732086295874,0.47847771057960703,,596,100
+Conditional Interaction,Single-Goal Spatial Tasks,level,uniform,0.5436241610738255,0.49417637271214643,0.5922182144925562,,596,100
+Conditional Interaction,Single-Goal Spatial Tasks,level,semantic_generic,0.6778523489932886,0.6415378660981675,0.7135595349629503,,596,100
+Conditional Interaction,Single-Goal Spatial Tasks,level,semantic,0.6258389261744967,0.5825082508250825,0.6683501683501684,,596,100
+Conditional Interaction,Single-Goal Spatial Tasks,level,tnr,0.5302013422818792,0.487602277866864,0.5726210350584308,,596,100
+Conditional Interaction,Single-Goal Spatial Tasks,diff,tnr - semantic,-0.09563758389261745,-0.12542372881355932,-0.06609931755887456,0.0,596,100
+Conditional Interaction,Single-Goal Spatial Tasks,diff,semantic - uniform,0.08221476510067115,0.026399388707343655,0.1382812675660483,0.0048,596,100
+Conditional Interaction,Single-Goal Spatial Tasks,diff,semantic - semantic_generic,-0.05201342281879195,-0.09800664451827243,-0.0033443420193075436,0.0384,596,100
+Duration Tracking,Single-Goal Temporal Tasks,level,random,0.5752508361204014,0.5468227424749164,0.6040003344481605,,299,100
+Duration Tracking,Single-Goal Temporal Tasks,level,uniform,0.6755852842809364,0.6254180602006689,0.725752508361204,,299,100
+Duration Tracking,Single-Goal Temporal Tasks,level,semantic_generic,0.7625418060200669,0.7123745819397993,0.8114636295844347,,299,100
+Duration Tracking,Single-Goal Temporal Tasks,level,semantic,0.5819397993311036,0.5366666666666666,0.63,,299,100
+Duration Tracking,Single-Goal Temporal Tasks,level,tnr,0.45819397993311034,0.4175084175084175,0.5,,299,100
+Duration Tracking,Single-Goal Temporal Tasks,diff,tnr - semantic,-0.12374581939799331,-0.16333333333333333,-0.08666666666666667,0.0,299,100
+Duration Tracking,Single-Goal Temporal Tasks,diff,semantic - uniform,-0.09364548494983277,-0.15666666666666668,-0.030100334448160536,0.0028,299,100
+Duration Tracking,Single-Goal Temporal Tasks,diff,semantic - semantic_generic,-0.1806020066889632,-0.23825503355704697,-0.12374581939799331,0.0,299,100
+Interaction,Single-Goal Spatial Tasks,level,random,0.874450084602369,0.8587534743407226,0.8895451280653642,,591,100
+Interaction,Single-Goal Spatial Tasks,level,uniform,0.9187817258883249,0.8911184970850847,0.9426644182124789,,591,100
+Interaction,Single-Goal Spatial Tasks,level,semantic_generic,0.9357021996615905,0.9172297297297297,0.9525423728813559,,591,100
+Interaction,Single-Goal Spatial Tasks,level,semantic,0.9103214890016921,0.8905723905723906,0.9303904923599321,,591,100
+Interaction,Single-Goal Spatial Tasks,level,tnr,0.8781725888324873,0.8517840880689245,0.9041118913318751,,591,100
+Interaction,Single-Goal Spatial Tasks,diff,tnr - semantic,-0.032148900169204735,-0.055557897695334445,-0.011764705882352941,0.0032,591,100
+Interaction,Single-Goal Spatial Tasks,diff,semantic - uniform,-0.008460236886632826,-0.03728813559322034,0.023809523809523808,0.6228,591,100
+Interaction,Single-Goal Spatial Tasks,diff,semantic - semantic_generic,-0.025380710659898477,-0.0472972972972973,-0.0033613445378151263,0.0344,591,100
+Interaction Order,Single-Goal Temporal Tasks,level,random,0.42954248366013065,0.4001290849673203,0.45913070351616647,,1530,100
+Interaction Order,Single-Goal Temporal Tasks,level,uniform,0.545751633986928,0.4990166644317191,0.5919759924678248,,1530,100
+Interaction Order,Single-Goal Temporal Tasks,level,semantic_generic,0.7091503267973857,0.67201540436457,0.7472132555867204,,1530,100
+Interaction Order,Single-Goal Temporal Tasks,level,semantic,0.5196078431372549,0.48535286284953394,0.5547493403693932,,1530,100
+Interaction Order,Single-Goal Temporal Tasks,level,tnr,0.36405228758169933,0.3305510396943849,0.39933148621767545,,1530,100
+Interaction Order,Single-Goal Temporal Tasks,diff,tnr - semantic,-0.15555555555555556,-0.17551813471502592,-0.13665803108808292,0.0,1530,100
+Interaction Order,Single-Goal Temporal Tasks,diff,semantic - uniform,-0.026143790849673203,-0.07317073170731707,0.02054340622929092,0.2832,1530,100
+Interaction Order,Single-Goal Temporal Tasks,diff,semantic - semantic_generic,-0.1895424836601307,-0.22876133045094244,-0.14964139102484147,0.0,1530,100
+Object Attributes,Single-Goal Spatial Tasks,level,random,0.43095723014256626,0.3977775524002704,0.4651020408163265,,491,100
+Object Attributes,Single-Goal Spatial Tasks,level,uniform,0.5336048879837068,0.46842854405890905,0.5996036585365853,,491,100
+Object Attributes,Single-Goal Spatial Tasks,level,semantic_generic,0.7556008146639511,0.7046728435787843,0.8048780487804879,,491,100
+Object Attributes,Single-Goal Spatial Tasks,level,semantic,0.6985743380855397,0.6585365853658537,0.7363083164300203,,491,100
+Object Attributes,Single-Goal Spatial Tasks,level,tnr,0.5865580448065173,0.5426829268292683,0.6293335710810788,,491,100
+Object Attributes,Single-Goal Spatial Tasks,diff,tnr - semantic,-0.1120162932790224,-0.14142129800024533,-0.08246998430274496,0.0,491,100
+Object Attributes,Single-Goal Spatial Tasks,diff,semantic - uniform,0.164969450101833,0.08571428571428572,0.2408906882591093,0.0,491,100
+Object Attributes,Single-Goal Spatial Tasks,diff,semantic - semantic_generic,-0.05702647657841141,-0.10816879512541211,-0.006085192697768763,0.0312,491,100
+Object Recall,Single-Goal Spatial Tasks,level,random,0.5475,0.5094875,0.5855,,200,100
+Object Recall,Single-Goal Spatial Tasks,level,uniform,0.675,0.605,0.74,,200,100
+Object Recall,Single-Goal Spatial Tasks,level,semantic_generic,0.795,0.735,0.85,,200,100
+Object Recall,Single-Goal Spatial Tasks,level,semantic,0.82,0.765,0.875,,200,100
+Object Recall,Single-Goal Spatial Tasks,level,tnr,0.7,0.635,0.76,,200,100
+Object Recall,Single-Goal Spatial Tasks,diff,tnr - semantic,-0.12,-0.175,-0.07,0.0,200,100
+Object Recall,Single-Goal Spatial Tasks,diff,semantic - uniform,0.145,0.06,0.2301249999999982,0.0012,200,100
+Object Recall,Single-Goal Spatial Tasks,diff,semantic - semantic_generic,0.025,-0.045,0.095,0.522,200,100
+Ordered Revisitation,Multi-Goal Tasks,level,random,0.4024173881673882,0.37444432269119765,0.43137949134199133,,300,100
+Ordered Revisitation,Multi-Goal Tasks,level,uniform,0.5141910774410773,0.47049993386243383,0.5587636574074074,,300,100
+Ordered Revisitation,Multi-Goal Tasks,level,semantic_generic,0.6835685425685424,0.6489089135401634,0.718949954906205,,300,100
+Ordered Revisitation,Multi-Goal Tasks,level,semantic,0.4301891534391533,0.3984355068542569,0.4643523027898028,,300,100
+Ordered Revisitation,Multi-Goal Tasks,level,tnr,0.3158683261183262,0.2889657557720058,0.34371831409331405,,300,100
+Ordered Revisitation,Multi-Goal Tasks,diff,tnr - semantic,-0.11432082732082731,-0.1357336038961039,-0.09498202260702263,0.0,300,100
+Ordered Revisitation,Multi-Goal Tasks,diff,semantic - uniform,-0.084001924001924,-0.12094125180375179,-0.047105110630110664,0.0,300,100
+Ordered Revisitation,Multi-Goal Tasks,diff,semantic - semantic_generic,-0.2533793891293892,-0.286120640933141,-0.2203819925444926,0.0,300,100
+Room Visitation,Single-Goal Spatial Tasks,level,random,0.8405612244897958,0.8150503925663529,0.8658163265306121,,392,99
+Room Visitation,Single-Goal Spatial Tasks,level,uniform,0.8852040816326531,0.850253807106599,0.9185750636132316,,392,99
+Room Visitation,Single-Goal Spatial Tasks,level,semantic_generic,0.8979591836734694,0.8622448979591837,0.9312977099236641,,392,99
+Room Visitation,Single-Goal Spatial Tasks,level,semantic,0.7755102040816326,0.7346938775510204,0.816793893129771,,392,99
+Room Visitation,Single-Goal Spatial Tasks,level,tnr,0.6709183673469388,0.6186836144954703,0.7244897959183674,,392,99
+Room Visitation,Single-Goal Spatial Tasks,diff,tnr - semantic,-0.10459183673469388,-0.13994910941475827,-0.06905370843989769,0.0,392,99
+Room Visitation,Single-Goal Spatial Tasks,diff,semantic - uniform,-0.1096938775510204,-0.156822443219463,-0.06091370558375635,0.0,392,99
+Room Visitation,Single-Goal Spatial Tasks,diff,semantic - semantic_generic,-0.12244897959183673,-0.1671055550480863,-0.07868020304568528,0.0,392,99
+Spatial Relationship,Single-Goal Spatial Tasks,level,random,0.37626262626262624,0.341430683396731,0.4131334542431799,,396,96
+Spatial Relationship,Single-Goal Spatial Tasks,level,uniform,0.4696969696969697,0.3944020356234097,0.5452318410232982,,396,96
+Spatial Relationship,Single-Goal Spatial Tasks,level,semantic_generic,0.6161616161616161,0.5378787878787878,0.6911392405063291,,396,96
+Spatial Relationship,Single-Goal Spatial Tasks,level,semantic,0.44191919191919193,0.38010204081632654,0.5049757462686567,,396,96
+Spatial Relationship,Single-Goal Spatial Tasks,level,tnr,0.33585858585858586,0.27847387455981726,0.39357373237323723,,396,96
+Spatial Relationship,Single-Goal Spatial Tasks,diff,tnr - semantic,-0.10606060606060606,-0.15538847117794485,-0.056118878849249675,0.0,396,96
+Spatial Relationship,Single-Goal Spatial Tasks,diff,semantic - uniform,-0.027777777777777776,-0.12128712871287128,0.0654911838790932,0.596,396,96
+Spatial Relationship,Single-Goal Spatial Tasks,diff,semantic - semantic_generic,-0.17424242424242425,-0.255640525364043,-0.0890528732514435,0.0,396,96
+Time-Based,Single-Goal Temporal Tasks,level,random,0.4485,0.4075,0.4905124999999999,,200,100
+Time-Based,Single-Goal Temporal Tasks,level,uniform,0.58,0.51,0.65,,200,100
+Time-Based,Single-Goal Temporal Tasks,level,semantic_generic,0.77,0.71,0.83,,200,100
+Time-Based,Single-Goal Temporal Tasks,level,semantic,0.535,0.465,0.605,,200,100
+Time-Based,Single-Goal Temporal Tasks,level,tnr,0.38,0.31,0.455,,200,100
+Time-Based,Single-Goal Temporal Tasks,diff,tnr - semantic,-0.155,-0.22,-0.095,0.0,200,100
+Time-Based,Single-Goal Temporal Tasks,diff,semantic - uniform,-0.045,-0.125,0.04,0.3336,200,100
+Time-Based,Single-Goal Temporal Tasks,diff,semantic - semantic_generic,-0.235,-0.32,-0.15,0.0,200,100
+Unordered Revisitation,Multi-Goal Tasks,level,random,0.41009794131522076,0.3824136809891497,0.4387698325976175,,600,100
+Unordered Revisitation,Multi-Goal Tasks,level,uniform,0.5078218720277544,0.4612650732947608,0.5541828593281718,,600,100
+Unordered Revisitation,Multi-Goal Tasks,level,semantic_generic,0.6725067063927358,0.6339048005473558,0.7112797690939234,,600,100
+Unordered Revisitation,Multi-Goal Tasks,level,semantic,0.5364603222213515,0.5063651564700278,0.5670788979538979,,600,100
+Unordered Revisitation,Multi-Goal Tasks,level,tnr,0.4116402735336559,0.38353089627896614,0.43923693854484297,,600,100
+Unordered Revisitation,Multi-Goal Tasks,diff,tnr - semantic,-0.12482004868769576,-0.1468549989702563,-0.10356402529251796,0.0,600,100
+Unordered Revisitation,Multi-Goal Tasks,diff,semantic - uniform,0.028638450193597252,-0.016640782409991957,0.0741211516628796,0.2056,600,100
+Unordered Revisitation,Multi-Goal Tasks,diff,semantic - semantic_generic,-0.13604638417138418,-0.17309218085155584,-0.09973858392764649,0.0,600,100

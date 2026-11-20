@@ -1,0 +1,20 @@
+[project]
+name = "temporal-embodied-memory"
+version = "0.1.0"
+description = "Budget-matched frame retrieval experiments on the FindingDory embodied-memory benchmark"
+requires-python = ">=3.11,<3.13"
+license = { text = "Apache-2.0" }
+dependencies = [
+  "torch>=2.2", "torchvision", "open_clip_torch>=2.24", "datasets", "huggingface_hub",
+  "pandas", "pyarrow", "numpy", "scipy", "scikit-learn", "opencv-python-headless",
+  "matplotlib", "pyyaml", "requests", "tabulate",
+]
+
+[project.optional-dependencies]
+dev = ["pytest", "pypdf"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+
+[tool.setuptools.packages.find]
+include = ["src*"]
